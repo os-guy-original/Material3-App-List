@@ -16,21 +16,20 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 - [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
+- [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### Weather
+### Miscellaneous
 ------------
 - [Wetter Aktuell](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
-
-### Map Apps
-------------
 - [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
+- [Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
+- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 
 ### Media
 ------------
 - [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
-
 
 ### Tools
 ------------
@@ -44,7 +43,10 @@ Here is a small list of apps that support the Material You design. The list is n
 - [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
 - [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
 - [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
-
+- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
+- [Material Files](https://github.com/zhanghai/MaterialFiles)
+- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
+- [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 
 ### Icons / Wallpaper / Widgets
 ------------
