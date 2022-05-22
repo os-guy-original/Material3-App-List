@@ -5,34 +5,37 @@ Here is a small list of apps that support the Material You design. The list is n
 
 # Known apps:
 
+------------
 ### Reddit Clients
-------------
-- [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
-- [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "Infinity for Reddit")
-- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync&hl=de_CH&gl=US "Sync for Reddit")
+- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
+- [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 
-### News Feed and Readers
 ------------
+### News Feed and Readers
+- [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
-- [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
 - [ReadYou](https://github.com/Ashinch/ReadYou)
+- [News](https://www.f-droid.org/packages/co.appreactor.news/)
 
-### Miscellaneous
 ------------
+### Miscellaneous
+- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [Wetter Aktuell](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
 - [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
 - [Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
-- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 
-### Media
 ------------
+### Media
+- [CloudStream-3](https://github.com/LagradOst/CloudStream-3)
 - [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
 
-### Tools
 ------------
+### Tools
+- [Material Files](https://github.com/zhanghai/MaterialFiles)
 - [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
 - [Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
 - [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
@@ -44,12 +47,11 @@ Here is a small list of apps that support the Material You design. The list is n
 - [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
 - [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
 - [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
-- [Material Files](https://github.com/zhanghai/MaterialFiles)
 - [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 
-### Icons / Wallpaper / Widgets
 ------------
+### Icons / Wallpaper / Widgets
 - [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
 - [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color "Pix Material Colors Icon Pack")
 - [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
