@@ -29,7 +29,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3)
 - [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
-- [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
+- [Auxio](https://github.com/OxygenCobalt/Auxio)
 
 ------------
 ### Tools
