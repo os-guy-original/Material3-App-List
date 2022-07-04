@@ -20,10 +20,10 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ------------
 ### Miscellaneous
 - [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
-- [Wetter Aktuell](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+- [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
 - [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
 - [Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
-
+- [harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
 ------------
 ### Media
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3)
@@ -47,7 +47,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
-
+- [Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 ------------
 ### Icons / Wallpaper / Widgets
 - [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
