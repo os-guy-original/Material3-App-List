@@ -7,6 +7,8 @@ Here is a small list of apps that support the Material You design/theme. The lis
 
 (MDY) Represents app that have both Material Design 3 and Material You theming
 
+❗ Some apps are premium (paid apps) so Interpreted if they're MD3/MY or not by the screenshots
+
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
 
 # Known apps:
