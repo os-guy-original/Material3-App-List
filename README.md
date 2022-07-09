@@ -1,7 +1,10 @@
 # Material You App List
 Here is a small list of apps that support the Material You design/theme. The list is never exhaustive, but will be extended constantly.
+
 (MD) Represents app that follows Material Design 3 guidlines
+
 (MY) Represents app that follows Material You theming
+
 (MDY) Represents app that have both Material Design 3 and Material You theming
 
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
@@ -9,34 +12,34 @@ Here is a small list of apps that support the Material You design/theme. The lis
 # Known apps:
 ### Reddit Clients
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
-- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
-- [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
+- [(MY) Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
+- [(MY) Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 
 ------------
 ### News Feed and Readers
-- [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
+- [(MDY) Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
-- [ReadYou](https://github.com/Ashinch/ReadYou)
-- [News](https://www.f-droid.org/packages/co.appreactor.news/)
+- [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
+- [(MDY) News](https://www.f-droid.org/packages/co.appreactor.news/)
 
 ------------
 ### Miscellaneous
-- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
-- [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+- [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+- [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
 - [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
-- [Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
-- [harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
+- [(MD) Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
+- [(MY) harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
 ------------
 ### Media
-- [CloudStream-3](https://github.com/LagradOst/CloudStream-3)
-- [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
-- [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
-- [Auxio](https://github.com/OxygenCobalt/Auxio)
+- [(MD) CloudStream-3](https://github.com/LagradOst/CloudStream-3)
+- [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
+- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
+- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 
 ------------
 ### Tools
-- [Material Files](https://github.com/zhanghai/MaterialFiles)
+- [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
 - [Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
 - [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
@@ -48,9 +51,9 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
 - [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
 - [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
-- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
-- [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
-- [Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+- [(MDY) All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
+- [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+- [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 ------------
 ### Icons / Wallpaper / Widgets
 - [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
