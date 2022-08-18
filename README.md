@@ -28,6 +28,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ### Miscellaneous
 - [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+- [(MDY) Geometric Weather](https://www.f-droid.org/packages/wangdaye.com.geometricweather/)
 - [(MD) Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
 - [(MY) harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
@@ -57,6 +58,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+- [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 ------------
 ### Icons / Wallpaper / Widgets
 - [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
