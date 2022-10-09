@@ -32,6 +32,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 - [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
+- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot)
 
 ------------
 ### Media
@@ -39,6 +40,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
+- [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 
 ------------
 ### Tools
