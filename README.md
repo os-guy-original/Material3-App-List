@@ -41,6 +41,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
+- [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
 
 ------------
 ### Tools
