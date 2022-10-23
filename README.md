@@ -1,11 +1,10 @@
 # Material You App List
-Here is a small list of apps that support the Material You design/theme. The list is never exhaustive, but will be extended constantly.
+The orginal creator of the list hasn't updated their list in a while, so I intent to do it myself. Here is a list of apps that support the Material You design/theme. The list is never exhaustive, but will be extended constantly.
 
-(MD) Represents app that follows Material Design 3 guidlines
-
-(MY) Represents app that follows Material You theming
-
-(MDY) Represents app that have both Material Design 3 and Material You theming
+### Indicators
+- (MD) Apps that follow Material 3 (Material Design 3)
+- (MY) Apps that follow Material You theming
+- (MDY) Apps that have both Material 3 and Material You theming
 
 ❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not through screenshots
 
