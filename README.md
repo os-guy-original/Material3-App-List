@@ -7,11 +7,22 @@ Here is a small list of apps that support the Material You design/theme. The lis
 
 (MDY) Represents app that have both Material Design 3 and Material You theming
 
-❗ Some apps are premium (paid apps) so Interpreted if they're MD3/MY or not by the screenshots
+❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not through screenshots
 
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
 
 # Known apps:
+### Best Implementation of Material You
+- [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+- [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+- [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+- [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+- [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
+- [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
+- [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+
+------------
 ### Reddit Clients
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - [(MY) Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
@@ -28,20 +39,21 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ### Miscellaneous
 - [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
-- [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 - [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
-- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot)
 
 ------------
 ### Media
-- [(MD) CloudStream-3](https://github.com/rereleased/release)
+- [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream)
 - [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
-- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
-- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 - [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
+- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
+- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
+- [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
+- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot)
 
 ------------
 ### Tools
@@ -50,6 +62,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 - [(MDY) Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - [(MDY) All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
+- [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
