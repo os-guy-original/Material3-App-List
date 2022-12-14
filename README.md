@@ -33,6 +33,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 - [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
 - [(MDY) News](https://github.com/bubelov/news)
+- [(MD) Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 
 ------------
 ### Miscellaneous
