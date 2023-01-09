@@ -64,6 +64,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
+- [(MDY) Mauth](https://github.com/X1nto/Mauth)
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
 - [(MDY) ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
@@ -75,6 +76,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+- [(MY) Etar - Calendar](https://github.com/Etar-Group/Etar-Calendar)
 
 ------------
 ### Icons / Wallpaper / Widgets
