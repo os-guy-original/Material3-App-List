@@ -6,7 +6,8 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - (MY) Apps that follow Material You theming
 - (MDY) Apps that have both Material 3 and Material You theming
 
-❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not through screenshots
+❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots
+❗ All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
 
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
 
@@ -22,14 +23,17 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 
 ------------
-### Reddit Clients
+### Social Media Clients
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - [(MY) Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
 - [(MY) Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
+- [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
 
 ------------
 ### News Feed and Readers
 - [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+- [(MDY) Shosetsu](https://www.f-droid.org/packages/app.shosetsu.android.fdroid/)
 - [(MDY) Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 - [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
 - [(MDY) News](https://github.com/bubelov/news)
@@ -42,7 +46,6 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
-- [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
 
 ------------
 ### Media
@@ -50,6 +53,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 - [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
+- [(MDY) Cinexplore - Movie & TV Tracker](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 - [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 - [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
@@ -65,18 +69,23 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
 - [(MDY) Mauth](https://github.com/X1nto/Mauth)
+- [(MDY) FOSS Browser](https://github.com/scoute-dich/browser)
+- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
+- [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
+
+### Other Tools
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
 - [(MDY) ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
 - [(MDY) TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
 - [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
-- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
 - [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet "Wavelet")
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
 - [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MY) Etar - Calendar](https://github.com/Etar-Group/Etar-Calendar)
+- [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
 
 ------------
 ### Icons / Wallpaper / Widgets
