@@ -1,8 +1,8 @@
-# Material You Apps List
+# 🎨 Material You Apps List
 Material Design 3 emphasizes fluid motion and responsive design, with a focus on providing a more natural and intuitive user experience. The updated design language includes new design components and guidelines for creating immersive experiences, such as using larger and more expressive typography, dynamic color options, and an increased emphasis on designing for touch. Additionally, Material Design 3 places greater emphasis on digital well-being and accessibility, including guidelines for reducing visual clutter and distractions, and for making interfaces more inclusive for users with disabilities. Material Design 3 continues to provide a consistent and recognizable design language across all of Google's products and services, and provides designers with the tools and guidelines they need to create modern, engaging, and effective user interfaces. 
 Here is a curated list of apps (except Googles's) that follow Material You guidelines.
 
-### Indicators
+### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
 - **(MY)** Apps that follow Material You theming.
 - **(MDY)** Apps that have both Material 3 and Material You theming.
@@ -10,7 +10,8 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 ⛔ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots  
 🔗 All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
 
-![Material You](https://uizard.io/static/720d9a28b15c610716c2e0be41157635/4693b/Google-Material-You-cover.webp)
+<img src="https://storage.cloudconvert.com/tasks/7dc90113-f4de-43f2-9177-de1c60600998/Google-Material-You-cover.png?AWSAccessKeyId=cloudconvert-production&Expires=1675531082&Signature=PtB95Z%2FTRcpNAmDXpJaMVZHVRRQ%3D&response-content-disposition=inline%3B%20filename%3D%22Google-Material-You-cover.png%22&response-content-type=image%2Fpng">
+
 
 # Known apps:
 ### 🏆 Best Implementation of Material You
@@ -38,7 +39,7 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 - [(MDY) Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki)
 
 ------------
-### News Feed and Readers
+### 📰 News Feed and Readers
 - [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [(MDY) Shosetsu](https://www.f-droid.org/packages/app.shosetsu.android.fdroid/)
 - [(MDY) Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
@@ -55,7 +56,7 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 - [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 
 ------------
-### Media
+### 🎬 Media
 - [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream)
 - [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
@@ -68,7 +69,7 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 - [(MDY) Symphony](https://github.com/zyrouge/symphony)
 
 ------------
-### Tools
+### ⚙️ Tools
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
@@ -96,7 +97,7 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
 
 ------------
-### Icons / Wallpaper / Widgets
+### 🎴 Icons / Wallpaper / Widgets
 - [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
 - [(MY) Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color "Pix Material Colors Icon Pack")
 - [(MDY) Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
