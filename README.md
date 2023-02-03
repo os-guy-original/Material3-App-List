@@ -1,18 +1,19 @@
-# Material You App List
-The orginal creator of the list hasn't updated their list in a while, so I intent to do it myself. Here is a list of apps that support the Material You design/theme. The list is never exhaustive, but will be extended constantly.
+# Material You Apps List
+Material Design 3 emphasizes fluid motion and responsive design, with a focus on providing a more natural and intuitive user experience. The updated design language includes new design components and guidelines for creating immersive experiences, such as using larger and more expressive typography, dynamic color options, and an increased emphasis on designing for touch. Additionally, Material Design 3 places greater emphasis on digital well-being and accessibility, including guidelines for reducing visual clutter and distractions, and for making interfaces more inclusive for users with disabilities. Material Design 3 continues to provide a consistent and recognizable design language across all of Google's products and services, and provides designers with the tools and guidelines they need to create modern, engaging, and effective user interfaces. 
+Here is a curated list of apps (except Googles's) that follow Material You guidelines.
 
 ### Indicators
-- (MD) Apps that follow Material 3 (Material Design 3)
-- (MY) Apps that follow Material You theming
-- (MDY) Apps that have both Material 3 and Material You theming
+- **(MD)** Apps that follow Material 3 (Material Design 3).
+- **(MY)** Apps that follow Material You theming.
+- **(MDY)** Apps that have both Material 3 and Material You theming.
 
-❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots
-❗ All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
+⛔ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots  
+🔗 All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
 
-![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
+![Material You](https://uizard.io/static/720d9a28b15c610716c2e0be41157635/4693b/Google-Material-You-cover.webp)
 
 # Known apps:
-### Best Implementation of Material You
+### 🏆 Best Implementation of Material You
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
@@ -23,12 +24,18 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 
 ------------
-### Social Media Clients
+### 🌐 Social Media Clients
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+- [(MDY) Moshidon](https://github.com/LucasGGamerM/moshidon)
 - [(MY) Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
 - [(MY) Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
 - [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
+- [(MY) Aliucord (Modded Discord Client)](https://github.com/Aliucord/Aliucord)
+- [(MY) Instander (ModdedIntagram Client)](https://thedise.me/instander/)
+- [(MY) MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=en&gl=US)
+- [(MDY) CookHelper](https://github.com/T8RIN/CookHelper)
+- [(MDY) Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki)
 
 ------------
 ### News Feed and Readers
@@ -58,6 +65,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 - [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
 - [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot)
+- [(MDY) Symphony](https://github.com/zyrouge/symphony)
 
 ------------
 ### Tools
