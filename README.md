@@ -2,6 +2,8 @@
 Material Design 3 emphasizes fluid motion and responsive design, with a focus on providing a more natural and intuitive user experience. The updated design language includes new design components and guidelines for creating immersive experiences, such as using larger and more expressive typography, dynamic color options, and an increased emphasis on designing for touch. Additionally, Material Design 3 places greater emphasis on digital well-being and accessibility, including guidelines for reducing visual clutter and distractions, and for making interfaces more inclusive for users with disabilities. Material Design 3 continues to provide a consistent and recognizable design language across all of Google's products and services, and provides designers with the tools and guidelines they need to create modern, engaging, and effective user interfaces. 
 Here is a curated list of apps (except Googles's) that follow Material You guidelines.
 
+<img src="https://storage.cloudconvert.com/tasks/7dc90113-f4de-43f2-9177-de1c60600998/Google-Material-You-cover.png?AWSAccessKeyId=cloudconvert-production&Expires=1675531082&Signature=PtB95Z%2FTRcpNAmDXpJaMVZHVRRQ%3D&response-content-disposition=inline%3B%20filename%3D%22Google-Material-You-cover.png%22&response-content-type=image%2Fpng">
+
 ### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
 - **(MY)** Apps that follow Material You theming.
@@ -9,9 +11,6 @@ Here is a curated list of apps (except Googles's) that follow Material You guide
 
 ⛔ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots  
 🔗 All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
-
-<img src="https://storage.cloudconvert.com/tasks/7dc90113-f4de-43f2-9177-de1c60600998/Google-Material-You-cover.png?AWSAccessKeyId=cloudconvert-production&Expires=1675531082&Signature=PtB95Z%2FTRcpNAmDXpJaMVZHVRRQ%3D&response-content-disposition=inline%3B%20filename%3D%22Google-Material-You-cover.png%22&response-content-type=image%2Fpng">
-
 
 # Known apps:
 ### 🏆 Best Implementation of Material You
