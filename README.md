@@ -11,7 +11,7 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - **(MDY)** Apps that have both Material 3 and Material You theming.
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MYD or not by the screenshots.
-🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram or Official website of the app.
+🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA or Official website of the app.
 
 # 💎 Hall Of Fame
 ### 🏆 Best Implementation of Material You
@@ -124,11 +124,14 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store)
 - [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 ------------
+### 📁 File Explorers
+- [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
+- [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [[⚠️Requires Additional Setup]]()
+------------
 ### ⚙️ Tools
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
-- [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 - [(MDY) Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
@@ -166,6 +169,7 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - [(MDY) Doodle: Live Wallpapers](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 - [(MDY) Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 
-### 📁 Sources
+### 🪢 Sources
 - Github: [sysworx](https://github.com/sysworx/Material-You-app-list) [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
+
