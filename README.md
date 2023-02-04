@@ -11,7 +11,7 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - **(MDY)** Apps that have both Material 3 and Material You theming.
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MYD or not by the screenshots.
-🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram and Official website of the app.
+🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram or Official website of the app.
 
 # 💎 Hall Of Fame
 ### 🏆 Best Implementation of Material You
@@ -38,11 +38,13 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 	- [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
 	- [(MDY) Moshidon](https://github.com/LucasGGamerM/moshidon)
 - **Discord**
-	- [(MY) Aliucord (Modded Discord Client)](https://github.com/Aliucord/Aliucord)
+	- [(MYD) OpenCord](https://github.com/MateriiApps/OpenCord)
+	- [(MY) Aliucord](https://github.com/Aliucord/Aliucord) [[⚠️Requires Additional Setup]](https://github.com/MrSpidercat/Matu)
 - **Instagram**
-	- [(MY) Instander (ModdedIntagram Client)](https://thedise.me/instander/)
+	- [(MY) Instander](https://thedise.me/instander/)
 - **Telegram**
 	- [(MDY) MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram&hl=en&gl=US)
+	- [(MY) Nekogram](https://nekogram.app/download/), [(MY) Nekogram X](https://github.com/NekoX-Dev/NekoX)
 - **Miscellaneous**
 	- [(MDY) CookHelper](https://github.com/T8RIN/CookHelper)
 	- [(MDY) Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki)
@@ -60,33 +62,36 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 	- [(MDY) News](https://github.com/bubelov/news)
 	- [(MD) Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- [(MY) Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
+
 ------------
 ### 🏠 Launchers
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [(MDY) Pixel Launcher Extended (Modded Pixel Launcher)](https://github.com/saitamasahil/Pixel-Launcher-Extended)
-
+- [(MY) Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
 
 ------------
 ### 📝 Notes
 - [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [(MDY) Saber](https://github.com/adil192/saber)
 - [(MDY) MoeMemos](https://github.com/mudkipme/MoeMemosAndroid)
-
+- [(MD) Quillpad](https://github.com/quillpad/quillpad)
 
 ------------
 ### 🎬 Media
 - **Music Players**
-	- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
+	- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer"), [Metro (Fork)](https://github.com/MuntashirAkon/Metro)
 	- [(MDY) Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_IN&gl=US)
 	- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
-	- [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
 	- [(MDY) Symphony](https://github.com/zyrouge/symphony)
-- **Spotify Clients**
+- **Spotify Clients** 
 	- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot), [Fork](https://github.com/BobbyESP/Jetispot)
 	- [(MD) Spotube](https://github.com/KRTirtho/spotube)
 - **Youtube Clients**
 	- [(MDY) LibreTube](https://github.com/libre-tube/LibreTube)
+- **Youtube Music Clients**
+	- [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
+	- [(MDY) ViMusic](https://github.com/vfsfitvnm/ViMusic)
 - **Movies/Shows/Anime Streaming Services**
 	- [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream)
 	- [(MDY) Aniyomi](https://github.com/jmir1/aniyomi)
@@ -102,10 +107,26 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - [(MDY) Bromite](https://github.com/bromite/bromite) 
 - [(MDY) Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) 
 ------------
+### 🖌️ Theming Apps
+- **Gboard**
+	- [(MDY) Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3)
+	- [(MDY) Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher)
+	- [(MDY) Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator)
+	- [(MDY) Rboard IME Tester](https://play.google.com/store/apps/details?id=de.dertyp7214.rboardimetester)
+- **MixPlorer**
+	- [(MDY) MixPlorer Theme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator)
+	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator)
+- **Telegram**
+	- [(MDY) Telegram Monet](https://github.com/c3r5b8/Telegram-Monet)
+	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator)
+------------
+### 🛍️App Stores
+- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store)
+- [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
+------------
 ### ⚙️ Tools
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
-- [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
@@ -128,6 +149,9 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MY) Etar - Calendar](https://github.com/Etar-Group/Etar-Calendar)
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
+- [(MDY) miniGallery](https://github.com/kabirnayeem99/miniGallery)
+- [(MDY) Prognoza](https://github.com/davidtakac/prognoza)
+- [(MDY) Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 
 ------------
 ### 🎴 Icons / Wallpaper / Widgets
@@ -142,4 +166,6 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - [(MDY) Doodle: Live Wallpapers](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 - [(MDY) Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 
-
+### 📁 Sources
+- Github: [sysworx](https://github.com/sysworx/Material-You-app-list) [Naverim](https://github.com/Naverim/Material-You-app-list)
+- Reddit: [1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
