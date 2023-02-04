@@ -10,8 +10,8 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 - **(MY)** Apps that follow Material You theming.
 - **(MDY)** Apps that have both Material 3 and Material You theming.
 
-⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MYD or not by the screenshots.
-⚠️ Some apps might require additional setup in order to achieve MY theming.
+⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MYD or not by the screenshots.  
+⚠️ Some apps might require additional setup in order to achieve MY theming.  
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA or Official website of the app.
 
 # 💎 Hall Of Fame
