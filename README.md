@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
 
@@ -243,6 +242,11 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ------------
 ### ⚙️ Miscellaneous Tools
 - new
+- [(MY) Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
+- [(MDY) Obtainium](https://github.com/ImranR98/Obtainium)
+- [(MDY) QuickSwitch](https://github.com/skittles9823/QuickSwitch)
+- [(MDY) YASNAC](https://github.com/RikkaW/YASNAC)
+- [(MDY) Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [(MDY) Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock)
 - [(MDY) Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
 - [(MDY) Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard)
@@ -253,6 +257,19 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
+- [(MDY) Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
+	- [(MDY) SleepCloud: Backup for Sleep](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.port)
+	- [(MDY) CAPTCHA for Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.captchapack)
+- [(MDY) Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
+- [(MDY) Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
+- [(MDY) Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
+- [(MD) Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
+- [(MDY) LIs10: Audio Guides](https://play.google.com/store/apps/details?id=com.urbandroid.lis10)
+- [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
+- [(MDY) Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
+- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
+- [(MDY) Kine: Car sickness aid](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop)
+- [(MD) Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
 - [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ)
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller)
@@ -265,6 +282,14 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
+- [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
+- [(MDY) Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
+- [(MDY) Internet Speed](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator)
+- [(MD) Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
+- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
+- [(MDY) CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
+- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
+- [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 ------------
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
@@ -278,6 +303,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Doodle: Live Wallpapers](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 	- [(MDY) Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 	- [(MDY) Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper)
+	- [(MDY) Pixr: Wallpaper Showcase]
 - **Widgets/Shortcuts**
 	- [(MDY) Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget)
 	- [(MDY) Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
@@ -285,10 +311,10 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts)
 	- [(MDY) AppBar](https://play.google.com/store/apps/details?id=rk.android.app.appbar)
 	- [(MDY) Notification Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts)
+	- [(MDY) Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12)
 - **Dynamic Island**
 	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- [(MDY) Pixel Island ](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C)(🪦Discontinued)
 ### 🪢 Sources
 - GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
-
