@@ -5,7 +5,7 @@ Here is a curated list of apps (except Google's) that follow Material You guidel
 This list is not exhaustive and there may be other apps that also use Material You.
 
 
-<img src="https://storage.cloudconvert.com/tasks/7dc90113-f4de-43f2-9177-de1c60600998/Google-Material-You-cover.png?AWSAccessKeyId=cloudconvert-production&Expires=1675531082&Signature=PtB95Z%2FTRcpNAmDXpJaMVZHVRRQ%3D&response-content-disposition=inline%3B%20filename%3D%22Google-Material-You-cover.png%22&response-content-type=image%2Fpng">
+<a href="https://ibb.co/cFB6dkX"><img src="https://i.ibb.co/k874F56/Google-Material-You-cover.png" alt="Google-Material-You-cover" border="0"></a>
 
 ### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
@@ -16,6 +16,10 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
 🪦 List may contain apps that are discontinued.
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources.
+
+-------
+# 🎰 *Total no. of Apps in the list Currently:*
+
 
 # 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
@@ -141,18 +145,22 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator)
 	- [(MDY) Rboard IME Tester](https://play.google.com/store/apps/details?id=de.dertyp7214.rboardimetester)
 - **MixPlorer**
-	- [(MDY) MixPlorer Theme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator)
+	- [(MDY) MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator)
 	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator)
 - **Telegram**
 	- [(MDY) Telegram Monet](https://github.com/c3r5b8/Telegram-Monet)
 	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator)
 - **SystemUI**
 	- [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+	- [(MDY) Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
+	- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 ------------
 ### 🛍️App Stores
 - **F-Droid Clients**
 	- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store)
 	- [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
+- **Miscellaneous**
+	- [(MDY) Obtainium](https://github.com/ImranR98/Obtainium)
 ------------
 ### 📁 File Explorers
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
@@ -189,6 +197,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MDY) Prognoza](https://github.com/davidtakac/prognoza)
 - [(MY) YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
+- [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 ------------
 ### 🎮 Games/Trivia/Quiz
 - **Games**
@@ -231,6 +240,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ------------
 ### 🔦 Flashlight
 - [(MDY) Flashdim](https://github.com/cyb3rko/flashdim)
+- [(MD) Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
 - [(MY) Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher)
 ------------
 ### 📷 Camera
@@ -240,12 +250,35 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - [(MDY) Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
 ------------
+### 🧘‍♂️ Health & Well-being
+- [(MDY) Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
+	- [(MDY) SleepCloud: Backup for Sleep](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.port)
+	- [(MDY) CAPTCHA for Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.captchapack)
+- [(MDY) Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
+- [(MD) Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
+- [(MDY) Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
+- [(MDY) Kine: Car sickness aid](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop)
+------------
+### ⬇️ YT/Spotify/etc. Downloaders
+- [(MDY) Seal](https://github.com/JunkFood02/Seal)
+- [(MDY) YTDLnis](https://github.com/deniscerri/ytdlnis)
+- [(MDY) Spowlo](https://github.com/BobbyESP/Spowlo)
+------------
+### 📲 Device Info/Monitors
+- [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
+- [(MDY) Internet Speed](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator)
+- [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
+- [(MDY) CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
+- [(MDY) Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro)
+- [(MDY) YASNAC](https://github.com/RikkaW/YASNAC)
+------------
 ### ⚙️ Miscellaneous Tools
 - new
+- [(MDY) Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
+- [(MDY) Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 - [(MY) Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
-- [(MDY) Obtainium](https://github.com/ImranR98/Obtainium)
+- [(MDY) AOSP Enhancer](https://play.google.com/store/apps/details?id=com.looper.enhancer)
 - [(MDY) QuickSwitch](https://github.com/skittles9823/QuickSwitch)
-- [(MDY) YASNAC](https://github.com/RikkaW/YASNAC)
 - [(MDY) Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [(MDY) Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock)
 - [(MDY) Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
@@ -253,41 +286,25 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Compass](https://github.com/SynapseTech/Compass)
 - [(MDY) M3O](https://play.google.com/store/apps/details?id=com.m3o.mobile)
 - [(MDY) Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
-- [(MDY) Spowlo](https://github.com/BobbyESP/Spowlo)
 - [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager)
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
-- [(MDY) Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
-	- [(MDY) SleepCloud: Backup for Sleep](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.port)
-	- [(MDY) CAPTCHA for Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.captchapack)
 - [(MDY) Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
-- [(MDY) Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
 - [(MDY) Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
-- [(MD) Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
-- [(MDY) LIs10: Audio Guides](https://play.google.com/store/apps/details?id=com.urbandroid.lis10)
-- [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
-- [(MDY) Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
-- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
-- [(MDY) Kine: Car sickness aid](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop)
+- [(MDY) Lis10: Audio Guides](https://play.google.com/store/apps/details?id=com.urbandroid.lis10)
 - [(MD) Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
 - [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ)
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller)
 - [(MDY) ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)
 - [(MDY) TapTap](https://github.com/KieronQuinn/TapTap)
-- [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
-- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm )
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
-- [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 - [(MDY) Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
-- [(MDY) Internet Speed](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator)
-- [(MD) Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
 - [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
-- [(MDY) CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
 - [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 - [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 ------------
@@ -303,7 +320,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Doodle: Live Wallpapers](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 	- [(MDY) Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 	- [(MDY) Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper)
-	- [(MDY) Pixr: Wallpaper Showcase]
+	- [(MDY) Pixr: Wallpaper Showcase](https://play.google.com/store/apps/details?id=com.paget96.pixr)
 - **Widgets/Shortcuts**
 	- [(MDY) Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget)
 	- [(MDY) Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
