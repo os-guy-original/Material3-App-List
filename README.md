@@ -14,16 +14,16 @@ This list is not exhaustive and there may be other apps that also use Material Y
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
-🪦 List may contain apps that are discontinued.   
+🪦 List may contain apps that are discontinued.  
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources.
 
 -------
 # 🎰 *Total no. of Apps in the list Currently:*
 
-
 # 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+- [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 - [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
@@ -44,8 +44,8 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - **Twitter**
 	- [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
 - **Mastodon**
-	- [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
 	- [(MDY) Moshidon](https://github.com/LucasGGamerM/moshidon)
+	- [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
 - **Discord**
 	- [(MDY) OpenCord](https://github.com/MateriiApps/OpenCord)
 	- [(MY) Aliucord](https://github.com/Aliucord/Aliucord) [⚠️Requires Additional Setup: [#1](https://github.com/MrSpidercat/Matu) OR [#2](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)]
@@ -60,7 +60,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) LiPari](https://github.com/Stamir36/LiPari-Android)
 	- [(MDY) E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat)
 ------------
-### 📰 Readers
+### 📖 Readers
 - **Manga/Novel Reader**
 	- [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 	- [(MDY) TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
@@ -73,6 +73,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - **RSS Reader**
 	- [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
 	- [(MDY) News](https://github.com/bubelov/news)
+	- [(MDY) Feeder](https://gitlab.com/spacecowboy/Feeder)
 	- [(MD) Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- [(MY) Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
 ------------
@@ -135,6 +136,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ### 🌐 Browsers 
 - [(MDY) FOSS Browser](https://github.com/scoute-dich/browser)
 - [(MDY) Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
+- [(MDY) Thor](https://gitlab.com/remmer.wilts/thor)
 - [(MDY) Bromite](https://github.com/bromite/bromite) 
 - [(MDY) Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) 
 ------------
@@ -166,6 +168,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [⚠️Requires Additional Setup: [#1](https://github.com/DerTyp7214/MixplorerThemeCreator) OR [#2](https://github.com/jamal2362/Monet-Generator)]
 - [(MDY) Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+- [(MDY) Root Explorer (Redesign Mod)](https://t.me/projectmaterial/880)
 ------------
 ### 🧮 Calculators/Unit Convertors
 - [(MDY) Calculator-inator](https://github.com/prathameshmm02/Calculator-inator)
@@ -274,6 +277,38 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ------------
 ### ⚙️ Miscellaneous Tools
 - new
+- [(???) Forager's Journal](https://play.google.com/store/apps/details?id=com.richmondgamesstudio.foraging)
+- [(???) Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
+- [(???) Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
+- [(???) Soberity](https://github.com/KiARC/Sobriety/releases)
+- [(MDY) Disconnect](https://gitlab.com/narektor/disconnect)
+- [(???) openHAB](https://github.com/openhab/openhab-android)
+- [(???) CommunityAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+- [(???) Photon](https://github.com/abhi16180/photon)
+- [(MY) Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
+- [(MDY) SetEdit](https://github.com/MuntashirAkon/SetEdit)
+- [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
+- [(MDY) IPFS Lite](https://f-droid.org/packages/threads.server)
+- [(MDY) Catima](https://github.com/CatimaLoyalty/Android)
+- [(MD) Nostros](https://github.com/KoalaSat/nostros)
+- [(MDY) Fedilab](https://f-droid.org/packages/fr.gouv.etalab.mastodon)
+- [(MDY) Grocy](https://github.com/patzly/grocy-android)
+- [(MDY) Birday](https://github.com/m-i-n-a-r/birday)
+- [(MDY) Menza](https://github.com/Lastaapps/menza)
+- [(MDY) Kizzy](https://github.com/dead8309/Kizzy)
+- [(MDY) Myne](https://github.com/Pool-Of-Tears/Myne)
+- [(MDY) Noice](https://github.com/trynoice/android-app)
+- [(MDY) Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
+- [(MDY) Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
+- [(MDY) Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
+- [(MDY) Image Resizer](https://github.com/T8RIN/ImageResizer)
+- [(MDY) BTC Map](https://github.com/teambtcmap/btcmap-android)
+- [(MDY) Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku)
+- [(MD) Shopin](https://github.com/erdemklync/Shopin)
+- [(MD) Kudoko](https://github.com/Mazahir26/koduko)
+- [(MDY) Gugal](https://gitlab.com/narektor/gugal)
+- [(MDY) Tridenta](https://github.com/Stypox/tridenta)
+- [(MDY) APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438)
 - [(MDY) Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
 - [(MDY) Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 - [(MY) Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
@@ -301,6 +336,8 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm )
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+- [(MDY) App Manager](https://github.com/MuntashirAkon/AppManager)
+- [(MDY) Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter)
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
 - [(MDY) Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
@@ -317,10 +354,12 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- [(MDY) Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
 	- [(MDY) WallYou](https://github.com/Bnyro/WallYou)
-	- [(MDY) Doodle: Live Wallpapers](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+	- [(MDY) Lamartine: Live Wallpaper](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine)
+	- [(MDY) Doodle: Live Wallpapers](https://github.com/patzly/doodle-android)
 	- [(MDY) Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 	- [(MDY) Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper)
 	- [(MDY) Pixr: Wallpaper Showcase](https://play.google.com/store/apps/details?id=com.paget96.pixr)
+	- [(MDY) Pallax](https://github.com/patzly/pallax-android)
 - **Widgets/Shortcuts**
 	- [(MDY) Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget)
 	- [(MDY) Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
@@ -329,6 +368,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) AppBar](https://play.google.com/store/apps/details?id=rk.android.app.appbar)
 	- [(MDY) Notification Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts)
 	- [(MDY) Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12)
+	- [(MDY) Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets)
 - **Dynamic Island**
 	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- [(MDY) Pixel Island ](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C)(🪦Discontinued)
