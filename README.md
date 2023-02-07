@@ -20,9 +20,9 @@ This list is not exhaustive and there may be other apps that also use Material Y
 
 --------
 # 📜 Table Of Contents
-- [📜 Table Of Contents](#---table-of-contents)
-    + [➡️ Indicators](#---indicators)
-- [🎰 *Total no. of Apps in the list Currently:*](#----total-no-of-apps-in-the-list-currently--)
+- [📜 Table Of Contents](#table-of-contents)
+    + [➡️ Indicators](#indicators)
+- [🎰 *Total no. of Apps in the list Currently:*](#total-no-of-apps-in-the-list-currently--)
 - [🏛️ Hall Of Fame](#----hall-of-fame)
     + [🏆 Best Implementation of Material You](#---best-implementation-of-material-you)
     + [💩 Worst Implementation of Material You](#---worst-implementation-of-material-you)
