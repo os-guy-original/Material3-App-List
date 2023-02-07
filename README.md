@@ -1,3 +1,4 @@
+
 <h1 align="center">🎨 Material You Apps List</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
 
@@ -72,7 +73,8 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
 🪦 List may contain apps that are discontinued.  
-🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources.
+🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources. Please report any broken links.
+
 
 -------
 # 🎰 *Total no. of Apps in the list Currently:*
