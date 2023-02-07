@@ -15,7 +15,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
   </a>
 </p>
 
-
 --------
 # 📜 Table Of Contents
 - [➡️ Indicators](#%EF%B8%8F-indicators)
@@ -486,12 +485,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 😼 Author
 <p>
 <a href="https://github.com/nyas1">
-  <img src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
-	</a>
+  <img src="https://img.shields.io/badge/GitHub-nyas1-white.svg?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 	<a href="https://discord.com/users/528161316033265674">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-Nyas%233816-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
+</a>
   </a>
   <a href="https://t.me/nyas69">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
-  </a>
+  <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+</a>
 </p>
