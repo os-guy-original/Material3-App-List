@@ -1,5 +1,6 @@
 <h1 align="center">🎨 Material You Apps List</h1>
-Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.  
+Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
+
 Here is a curated list of apps (except Google's) that follow Material You guidelines.  
 This list is not exhaustive and there may be other apps that also use Material You.
 
@@ -31,6 +32,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 ### 💩 Worst Implementation of Material You
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
+- [(MDY) Musify](https://github.com/gokadzev/Musify)
 - [(MY) Nova Launcher](https://novalauncher.com/beta)
 - [(MD) Spotube](https://github.com/KRTirtho/spotube)
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler)
@@ -43,6 +45,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MY) Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - **Twitter**
 	- [(MY) harpy for Twitter](https://github.com/robertodoering/harpy)
+	- [(MY) Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
 - **Mastodon**
 	- [(MDY) Moshidon](https://github.com/LucasGGamerM/moshidon)
 	- [(MY) Megalodon for Mastodon](https://github.com/sk22/megalodon)
@@ -59,11 +62,11 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki)
 	- [(MDY) LiPari](https://github.com/Stamir36/LiPari-Android)
 	- [(MDY) E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat)
-	- [(MD) Nostros](https://github.com/KoalaSat/nostros)
 	- [(MDY) Fedilab](https://f-droid.org/packages/fr.gouv.etalab.mastodon)
+	- [(MD) Nostros](https://github.com/KoalaSat/nostros)
 ------------
 ### 📖 Readers
-- **Manga/Novel Reader**
+- **Manga/Novel/E-book Reader**
 	- [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 	- [(MDY) TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 	- [(MDY) Shosetsu](https://gitlab.com/shosetsuorg/shosetsu)
@@ -71,6 +74,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Kotastu](https://github.com/KotatsuApp/Kotatsu)
 	- [(MDY) Ranobe](https://github.com/ranobe-org/ranobe)
 	- [(MDY) Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer)
+	- [(MDY) Myne](https://github.com/Pool-Of-Tears/Myne)
 	- [(MY) Hentoid](https://github.com/h6rd/Hentoid-Material-You)
 - **RSS Reader**
 	- [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
@@ -83,9 +87,9 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [(MDY) Pixel Launcher Extended (Modded)](https://github.com/saitamasahil/Pixel-Launcher-Extended)
-- [(MY) Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
 - [(MDY) Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 - [(MDY) Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher)
+- [(MY) Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
 ------------
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
@@ -93,16 +97,18 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Saber](https://github.com/adil192/saber)
 	- [(MDY) Firenote](https://github.com/T8RIN/Firenote)
 	- [(MDY) Spooky](https://github.com/juniorise/spooky-mb)
-	- [(MD) Quillpad](https://github.com/quillpad/quillpad)
 	- [(MDY) MoeMemos](https://github.com/mudkipme/MoeMemosAndroid)
 	- [(MDY) Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes)
+	- [(MD) Quillpad](https://github.com/quillpad/quillpad)
 - **Wishlists**
 	- [(MDY) Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
 	- [(MDY) Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
-	- [(MY) Scheduler](https://github.com/dgudim/Scheduler)
 	- [(MDY) Tecla](https://github.com/berhram/Tecla)
 	- [(MDY) Birday](https://github.com/m-i-n-a-r/birday)
+	- [(MDY) Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
+	- [(MDY) Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
+	- [(MY) Scheduler](https://github.com/dgudim/Scheduler)
 ------------
 ### 🎬 Media
 - **Music Players**
@@ -111,8 +117,9 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
 	- [(MDY) Symphony](https://github.com/zyrouge/symphony)
 	- [(MDY) Zen](https://github.com/pakka-papad/Zen)
-	- [(MY) Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 	- [(MDY) Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player)
+	- [(MDY) Musify](https://github.com/gokadzev/Musify)
+	- [(MY) Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 	- [(MD) mucke](https://github.com/moritz-weber/mucke)
 - **Spotify Clients** 
 	- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot), [Fork](https://github.com/BobbyESP/Jetispot)
@@ -124,17 +131,18 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - **Youtube Music Clients**
 	- [(MDY) InnerTune](https://github.com/z-huang/InnerTune)
 	- [(MDY) ViMusic](https://github.com/vfsfitvnm/ViMusic)
+	- [(MDY) Vibe Music](https://github.com/sheikhhaziq/vibemusic)
 - **Movies/Shows/Anime Streaming Services**
-	- [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream)
 	- [(MDY) Aniyomi](https://github.com/jmir1/aniyomi)
+	- [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream)
 - **Tracking Services**
-	- [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
 	- [(MDY) Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+	- [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
 - **Equalizers**
 	- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
-	- [(MY) Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
 	- [(MDY) ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482)
+	- [(MY) Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
 ------------
 ### 🌐 Browsers 
 - [(MDY) FOSS Browser](https://github.com/scoute-dich/browser)
@@ -157,6 +165,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator)
 - **SystemUI**
 	- [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+	- [(MDY) Iconify](https://github.com/Mahmud0808/Iconify)
 	- [(MDY) Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
 	- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 ------------
@@ -169,9 +178,9 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ------------
 ### 📁 File Explorers
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
-- [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [⚠️Requires Additional Setup: [#1](https://github.com/DerTyp7214/MixplorerThemeCreator) OR [#2](https://github.com/jamal2362/Monet-Generator)]
 - [(MDY) Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
 - [(MDY) Root Explorer (Redesign Mod)](https://t.me/projectmaterial/880)
+- [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [⚠️Requires Additional Setup: [#1](https://github.com/DerTyp7214/MixplorerThemeCreator) OR [#2](https://github.com/jamal2362/Monet-Generator)]
 ------------
 ### 🧮 Calculators/Unit Convertors
 - [(MDY) Calculator-inator](https://github.com/prathameshmm02/Calculator-inator)
@@ -189,6 +198,8 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio)
 - **Cryptocurrency**
 	- [(MDY) PapriCoin](https://github.com/T8RIN/PapriCoin)
+	- [(MD) AgoraDesk](https://f-droid.org/en/packages/com.agoradesk.app/)
+	- [(MD) LocalMonero](https://f-droid.org/en/packages/co.localmonero.app)
 - **Miscellaneous**
 	- [(MDY) Catima](https://github.com/CatimaLoyalty/Android)
 	- [(MDY) Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
@@ -198,6 +209,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Mauth](https://github.com/X1nto/Mauth)
 - **Password/Pin Manager**
 	- [(MDY) Pincredible](https://github.com/cyb3rko/pincredible)
+	- [(MD?) KeySpace](https://github.com/Keyspace-cloud/android)
 - **Miscellaneous**
 	- [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release)
 	- [(MDY) Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
@@ -206,14 +218,15 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 - [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 - [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
+- [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/)
 - [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
 ------------
 ### 🌦️ Weather
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MDY) Prognoza](https://github.com/davidtakac/prognoza)
-- [(MY) YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 - [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
+- [(MY) YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 ------------
 ### 🎮 Games/Trivia/Quiz
 - **Games**
@@ -229,6 +242,9 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) miniGallery](https://github.com/kabirnayeem99/miniGallery)
 - [(MDY) Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [(MY) Aves](https://github.com/deckerst/aves)
+- **Tools**
+	- [(MDY) Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
+	- [(MDY) Image Resizer](https://github.com/T8RIN/ImageResizer)
 ------------
 ### 🔬 Scanners
 - [(MDY) Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
@@ -262,6 +278,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 ------------
 ### 📷 Camera
 - [(MY) Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera)
+- [(MD) Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
 ------------
 ### 🎙️ Audio Recorder
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
@@ -306,6 +323,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - **App Managers**
 	- [(MDY) App Manager](https://github.com/MuntashirAkon/AppManager)
 	- [(MDY) Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+	- [(MDY) Hail](https://github.com/aistra0528/Hail)
 	- [(MY) Inure](https://github.com/Hamza417/Inure)
 - **Download Managers**
 	- [(MY) Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
@@ -326,46 +344,50 @@ This list is not exhaustive and there may be other apps that also use Material Y
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 - [(MDY) Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup)
 ------------
-### 📧 Email Client
+### 📧 Email Clients
 - [(MY) Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - [(MY) FairEmail](https://github.com/M66B/FairEmail)
-
+------------
+### 📟 Terminal Emulators
+- [(MDY) Termux Monet](https://github.com/HardcodedCat/termux-monet)
+------------
+### 🈸 Translators
+- [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
+- [(MDY) Lentil Translate](https://f-droid.org/packages/dev.atajan.lingva_android)
+------------
+### 👋 Gesture Control
+- [(MDY) TapTap](https://github.com/KieronQuinn/TapTap)
+- [(MD) Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
+------------
 ### ⚙️ Miscellaneous Tools
 - new
-- [(???) Forager's Journal](https://play.google.com/store/apps/details?id=com.richmondgamesstudio.foraging)
-- [(???) Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
-- [(???) openHAB](https://github.com/openhab/openhab-android)
-- [(???) CommunityAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
-- [(???) Photon](https://github.com/abhi16180/photon)
-- [(MY) Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
+- [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku)
+- [(MDY) SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter)
+- [(MDY) Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
+- [(MDY) NowPlaying](https://github.com/KieronQuinn/NowPlaying)
+- [(MDY) openHAB](https://github.com/openhab/openhab-android)
+	- [(MDY) LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app)
+- [(MDY) CommunityAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+- [(MD) Photon](https://github.com/abhi16180/photon)
 - [(MDY) SetEdit](https://github.com/MuntashirAkon/SetEdit)
 - [(MDY) IPFS Lite](https://f-droid.org/packages/threads.server)
 - [(MDY) Menza](https://github.com/Lastaapps/menza)
 - [(MDY) Kizzy](https://github.com/dead8309/Kizzy)
-- [(MDY) Myne](https://github.com/Pool-Of-Tears/Myne)
-- [(MDY) Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
-- [(MDY) Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
-- [(MDY) Image Resizer](https://github.com/T8RIN/ImageResizer)
 - [(MDY) Gugal](https://gitlab.com/narektor/gugal)
 - [(MDY) APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438)
-- [(MDY) Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 - [(MDY) AOSP Enhancer](https://play.google.com/store/apps/details?id=com.looper.enhancer)
 - [(MDY) QuickSwitch](https://github.com/skittles9823/QuickSwitch)
-- [(MDY) Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [(MDY) Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock)
 - [(MDY) Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
 - [(MDY) Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard)
 - [(MDY) M3O](https://github.com/m3o/m3o-android)
 - [(MDY) Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
-- [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou)
 - [(MDY) Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
 - [(MDY) Lis10: Audio Guides](https://play.google.com/store/apps/details?id=com.urbandroid.lis10)
-- [(MD) Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
 - [(MDY) DarQ](https://github.com/KieronQuinn/DarQ)
 - [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller)
 - [(MDY) ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)
-- [(MDY) TapTap](https://github.com/KieronQuinn/TapTap)
-- [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm )
+- [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter)
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/)
