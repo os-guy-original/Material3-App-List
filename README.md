@@ -33,7 +33,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
     - [🎬 Media](#-media)
     - [🌐 Browsers](#-browsers)
     - [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
-    - [🛍️ App Stores](#%EF%B8%8F-app-stores))
+    - [🛍️ App Stores](#%EF%B8%8F-app-stores)
     - [📁 File Explorers](#-file-explorers)
     - [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
     - [💸 Economy](#-economy)
