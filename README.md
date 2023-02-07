@@ -20,7 +20,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 
 --------
 # 📜 Table Of Contents
-- [➡️ Indicators](#-indicators)
+- [➡️ Indicators](#%EF%B8%8F-indicators)
 - [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#-hall-of-fame)
     - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
@@ -33,7 +33,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
     - [🎬 Media](#-media)
     - [🌐 Browsers](#-browsers)
     - [🖌️ Theming Apps](#-theming-apps)
-    - [🛍️App Stores](#app-stores)
+    - [🛍️ App Stores](#app-stores)
     - [📁 File Explorers](#-file-explorers)
     - [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
     - [💸 Economy](#-economy)
@@ -44,7 +44,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
     - [🖼️ Gallery](#-gallery)
     - [🔬 Scanners](#-scanners)
     - [#️⃣ Magisk](#%EF%B8%8F%E2%83%A3-magisk)
-    - [🗓️ Calendar](#-calendar)
+    - [🗓️ Calendar](#%EF%B8%8F-calendar)
     - [📞 Contacts/Dialer/SMS](#-contactsdialersms)
     - [🔦 Flashlight](#-flashlight)
     - [📷 Camera](#-camera)
