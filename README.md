@@ -230,7 +230,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🛍️ App Stores
 - **F-Droid Clients**
 	- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store)
-	- [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
+	- [(MDY) Droid-ify](https://github.com/Iamlooker/Droid-ify)
 - **Miscellaneous**
 	- [(MDY) Obtainium](https://github.com/ImranR98/Obtainium)
 ------------
