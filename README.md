@@ -225,7 +225,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 	- [(MDY) Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
 	- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 ------------
-### 🛍️App Stores
+### 🛍️ App Stores
 - **F-Droid Clients**
 	- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store)
 	- [(MD) Droid-ify](https://github.com/Iamlooker/Droid-ify)
