@@ -1,7 +1,7 @@
 <h1 align="center">🎨 Material You Apps List</h1>
-Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.  
+Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 
-#### 📋 Disclaimer
+**📋 Disclaimer:**  
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 
 <p align="center">
@@ -420,7 +420,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 - [(MDY) NowPlaying](https://github.com/KieronQuinn/NowPlaying)
 - [(MDY) openHAB](https://github.com/openhab/openhab-android)
-	- [(MDY) LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app)
 - [(MDY) CommunityAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - [(MD) Photon](https://github.com/abhi16180/photon)
 - [(MDY) SetEdit](https://github.com/MuntashirAkon/SetEdit)
