@@ -22,7 +22,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
 # 📜 Table Of Contents
 - [➡️ Indicators](#%EF%B8%8F-indicators)
 - [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
-- [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame))
+- [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
     - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
     - [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you)
 - [📱Known apps:](#known-apps)
@@ -62,8 +62,7 @@ This list is not exhaustive and there may be other apps that also use Material Y
     - [👋 Gesture Control](#-gesture-control)
     - [⚙️ Miscellaneous Tools](#%EF%B8%8F-miscellaneous-tools)
     - [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
-- [🪢 Sources](#-sources)
-<small><small>*generated with [DocToc](https://github.com/thlorenz/doctoc)*<small/><small/>
+- [🪢 Sources](#-sources)	
 ------
 ### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
