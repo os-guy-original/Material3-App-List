@@ -21,6 +21,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 --------
 # 📜 Table Of Contents
 - [➡️ Indicators](#%EF%B8%8F-indicators)
+- [⚒️ Plans to add](#%EF%B8%8F-plans-to-add)
 - [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
     - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
