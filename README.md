@@ -74,7 +74,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 🪦 List may contain apps that are discontinued.  
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources. Please report any broken links.
 
-
+### ⚒️ Plans to add
+- [ ] Indicators for FOSS and Proprietary Apps.
 -------
 # 🎰 *Total no. of Apps in the list Currently:*
 
