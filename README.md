@@ -7,6 +7,16 @@ This list is not exhaustive and there may be other apps that also use Material Y
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
+<p align="center"><b>Please ⭐ the repo if you like.</b></p>
+<p align="center"><img src="https://img.shields.io/github/stars/nyas1/library-mangement-python-mysql?style=for-the-badge&logo=github&logoColor=black"></p>
+<p align="center">
+<a href="https://discord.com/users/528161316033265674">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+  </a>
+  <a href="https://t.me/nyas69">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
+  </a>
+</p>
 
 --------
 # 📜 Table Of Contents
