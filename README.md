@@ -7,16 +7,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
-<p align="center"><b>Please ⭐ the repo if you like.</b></p>
+<p align="center"><b>Please 🌟 the repo if you like.</b></p>
 <p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
 <p align="center">
-<a href="https://discord.com/users/528161316033265674">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
-  </a>
-  <a href="https://t.me/nyas69">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
+  <a href="https://t.me/materialyouapps">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Our%20Community-brightgreen.svg?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram">
   </a>
 </p>
+
 
 --------
 # 📜 Table Of Contents
@@ -63,7 +61,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
     - [👋 Gesture Control](#-gesture-control)
     - [⚙️ Miscellaneous Tools](#%EF%B8%8F-miscellaneous-tools)
     - [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
-- [🪢 Sources](#-sources)	
+- [🪢 Sources](#-sources)
+- [😼 Author](#-author)
 ------
 ### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
@@ -275,11 +274,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
 -----
 ### 🔏 Privacy
+- **File/App Hiders**
+	- [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
+	- [(MDY) AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt)
+- **Email Forwarding**
+	- [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
 - [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 - [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
-- [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/)
 - [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/)
-- [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
 ------------
 ### 🌦️ Weather
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
@@ -379,6 +381,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🧰 Managers
 - **App Managers**
 	- [(MDY) App Manager](https://github.com/MuntashirAkon/AppManager)
+	- [(MDY) System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta)
 	- [(MDY) Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 	- [(MDY) Hail](https://github.com/aistra0528/Hail)
 	- [(MY) Inure](https://github.com/Hamza417/Inure)
@@ -480,3 +483,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🪢 Sources
 - GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
+## 😼 Author
+<p>
+<a href="https://github.com/nyas1">
+  <img src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+	</a>
+	<a href="https://discord.com/users/528161316033265674">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+  </a>
+  <a href="https://t.me/nyas69">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
+  </a>
+</p>
