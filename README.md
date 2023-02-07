@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
 
@@ -345,9 +344,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🧘‍♂️ Health & Well-being
 - **Sleep Tracker**
 	- [(MDY) Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
-	-  Plugins:
-		- [(MDY) SleepCloud: Backup for Sleep](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.port)
-		- [(MDY) CAPTCHA for Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.captchapack)
 - **Digital Well-being**
 	- [(MDY) Disconnect](https://gitlab.com/narektor/disconnect)
 	- [(MDY) Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
