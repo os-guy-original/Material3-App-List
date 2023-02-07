@@ -8,7 +8,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
 <p align="center"><b>Please ⭐ the repo if you like.</b></p>
-<p align="center"><img src="https://img.shields.io/github/stars/nyas1/library-mangement-python-mysql?style=for-the-badge&logo=github&logoColor=black"></p>
+<p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
 <p align="center">
 <a href="https://discord.com/users/528161316033265674">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
