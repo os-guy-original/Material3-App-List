@@ -196,6 +196,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 	- [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
+	- [(MY) Otraku](https://github.com/lotusgate/otraku)
 - **Equalizers**
 	- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 	- [(MDY) ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482)
