@@ -88,6 +88,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+- [(MDY) Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 ### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
 - [(MDY) Musify](https://github.com/gokadzev/Musify)
