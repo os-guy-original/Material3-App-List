@@ -11,7 +11,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
 <p align="center">
   <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Our%20Community-brightgreen.svg?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Our%20Community-brightgreen.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
 
@@ -248,6 +248,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) (FOSS)
 - [(MDY) Unitto](https://github.com/sadellie/unitto) (FOSS)
 - [(MDY) Currencies](https://github.com/sal0max/currencies) (FOSS)
+- [(MDY) Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways)
 ------------
 ### 💸 Economy
 - **Expense Managers**
