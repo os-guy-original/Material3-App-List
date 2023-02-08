@@ -22,7 +22,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
     - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
-    - [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you)
+    - [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
 - [📱Known apps:](#known-apps)
     - [👥 Social Media Clients](#-social-media-clients)
     - [📖 Readers](#-readers)
