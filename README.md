@@ -15,7 +15,7 @@ Material Design v3 is Google's updated design system emphasizing personalization
 # 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Indicators](#%EF%B8%8F-indicators)
-- [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
+- [🎰 Total Apps](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
     - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
     - [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
@@ -156,6 +156,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Spooky](https://github.com/juniorise/spooky-mb) (FOSS)
 	- [(MDY) MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) (FOSS)
 	- [(MDY) Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) (FOSS)
+	- [(MDY) Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks)
 	- [(MD) Quillpad](https://github.com/quillpad/quillpad) (FOSS)
 	- [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 - **Wishlists**
@@ -177,8 +178,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Zen](https://github.com/pakka-papad/Zen) (FOSS)
 	- [(MDY) Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) (FOSS)
 	- [(MDY) Musify](https://github.com/gokadzev/Musify) (FOSS)
-	- [(MY) Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 	- [(MD) mucke](https://github.com/moritz-weber/mucke) (FOSS)
+	- [(MY) Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 - **Spotify Clients** 
 	- [(MDY) Jetispot](https://github.com/iTaysonLab/jetispot) (FOSS), [Fork](https://github.com/BobbyESP/Jetispot) (FOSS)
 	- [(MD) Spotube](https://github.com/KRTirtho/spotube) (FOSS)
@@ -493,13 +494,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 😼 Author
 <p>
 <a href="https://github.com/nyas1">
-  <img src="https://img.shields.io/badge/GitHub-nyas1-white.svg?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 	<a href="https://discord.com/users/528161316033265674">
-  <img src="https://img.shields.io/badge/Discord-Nyas%233816-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-@Nyas%233816-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
 </a>
   </a>
   <a href="https://t.me/nyas69">
-  <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
 </a>
 </p>
