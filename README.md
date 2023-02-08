@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Material You Apps List</h1>
+<h1 align="center">🎨 Material You Apps List 🎨</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
@@ -7,7 +7,10 @@ Material Design v3 is Google's updated design system emphasizing personalization
 <p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
 <p align="center">
   <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Our%20Community-brightgreen.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&color=brightgreen&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmaterialyouapps" alt="Telegram">
+  </a>
+  <a href="https://t.me/materialyouappschat">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&color=brightgreen&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmaterialyouappschat" alt="Telegram">
   </a>
 </p>
 
