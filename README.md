@@ -484,7 +484,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) (FOSS)
 - **Dynamic Island**
 	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) (FOSS)
-	- [(MDY) Pixel Island ](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C)(🪦Discontinued)
+	- [(MDY) Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) (🪦Discontinued)
 ## 🪢 Sources
 - GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
