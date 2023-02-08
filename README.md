@@ -1,9 +1,5 @@
 <h1 align="center">🎨 Material You Apps List</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
-
-**📋 Disclaimer:**  
-This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
-
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
@@ -17,6 +13,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 --------
 # 📜 Table Of Contents
+- [📋 Disclaimer](#-disclaimer)
 - [➡️ Indicators](#%EF%B8%8F-indicators)
 - [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
@@ -62,6 +59,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [🪢 Sources](#-sources)
 - [😼 Author](#-author)
 ------
+### 📋 Disclaimer
+This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 ### ➡️ Indicators
 - **(MD)** Apps that follow Material 3 (Material Design 3).
 - **(MY)** Apps that follow Material You theming.
@@ -93,6 +92,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MY) Nova Launcher](https://novalauncher.com/beta)
 - [(MD) Spotube](https://github.com/KRTirtho/spotube) (FOSS)
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
+- [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 
 # 📱Known apps:
 ### 👥 Social Media Clients
@@ -157,6 +157,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) (FOSS)
 	- [(MDY) Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) (FOSS)
 	- [(MD) Quillpad](https://github.com/quillpad/quillpad) (FOSS)
+	- [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 - **Wishlists**
 	- [(MDY) Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
@@ -486,6 +487,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🪢 Sources
 - GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
+## 🔧 Tools Used
+- [✍️ StackEdit](https://stackedit.io/)
+- [📜 DocToc](https://github.com/thlorenz/doctoc)
 ## 😼 Author
 <p>
 <a href="https://github.com/nyas1">
