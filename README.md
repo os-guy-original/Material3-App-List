@@ -11,7 +11,7 @@ Material Design v3 is Google's updated design system emphasizing personalization
   </a>
 </p>
 
---------
+---
 # 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Indicators](#%EF%B8%8F-indicators)
@@ -58,7 +58,7 @@ Material Design v3 is Google's updated design system emphasizing personalization
     - [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
 - [🪢 Sources](#-sources)
 - [😼 Author](#-author)
-------
+---
 ### 📋 Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 ### ➡️ Indicators
@@ -72,9 +72,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 🪦 List may contain apps that are discontinued.  
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources. Please report any broken links.
 
--------
+---
 # 🎰 *Total no. of Apps in the list Currently:*
-
 # 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
@@ -93,7 +92,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MD) Spotube](https://github.com/KRTirtho/spotube) (FOSS)
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
 - [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
-
+---
 # 📱Known apps:
 ### 👥 Social Media Clients
 - **Reddit**
@@ -121,7 +120,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) (FOSS)
 	- [(MDY) Fedilab](https://f-droid.org/packages/fr.gouv.etalab.mastodon) (FOSS)
 	- [(MD) Nostros](https://github.com/KoalaSat/nostros) (FOSS)
-------------
+---
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
 	- [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) (FOSS)
@@ -139,7 +138,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Feeder](https://gitlab.com/spacecowboy/Feeder) (FOSS)
 	- [(MD) Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- [(MY) Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
-------------
+---
 ### 🏠 Launchers
 - [(MDY) Lawnchair 12.1](https://github.com/LawnchairLauncher/lawnchair) (FOSS)
 - [(MDY) Lunar Launcher](https://github.com/iamrasel/lunar-launcher) (FOSS)
@@ -147,7 +146,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 - [(MDY) Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) (FOSS)
 - [(MY) Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
-------------
+---
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
 	- [(MDY)  Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) 
@@ -168,7 +167,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
 	- [(MDY) Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
 	- [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
-------------
+---
 ### 🎬 Media
 - **Music Players**
 	- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer") (FOSS), [Metro (Fork)](https://github.com/MuntashirAkon/Metro) (FOSS)
@@ -204,14 +203,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 	- [(MDY) ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482)
 	- [(MY) Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
-------------
+---
 ### 🌐 Browsers 
 - [(MDY) FOSS Browser](https://github.com/scoute-dich/browser) (FOSS)
 - [(MDY) Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 - [(MDY) Thor](https://gitlab.com/remmer.wilts/thor) (FOSS)
 - [(MDY) Bromite](https://github.com/bromite/bromite) (FOSS)
 - [(MDY) Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) 
-------------
+---
 ### 🖌️ Theming Apps
 - **Gboard**
 	- [(MDY) Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) (FOSS)
@@ -229,20 +228,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Iconify](https://github.com/Mahmud0808/Iconify) (FOSS)
 	- [(MDY) Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
 	- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
-------------
+---
 ### 🛍️ App Stores
 - **F-Droid Clients**
 	- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store) (FOSS)
 	- [(MDY) Droid-ify](https://github.com/Iamlooker/Droid-ify) (FOSS)
 - **Miscellaneous**
 	- [(MDY) Obtainium](https://github.com/ImranR98/Obtainium) (FOSS)
-------------
+---
 ### 📁 File Explorers
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles) (FOSS)
 - [(MDY) Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) (FOSS)
 - [(MDY) Root Explorer (Redesign Mod)](https://t.me/projectmaterial/880)
 - [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [⚠️Requires Additional Setup: [#1](https://github.com/DerTyp7214/MixplorerThemeCreator) OR [#2](https://github.com/jamal2362/Monet-Generator)]
-------------
+---
 ### 🧮 Calculators/Unit Convertors
 - [(MDY) Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) (FOSS)
 - [(MDY) OpenCalc](https://github.com/Darkempire78/OpenCalc) (FOSS)
@@ -251,7 +250,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Unitto](https://github.com/sadellie/unitto) (FOSS)
 - [(MDY) Currencies](https://github.com/sal0max/currencies) (FOSS)
 - [(MDY) Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways)
-------------
+---
 ### 💸 Economy
 - **Expense Managers**
 	- [(MDY) Green Stash](https://github.com/Pool-Of-Tears/GreenStash) (FOSS)
@@ -265,7 +264,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Miscellaneous**
 	- [(MDY) Catima](https://github.com/CatimaLoyalty/Android) (FOSS)
 	- [(MDY) Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
-------------
+---
 ### 🔐 Security
 - **2FA**
 	- [(MDY) Mauth](https://github.com/X1nto/Mauth) (FOSS)
@@ -274,7 +273,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MD?) KeySpace](https://github.com/Keyspace-cloud/android) (FOSS)
 - **Miscellaneous**
 	- [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release)
------
+---
 ### 🔏 Privacy
 - **File/App Hiders**
 	- [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) (FOSS)
@@ -286,7 +285,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 	- [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/) (FOSS)
-------------
+---
 ### 🌦️ Weather
 - [(MDY) WeatherWise](https://t.me/WeatherWiseApp)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
@@ -294,7 +293,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Prognoza](https://github.com/davidtakac/prognoza) (FOSS)
 - [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 - [(MY) YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
-------------
+---
 ### 🎮 Games/Trivia/Quiz
 - **Games**
 	- [(MDY) Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) (FOSS)
@@ -303,7 +302,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Quiz/Trivia**
 	- [(MDY) New Quiz](https://github.com/joaomanaia/newquiz) (FOSS)
 	- [(MDY) Trivia You](https://github.com/Bnyro/TriviaYou) (FOSS)
-------------
+---
 ### 🖼️ Gallery
 - [(MDY) QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) (FOSS)
 - [(MDY) miniGallery](https://github.com/kabirnayeem99/miniGallery) (FOSS)
@@ -312,23 +311,23 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tools**
 	- [(MDY) Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 	- [(MDY) Image Resizer](https://github.com/T8RIN/ImageResizer) (FOSS)
-------------
+---
 ### 🔬 Scanners
 - [(MDY) Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) (FOSS)
 - [(MDY) Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - [(MDY) Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) (FOSS)
-------------
+---
 ### #️⃣ Magisk
 - **Magisk Manager**
 	- [(MDY) Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) (FOSS)
 - **Module Managers**
 	- [(MDY) Mrepo](https://github.com/ya0211/MRepo) (FOSS)
 	- [(MDY) FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) (FOSS)
-------------
+---
 ### 🗓️ Calendar
 - [(MDY) Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) (FOSS)
 - [(MY) Etar - Calendar](https://github.com/Etar-Group/Etar-Calendar) (FOSS)
-------------
+---
 ### 📞 Contacts/Dialer/SMS
 - **Contacts**
 	- [(MDY) Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) (FOSS)
@@ -337,20 +336,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) (FOSS)
 - **SMS Messenger**
 	- [(MDY) Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) (FOSS)
-------------
+---
 ### 🔦 Flashlight
 - [(MDY) Flashdim](https://github.com/cyb3rko/flashdim) (FOSS)
 - [(MD) Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
 - [(MY) Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) (FOSS)
-------------
+---
 ### 📷 Camera
 - [(MY) Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) (FOSS)
 - [(MD) Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
-------------
+---
 ### 🎙️ Audio Recorder
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - [(MDY) Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) (FOSS)
-------------
+---
 ### 🧘‍♂️ Health & Well-being
 - **Sleep Tracker**
 	- [(MDY) Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
@@ -369,12 +368,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Kine: Car sickness aid](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop)
 	- [(MDY) Noice](https://github.com/trynoice/android-app) (FOSS)
 	- [(MD) Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
-------------
+---
 ### ⬇️ YT/Spotify/etc. Downloaders
 - [(MDY) Seal](https://github.com/JunkFood02/Seal) (FOSS)
 - [(MDY) YTDLnis](https://github.com/deniscerri/ytdlnis) (FOSS)
 - [(MDY) Spowlo](https://github.com/BobbyESP/Spowlo) (FOSS)
-------------
+---
 ### 📲 Device Info/Monitors
 - [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware) (FOSS)
 - [(MDY) YASNAC](https://github.com/RikkaW/YASNAC)  (FOSS)
@@ -382,7 +381,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 - [(MDY) CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
 - [(MDY) Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro)
-------------
+---
 ### 🧰 Managers
 - **App Managers**
 	- [(MDY) App Manager](https://github.com/MuntashirAkon/AppManager) (FOSS)
@@ -396,35 +395,35 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Revanced Manager](https://github.com/revanced/revanced-manager) (FOSS)
 	- [(MDY) Spowlo](https://github.com/BobbyESP/Spowlo) (FOSS)
 	- [(MDY) AliucordRN](https://github.com/Aliucord/AliucordRN) (FOSS)
-------------
+---
 ### 🛒 Shopping
 - [(MDY) Grocy](https://github.com/patzly/grocy-android) (FOSS)
 - [(MD) Shopin](https://github.com/erdemklync/Shopin) (FOSS)
-------------
+---
 ### 🗺️ Maps/Navigation
 - [(MDY) BTC Map](https://github.com/teambtcmap/btcmap-android) (FOSS)
 - [(MDY) Tridenta](https://github.com/Stypox/tridenta) (FOSS)
 - [(MDY) Compass](https://github.com/SynapseTech/Compass) (FOSS)
-------------
+---
 ### 💾 Backup
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 - [(MDY) Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) (FOSS)
-------------
+---
 ### 📧 Email Clients
 - [(MY) Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - [(MY) FairEmail](https://github.com/M66B/FairEmail) (FOSS)
-------------
+---
 ### 📟 Terminal Emulators
 - [(MY) Termux Monet](https://github.com/HardcodedCat/termux-monet) (FOSS)
-------------
+---
 ### 🈸 Translators
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou) (FOSS)
 - [(MDY) Lentil Translate](https://f-droid.org/packages/dev.atajan.lingva_android) (FOSS)
-------------
+---
 ### 👋 Gesture Control
 - [(MDY) TapTap](https://github.com/KieronQuinn/TapTap) (FOSS)
 - [(MD) Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd)
-------------
+---
 ### ⚙️ Miscellaneous Tools
 - new
 - [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku) (FOSS)
@@ -457,7 +456,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/) (FOSS)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
 - [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
-------------
+---
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
 	- [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack)
@@ -485,12 +484,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Dynamic Island**
 	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) (FOSS)
 	- [(MDY) Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) (🪦Discontinued)
+---
 ## 🪢 Sources
 - GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
 - Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/)
+
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
+
 ## 😼 Author
 <p>
 <a href="https://github.com/nyas1">
