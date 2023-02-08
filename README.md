@@ -82,12 +82,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🏆 Best Implementation of Material You
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
+- [(MDY) Retro Weather](https://t.me/RetroWeather)
 - [(MDY) Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
 - [(MDY) MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-### 💩 Worst Implementation of Material You
+### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
 - [(MDY) Musify](https://github.com/gokadzev/Musify)
 - [(MY) Nova Launcher](https://novalauncher.com/beta)
@@ -141,7 +142,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MY) Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
 ------------
 ### 🏠 Launchers
-- [(MDY) Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+- [(MDY) Lawnchair 12.1](https://github.com/LawnchairLauncher/lawnchair)
 - [(MDY) Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 - [(MDY) Pixel Launcher Extended (Modded)](https://github.com/saitamasahil/Pixel-Launcher-Extended)
 - [(MDY) Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
@@ -195,6 +196,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tracking Services**
 	- [(MDY) Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+	- [(MDY) Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 	- [(MD) Showly](https://github.com/michaldrabik/showly-2.0)
 	- [(MY) Otraku](https://github.com/lotusgate/otraku)
 - **Equalizers**
@@ -283,6 +285,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/)
 ------------
 ### 🌦️ Weather
+- [(MDY) Retro Weather](https://t.me/RetroWeather)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - [(MDY) Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [(MDY) Prognoza](https://github.com/davidtakac/prognoza)
@@ -422,10 +425,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - new
 - [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku)
 - [(MDY) SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter)
-- [(MDY) Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 - [(MDY) NowPlaying](https://github.com/KieronQuinn/NowPlaying)
 - [(MDY) openHAB](https://github.com/openhab/openhab-android)
-- [(MDY) CommunityAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+- [(MDY) CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - [(MD) Photon](https://github.com/abhi16180/photon)
 - [(MDY) SetEdit](https://github.com/MuntashirAkon/SetEdit)
 - [(MDY) IPFS Lite](https://f-droid.org/packages/threads.server)
