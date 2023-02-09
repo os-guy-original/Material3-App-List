@@ -458,6 +458,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/) (FOSS)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
 - [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
+- [(MDY) TSViewer](https://github.com/BlazeCodeDev/TSViewer) (FOSS)
 ---
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
