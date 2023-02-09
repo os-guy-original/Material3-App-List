@@ -4,7 +4,8 @@ Material Design v3 is Google's updated design system emphasizing personalization
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
 <p align="center"><b>Please 🌟 the repo if you like.</b></p>
-<p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
+<p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/forks/nyas1/Material-You-app-list?style=for-the-badge&logo=github&logoColor=black"></p>
 <p align="center">
    <a href="https://t.me/materialyouapps">
     <img src="https://img.shields.io/endpoint?style=for-the-badge&color=brightgreen&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmaterialyouapps" alt="Telegram">
