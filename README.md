@@ -1,3 +1,7 @@
+‼️This list is now outdated. There's a more organized and bigger list ‼️
+
+https://github.com/nyas1/Material-You-app-list
+
 # Material You App List
 The orginal creator of the list hasn't updated their list in a while, so I intent to do it myself. Here is a list of apps that support the Material You design/theme. The list is never exhaustive, but will be extended constantly.
 
@@ -7,6 +11,7 @@ The orginal creator of the list hasn't updated their list in a while, so I inten
 - (MDY) Apps that have both Material 3 and Material You theming
 
 ❗ Some apps are premium (paid apps) and I Interpreted if they're MD3/MY or not by the screenshots
+
 ❗ All the links provided are either from GitHub, Play Store, or F-Droid (mostly GitHub)
 
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
