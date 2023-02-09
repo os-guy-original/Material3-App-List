@@ -90,7 +90,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 ### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
-- [(MDY) Musify](https://github.com/gokadzev/Musify) (FOSS)
 - [(MY) Nova Launcher](https://novalauncher.com/beta)
 - [(MD) Spotube](https://github.com/KRTirtho/spotube) (FOSS)
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
@@ -274,8 +273,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Password/Pin Manager**
 	- [(MDY) Pincredible](https://github.com/cyb3rko/pincredible) (FOSS)
 	- [(MD?) KeySpace](https://github.com/Keyspace-cloud/android) (FOSS)
-- **Miscellaneous**
-	- [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release)
 ---
 ### 🔏 Privacy
 - **File/App Hiders**
@@ -285,6 +282,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Email Forwarding**
 	- [(MDY) AnonDaddy](https://www.f-droid.org/packages/host.stjin.anonaddy/) (FOSS)
 - **Miscellaneous**
+	- [(MDY) AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
 	- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 	- [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/) (FOSS)
