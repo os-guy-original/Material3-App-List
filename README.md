@@ -242,6 +242,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles) (FOSS)
 - [(MDY) Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) (FOSS)
 - [(MDY) Root Explorer (Redesign Mod)](https://t.me/projectmaterial/880)
+- [(MDY) File Explorer](https://github.com/Raival-e/File-Explorer)
 - [(MY) Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) [⚠️Requires Additional Setup: [#1](https://github.com/DerTyp7214/MixplorerThemeCreator) OR [#2](https://github.com/jamal2362/Monet-Generator)]
 ---
 ### 🧮 Calculators/Unit Convertors
