@@ -364,7 +364,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Habit Tracker**
 	- [(MDY) Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 	- [(MDY) Soberity](https://github.com/KiARC/Sobriety/releases) (FOSS)
-	- [(MD) Kudoko](https://github.com/Mazahir26/koduko) (FOSS)
+	- [(MD) Koduko](https://github.com/Mazahir26/koduko) (FOSS)
 - **Miscellaneous**
 	- [(MDY) Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
 	- [(MDY) Kine: Car sickness aid](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop)
