@@ -3,7 +3,7 @@ Material Design v3 is Google's updated design system emphasizing personalization
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
-<p align="center"><b>Please 🌟 the repo if you like.</b></p>
+<p align="center"><b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b></p>
 <p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&color=d1e7db&logo=github&logoColor=black">
 <img src="https://img.shields.io/github/forks/nyas1/Material-You-app-list?style=for-the-badge&logo=github&color=e5d0ee&logoColor=black"></p>
 <p align="center">
