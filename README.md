@@ -1,3 +1,4 @@
+
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
@@ -144,8 +145,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Lunar Launcher](https://github.com/iamrasel/lunar-launcher) (FOSS)
 - [(MDY) Pixel Launcher Extended (Modded)](https://github.com/saitamasahil/Pixel-Launcher-Extended) (FOSS)
 - [(MDY) Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
-- [(MDY) Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) (FOSS)
+- [(MDY) Kvaesitso](https://github.com/MM2-0/Kvaesitso) (FOSS)
 - [(MY) Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
+- [(MY) Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) (FOSS)
 ---
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
