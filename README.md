@@ -374,7 +374,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Spowlo](https://github.com/BobbyESP/Spowlo) (FOSS)
 ---
 ### 📲 Device Info/Monitors
-- [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware) (FOSS)
+- [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 - [(MDY) YASNAC](https://github.com/RikkaW/YASNAC)  (FOSS)
 - [(MDY) Internet Speed](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator)
 - [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
