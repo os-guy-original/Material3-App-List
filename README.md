@@ -118,7 +118,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) (FOSS)
 	- [(MDY) LiPari](https://github.com/Stamir36/LiPari-Android) (FOSS)
 	- [(MDY) E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) (FOSS)
-	- [(MDY) Fedilab](https://f-droid.org/packages/fr.gouv.etalab.mastodon) (FOSS)
+	- [(MDY) Fedilab](https://codeberg.org/tom79/Fedilab) (FOSS)
 	- [(MD) Nostros](https://github.com/KoalaSat/nostros) (FOSS)
 ---
 ### 📖 Readers
@@ -172,7 +172,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎬 Media
 - **Music Players**
 	- [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer") (FOSS), [Metro (Fork)](https://github.com/MuntashirAkon/Metro) (FOSS)
-	- [(MDY) Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_IN&gl=US)
+	- [(MDY) Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 	- [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio) (FOSS)
 	- [(MDY) Symphony](https://github.com/zyrouge/symphony) (FOSS)
 	- [(MDY) Zen](https://github.com/pakka-papad/Zen) (FOSS)
@@ -217,7 +217,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) (FOSS)
 	- [(MDY) Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) (FOSS)
 	- [(MDY) Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) (FOSS)
-	- [(MDY) Rboard IME Tester](https://play.google.com/store/apps/details?id=de.dertyp7214.rboardimetester) (FOSS)
+	- [(MDY) Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) (FOSS)
 - **MixPlorer**
 	- [(MDY) MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) (FOSS)
 	- [(MDY) Monet Generator](https://github.com/jamal2362/Monet-Generator) (FOSS)
@@ -261,8 +261,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio)
 - **Cryptocurrency**
 	- [(MDY) PapriCoin](https://github.com/T8RIN/PapriCoin) (FOSS)
-	- [(MD) AgoraDesk](https://f-droid.org/en/packages/com.agoradesk.app/) (FOSS)
-	- [(MD) LocalMonero](https://f-droid.org/en/packages/co.localmonero.app) (FOSS)
+	- [(MD) AgoraDesk](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) (FOSS)
+	- [(MD) LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) (FOSS)
 - **Miscellaneous**
 	- [(MDY) Catima](https://github.com/CatimaLoyalty/Android) (FOSS)
 	- [(MDY) Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
@@ -280,12 +280,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt)
 	- [(MDY) Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
 - **Email Forwarding**
-	- [(MDY) AnonAddy](https://www.f-droid.org/packages/host.stjin.anonaddy/) (FOSS)
+	- [(MDY) AnonAddy](https://gitlab.com/Stjin/anonaddy-android) (FOSS)
 - **Miscellaneous**
 	- [(MDY) AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
 	- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
-	- [(MDY) SelfPrivacy](https://www.f-droid.org/en/packages/pro.kherel.selfprivacy/) (FOSS)
+	- [(MDY) SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app) (FOSS)
 ---
 ### 🌦️ Weather
 - [(MDY) WeatherWise](https://t.me/WeatherWiseApp)
@@ -419,7 +419,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🈸 Translators
 - [(MDY) TranslateYou](https://github.com/Bnyro/TranslateYou) (FOSS)
-- [(MDY) Lentil Translate](https://f-droid.org/packages/dev.atajan.lingva_android) (FOSS)
+- [(MDY) Lentil Translate](https://github.com/yaxarat/lingvaandroid) (FOSS)
 ---
 ### 👋 Gesture Control
 - [(MDY) TapTap](https://github.com/KieronQuinn/TapTap) (FOSS)
@@ -434,12 +434,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - [(MD) Photon](https://github.com/abhi16180/photon) (FOSS)
 - [(MDY) SetEdit](https://github.com/MuntashirAkon/SetEdit) (FOSS)
-- [(MDY) IPFS Lite](https://f-droid.org/packages/threads.server) (FOSS)
+- [(MDY) IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) (FOSS)
 - [(MDY) Menza](https://github.com/Lastaapps/menza) (FOSS)
 - [(MDY) Kizzy](https://github.com/dead8309/Kizzy) (FOSS)
 - [(MDY) Gugal](https://gitlab.com/narektor/gugal) (FOSS)
 - [(MDY) APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438)
-- [(MDY) AOSP Enhancer](https://play.google.com/store/apps/details?id=com.looper.enhancer) (FOSS)
+- [(MDY) AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) (FOSS)
 - [(MDY) QuickSwitch](https://github.com/skittles9823/QuickSwitch) (FOSS)
 - [(MDY) Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) (FOSS)
 - [(MDY) Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) (FOSS)
@@ -454,7 +454,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) (FOSS)
-- [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/) (FOSS)
+- [(MDY) Randomix - Decision Maker](https://github.com/m-i-n-a-r/randomix) (FOSS)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
 - [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 - [(MDY) TSViewer](https://github.com/BlazeCodeDev/TSViewer) (FOSS)
