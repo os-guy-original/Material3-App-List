@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
@@ -458,6 +457,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Randomix - Decision Maker](https://www.f-droid.org/packages/com.minar.randomix/) (FOSS)
 - [(MDY) Easter Egg (Android 12)](https://play.google.com/store/apps/details?id=rk.android.app.android12.easter.egg)
 - [(MDY) Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
+- [(MDY) TSViewer](https://github.com/BlazeCodeDev/TSViewer) (FOSS)
+- [(MDY) MiDoze](https://github.com/Keddnyo/MiDoze) (FOSS)
+- [(MDY) HalfDot](https://github.com/davquar/halfdot) (FOSS)
+- [(MD) Colors AI](https://github.com/tsinis/colors_ai) (FOSS)
 ---
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
