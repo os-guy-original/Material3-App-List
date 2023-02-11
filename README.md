@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
@@ -231,6 +230,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
 	- [(MDY) PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 	- [(MDY) Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
+---
 ### 🛍️ App Stores
 - **F-Droid Clients**
 	- [(MDY) Neo Store](https://github.com/NeoApplications/Neo-Store) (FOSS)
@@ -342,6 +342,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) (FOSS)
 ---
 ### 🔦 Flashlight
+- [(MDY) Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) (FOSS)
 - [(MDY) Flashdim](https://github.com/cyb3rko/flashdim) (FOSS)
 - [(MD) Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
 - [(MY) Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) (FOSS)
