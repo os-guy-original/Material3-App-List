@@ -275,7 +275,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MD?) KeySpace](https://github.com/Keyspace-cloud/android) (FOSS)
 ---
 ### 🔏 Privacy
-- **File/App Hiders**
+- **File/App Encryption**
 	- [(MD) Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) (FOSS)
 	- [(MDY) AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt)
 	- [(MDY) Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
