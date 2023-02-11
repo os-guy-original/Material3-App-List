@@ -119,6 +119,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) LiPari](https://github.com/Stamir36/LiPari-Android) (FOSS)
 	- [(MDY) E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) (FOSS)
 	- [(MDY) Fedilab](https://codeberg.org/tom79/Fedilab) (FOSS)
+	- [(MDY) PixelDroid](https://github.com/H-PixelDroid/PixelDroid) (FOSS)
 	- [(MD) Nostros](https://github.com/KoalaSat/nostros) (FOSS)
 ---
 ### 📖 Readers
@@ -432,6 +433,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### ⚙️ Miscellaneous Tools
 - new
+- [(MDY) Warpinator](https://github.com/slowscript/warpinator-android) (FOSS)
 - [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku) (FOSS)
 - [(MDY) SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) (FOSS)
 - [(MDY) NowPlaying](https://github.com/KieronQuinn/NowPlaying) (FOSS)
@@ -471,7 +473,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Icons**
 	- [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack)
 	- [(MY) Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color)
-	- [(MDY) Themed icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
+	- [(MDY) Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
+	- [(MDY) Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet)
+	- [(MDY) Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik)
 - **Wallpaper**
 	- [(MDY) Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- [(MDY) Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
