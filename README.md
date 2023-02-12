@@ -70,7 +70,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **(MDY)** Apps that have both Material 3 and Material You theming.
 - **(FOSS)** Apps are Free and Open Source. No indicator means app is Closed Source.
 
-⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.   
+⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.  
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
 🪦 List may contain apps that are discontinued.  
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources. Please report any broken links.
@@ -95,7 +95,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
 - [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 ---
-## 📱Known apps:
+## 📱Known apps
 ### 👥 Social Media Clients
 - **Reddit**
 	- [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
