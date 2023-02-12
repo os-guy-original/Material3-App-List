@@ -15,7 +15,7 @@
 </p>
 
 ---
-# 📜 Table Of Contents
+## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Indicators](#%EF%B8%8F-indicators)
 - [🎰 Total Apps](#-total-no-of-apps-in-the-list-currently)
@@ -76,8 +76,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and various Sources. Please report any broken links.
 
 ---
-# 🎰 *Total no. of Apps in the list Currently:*
-# 🏛️ Hall Of Fame
+## 🎰 *Total no. of Apps in the list Currently:*
+## 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
 - [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
@@ -95,7 +95,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MY) Scheduler](https://github.com/dgudim/Scheduler) (FOSS)
 - [(MY) TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 ---
-# 📱Known apps:
+## 📱Known apps:
 ### 👥 Social Media Clients
 - **Reddit**
 	- [(MDY) Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
