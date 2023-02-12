@@ -1,9 +1,11 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
-Material Design v3 is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
+
+**Material You** (Material Design v3) is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
-<p align="center"><b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b></p>
+<p align="center"><b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
+</p>
 <p align="center"><img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&color=d1e7db&logo=github&logoColor=black">
 <img src="https://img.shields.io/github/forks/nyas1/Material-You-app-list?style=for-the-badge&logo=github&color=e5d0ee&logoColor=black"></p>
 <p align="center">
@@ -205,6 +207,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 	- [(MDY) ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482)
 	- [(MY) Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
+-  **Media Servers**
+	- [(MDY) Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) (FOSS)
 ---
 ### 🌐 Browsers 
 - [(MDY) FOSS Browser](https://github.com/scoute-dich/browser) (FOSS)
@@ -433,6 +437,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### ⚙️ Miscellaneous Tools
 - new
+- [(MDY) Gloom - GitHub Client](https://github.com/MateriiApps/Gloom)
 - [(MDY) Warpinator](https://github.com/slowscript/warpinator-android) (FOSS)
 - [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku) (FOSS)
 - [(MDY) SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) (FOSS)
@@ -468,6 +473,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) MiDoze](https://github.com/Keddnyo/MiDoze) (FOSS)
 - [(MDY) HalfDot](https://github.com/davquar/halfdot) (FOSS)
 - [(MD) Colors AI](https://github.com/tsinis/colors_ai) (FOSS)
+- [(MDY) MaterialGallery-android](https://github.com/NUmeroAndDev/MaterialGallery-android) (FOSS)
 ---
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
@@ -497,7 +503,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) (FOSS)
 	- [(MDY) Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar)
 - **Dynamic Island**
-	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) (FOSS)
+	- [(MDY) MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- [(MDY) Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) (🪦Discontinued)
 ---
 ## 🪢 Sources
