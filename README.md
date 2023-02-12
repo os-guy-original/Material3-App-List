@@ -196,7 +196,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Vibe Music](https://github.com/sheikhhaziq/vibemusic) (FOSS)
 - **Movies/Shows/Anime Streaming Services**
 	- [(MDY) Aniyomi](https://github.com/jmir1/aniyomi) (FOSS)
-	- [(MD) CloudStream-3](https://github.com/recloudstream/cloudstream) (FOSS)
+	- [(MDY) CloudStream-3](https://github.com/recloudstream/cloudstream) (FOSS)
 - **Tracking Services**
 	- [(MDY) Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
