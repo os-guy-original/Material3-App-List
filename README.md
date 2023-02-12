@@ -68,7 +68,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **(MD)** Apps that follow Material 3 (Material Design 3).
 - **(MY)** Apps that follow Material You theming.
 - **(MDY)** Apps that have both Material 3 and Material You theming.
-- **(FOSS)** Apps are Free and Open Source. No indicator means app is Closed Source.  
+- **(FOSS)** Apps are Free and Open Source. No indicator means app is Closed Source.
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.   
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
