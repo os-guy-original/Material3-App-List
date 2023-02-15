@@ -1,3 +1,4 @@
+
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 **Material You** (Material Design v3) is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
@@ -197,12 +198,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Movies/Shows/Anime Streaming Services**
 	- [(MDY) Aniyomi](https://github.com/jmir1/aniyomi) (FOSS)
 	- [(MDY) CloudStream-3](https://github.com/recloudstream/cloudstream) (FOSS)
+	- [(MD?) NoFasel](https://github.com/N0-0NE-Dev/NoFasel) (FOSS)
 - **Tracking Services**
 	- [(MDY) Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 	- [(MDY) Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 	- [(MD) Showly](https://github.com/michaldrabik/showly-2.0) (FOSS)
 	- [(MY) Otraku](https://github.com/lotusgate/otraku) (FOSS)
+	- [(MDY) MoeList](https://github.com/axiel7/MoeList) (FOSS)
 - **Equalizers**
 	- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 	- [(MDY) ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482)
@@ -292,6 +295,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 	- [(MDY) SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app) (FOSS)
+	- [(MD) Permission Pilot](https://github.com/d4rken-org/permission-pilot) (FOSS)
 ---
 ### 🌦️ Weather
 - [(MDY) WeatherWise](https://t.me/WeatherWiseApp)
@@ -301,7 +305,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 - [(MY) YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 ---
-### 🎮 Games/Trivia/Quiz
+### 🎮 Games
 - **Games**
 	- [(MDY) Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) (FOSS)
 	- [(MDY) Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
@@ -310,6 +314,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Quiz/Trivia**
 	- [(MDY) New Quiz](https://github.com/joaomanaia/newquiz) (FOSS)
 	- [(MDY) Trivia You](https://github.com/Bnyro/TriviaYou) (FOSS)
+-  **Emulators**
+	- [(MDY) Lemuroid](https://github.com/Swordfish90/Lemuroid) (FOSS)
 ---
 ### 🖼️ Gallery
 - [(MDY) QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) (FOSS)
@@ -437,6 +443,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### ⚙️ Miscellaneous Tools
 - new
+- [(MDY) Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
+- [(MDY) Apps Ops](https://play.google.com/store/apps/details?id=rikka.appops)
+- [(MDY) TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor)
+- [(MD) Octi](https://github.com/d4rken-org/octi)
+- [(MD) CAPod](https://github.com/d4rken-org/capod)
 - [(MDY) Gloom - GitHub Client](https://github.com/MateriiApps/Gloom)
 - [(MDY) Warpinator](https://github.com/slowscript/warpinator-android) (FOSS)
 - [(MDY) Shizuku](https://github.com/RikkaApps/Shizuku) (FOSS)
@@ -451,7 +462,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Kizzy](https://github.com/dead8309/Kizzy) (FOSS)
 - [(MDY) Gugal](https://gitlab.com/narektor/gugal) (FOSS)
 - [(MDY) APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438)
-- [(MDY) AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) (FOSS)
+- [(MDY) AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md)
 - [(MDY) QuickSwitch](https://github.com/skittles9823/QuickSwitch) (FOSS)
 - [(MDY) Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) (FOSS)
 - [(MDY) Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) (FOSS)
