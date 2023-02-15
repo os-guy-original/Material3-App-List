@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 **Material You** (Material Design v3) is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
@@ -290,12 +289,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- [(MDY) Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
 - **Email Forwarding**
 	- [(MDY) AnonAddy](https://gitlab.com/Stjin/anonaddy-android) (FOSS)
+- **Permission Managers**
+	- [(MD) Permission Pilot](https://github.com/d4rken-org/permission-pilot) (FOSS)
+	- [(MDY) Apps Ops](https://play.google.com/store/apps/details?id=rikka.appops)
 - **Miscellaneous**
 	- [(MDY) AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
 	- [(MDY) Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- [(MDY) Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 	- [(MDY) SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app) (FOSS)
-	- [(MD) Permission Pilot](https://github.com/d4rken-org/permission-pilot) (FOSS)
+
 ---
 ### 🌦️ Weather
 - [(MDY) WeatherWise](https://t.me/WeatherWiseApp)
@@ -397,6 +399,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [(MDY) Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 - [(MDY) CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
 - [(MDY) Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro)
+- [(MDY) TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor)
 ---
 ### 🧰 Managers
 - **App Managers**
@@ -444,8 +447,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### ⚙️ Miscellaneous Tools
 - new
 - [(MDY) Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
-- [(MDY) Apps Ops](https://play.google.com/store/apps/details?id=rikka.appops)
-- [(MDY) TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor)
 - [(MD) Octi](https://github.com/d4rken-org/octi)
 - [(MD) CAPod](https://github.com/d4rken-org/capod)
 - [(MDY) Gloom - GitHub Client](https://github.com/MateriiApps/Gloom)
