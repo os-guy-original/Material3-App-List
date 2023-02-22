@@ -124,7 +124,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) `FOSS`
 	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) `🐾` `⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)
 - **Instagram**
-	- `MY` [Instander](https://thedise.me/instander/) `🐾`
+	- `MY` [Instander](https://thedise.me/instander/repo/) `🐾`
 - **Telegram**
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) `🐾`
 	- `MY` [Nekogram](https://nekogram.app/download/) `FOSS`, `MY` [ Nekogram X](https://github.com/NekoX-Dev/NekoX) `FOSS`
@@ -193,7 +193,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
 	- `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
-	- `MDY` [Tecla](https://github.com/berhram/Tecla) `FOSS`
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) `FOSS`
 	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
 	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) `🐾`
@@ -232,7 +231,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tracking Services**
 	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- `MDY` [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
-	- `MDY` [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
+	- `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler)
 	- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) `FOSS`
 	- `MY` [Otraku](https://github.com/lotusgate/otraku) `FOSS`
 	- `MDY` [MoeList](https://github.com/axiel7/MoeList) `FOSS`
