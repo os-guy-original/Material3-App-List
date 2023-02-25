@@ -77,7 +77,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **`MY`** - Apps that follow Material You theming.
 - **`MDY`** - Apps that have both Material 3 and Material You theming.
 - **`FOSS`** - Apps are Free and Open Source. No indicator means app is Closed Source.
-- **`🐾`** - Apps that I personally use. 😺  
+- **`🐾`** - Apps that I personally use 😺.  
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.  
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
@@ -189,6 +189,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) `FOSS`
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
+	- `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) `FOSS`
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
@@ -228,6 +229,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) `FOSS`
 	- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) `FOSS`
 	- `MD?` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) `FOSS`
+	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) `FOSS`
 - **Tracking Services**
 	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- `MDY` [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
@@ -235,6 +237,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) `FOSS`
 	- `MY` [Otraku](https://github.com/lotusgate/otraku) `FOSS`
 	- `MDY` [MoeList](https://github.com/axiel7/MoeList) `FOSS`
+	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) `FOSS`
 - **Equalizers**
 	- `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482) `FOSS` `🐾`
@@ -242,6 +245,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
 -  **Media Servers**
 	- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) `FOSS`
+- **Podcast**
+	- `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -288,6 +293,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
 - **Cryptocurrency**
 	- `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) `FOSS`
+	- `MDY` [CoinTrend](https://github.com/CoinTrend/CoinTrend) `FOSS`
 	- `MD` [AgoraDesk](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) `FOSS`
 	- `MD` [LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) `FOSS`
 - **Miscellaneous**
@@ -335,6 +341,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 	- `MDY` [Image Resizer](https://github.com/T8RIN/ImageResizer) `FOSS`
 	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter) `FOSS`
+	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -416,6 +423,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Compass](https://github.com/SynapseTech/Compass) `FOSS`
 - `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) `FOSS`
 - `MD` [EVMap](https://github.com/ev-map/EVMap) `FOSS`
+- `MDY` [Geomag](https://github.com/ya0211/Geomag) `FOSS`
+- `MDY` [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
