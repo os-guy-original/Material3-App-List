@@ -384,6 +384,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎙️ Audio Recorder
 - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) `FOSS`
+- `MDY` [Record You](https://github.com/Bnyro/recordYou) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -647,6 +648,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) `FOSS`
+- `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) `FOSS`
 - `MD` [Octi](https://github.com/d4rken-org/octi) `FOSS`
 - `MD` [CAPod](https://github.com/d4rken-org/capod) `FOSS`
 - `MDY` [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement)
