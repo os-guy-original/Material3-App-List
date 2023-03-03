@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&color=d1e7db&logo=github&logoColor=black">
-  <img src="https://img.shields.io/github/forks/nyas1/Material-You-app-list?style=for-the-badge&logo=github&color=e5d0ee&logoColor=black">
+
 </p>
 <p align="center">
   <a href="https://t.me/materialyouapps">
@@ -21,7 +21,6 @@
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Abbreviations](%EF%B8%8F-abbreviations)
-- [🎰 *Total no. of Apps in the list Currently:*](#-total-no-of-apps-in-the-list-currently)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
 	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
@@ -64,6 +63,7 @@
 		- [📦 App Managers](#-app-managers)
 		- [💾 Backup](#-backup)
 		- [👋 Gesture Control](#-gesture-control)
+		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 	- [🔧 Miscellaneous Tools](#-miscellaneous-tools)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -230,6 +230,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) `FOSS`
 	- `MD?` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) `FOSS`
 	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) `FOSS`
+	- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) `FOSS`
 - **Tracking Services**
 	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 	- `MDY` [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
@@ -239,7 +240,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [MoeList](https://github.com/axiel7/MoeList) `FOSS`
 	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) `FOSS`
 - **Equalizers**
-	- `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
+	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
 	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482) `FOSS` `🐾`
 	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) `FOSS`
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
@@ -257,6 +258,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) `FOSS`
 - `MDY` [Bromite](https://github.com/bromite/bromite) `FOSS`
 - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) `FOSS`
+- `MDY` [Styx](https://github.com/jamal2362/Styx) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -647,7 +649,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
+#### 🕹️ Device Automation
+- `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+-  `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) `FOSS`
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
 ### 🔧 Miscellaneous Tools
+- `MDY` [Menza](https://github.com/Lastaapps/menza) `FOSS`
+- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) `FOSS`
+- `MDY` [URLCheck](https://github.com/TrianguloY/UrlChecker) `FOSS`
+- `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) `FOSS`
 - `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) `FOSS`
 - `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) `FOSS`
 - `MD` [Octi](https://github.com/d4rken-org/octi) `FOSS`
@@ -678,7 +691,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lis10: Audio Guides](https://play.google.com/store/apps/details?id=com.urbandroid.lis10)
 - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) `FOSS`
 - `MDY` [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) `FOSS`
-- `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 - `MDY` [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - `MDY` [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) `FOSS`
 - `MDY` [Randomix - Decision Maker](https://github.com/m-i-n-a-r/randomix) `FOSS`
