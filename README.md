@@ -151,12 +151,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) `FOSS`
 	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) `FOSS`
 	- `MY` [Hentoid](https://github.com/h6rd/Hentoid-Material-You) `FOSS`
-- **RSS Reader**
+- **RSS/News Reader**
 	- `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) `FOSS`
 	- `MDY` [News](https://github.com/bubelov/news) `FOSS`
 	- `MDY` [Feeder](https://gitlab.com/spacecowboy/Feeder) `FOSS`
 	- `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- `MY` [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
+	- `MDY` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -190,6 +191,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 	- `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) `FOSS`
+	- `MDY` [Ara Note](https://github.com/hashemi-hossein/ara-note) `FOSS`
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
@@ -214,6 +216,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Musify](https://github.com/gokadzev/Musify) `FOSS`
 	- `MD` [mucke](https://github.com/moritz-weber/mucke) `FOSS`
 	- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
+	- `MDY`[Musicmax](https://github.com/MaximillianLeonov/Musicmax) `FOSS`
 - **Spotify Clients** 
 	- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) `FOSS`, [Fork](https://github.com/BobbyESP/Jetispot) `FOSS`
 	- `MD` [Spotube](https://github.com/KRTirtho/spotube) `FOSS`
@@ -221,6 +224,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) `FOSS`
 	- `MDY` [Hyperion](https://github.com/zt64/Hyperion) `FOSS`
 	- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) `FOSS`
+	- `MDY` [Clipious](https://github.com/lamarios/clipious) `FOSS`
 - **Youtube Music Clients**
 	- `MDY` [InnerTune](https://github.com/z-huang/InnerTune) `FOSS`
 	- `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) `FOSS`
@@ -279,6 +283,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) `FOSS`
 	- `MDY` [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker)
+	- `MDY` [SystemUI Tuner](https://github.com/zacharee/Tweaker) `FOSS`
 	- `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 	- `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
 	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) `FOSS` `🪦Discontinued`
@@ -554,6 +559,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### #️⃣ SuperUser
 - **Magisk Manager**
 	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) `FOSS` `🐾`
+	- `MDY` [Magisk Delta Monet](https://github.com/HuskyDG/magisk-files) `FOSS`
 - **Module Managers**
 	- `MDY` [Mrepo](https://github.com/ya0211/MRepo) `FOSS`
 	- `MDY` [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) `FOSS` `🐾`
@@ -619,6 +625,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Help Me SOS: Emergency](https://play.google.com/store/apps/details?id=com.paget96.helpme)
 	- `MDY` [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app) `FOSS`
 	- `MDY` [Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
+	- `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) `FOSS` `🪦Discontinued`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -657,6 +664,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [Graded](https://github.com/NightDreamGames/Graded) `FOSS`
+- `MDY` [OpneBl](https://github.com/Ounzy/OpenBl) `FOSS`
+- `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) `FOSS`
 - `MDY` [Menza](https://github.com/Lastaapps/menza) `FOSS`
 - `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) `FOSS`
 - `MDY` [URLCheck](https://github.com/TrianguloY/UrlChecker) `FOSS`
