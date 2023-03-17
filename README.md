@@ -1,6 +1,6 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
-**Material You** (Material Design v3) is Google's updated design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
+**Material You** (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more. <br><br/>
 <p align="center">
   <img src=https://i.ibb.co/k874F56/Google-Material-You-cover.png>
 </p>
@@ -73,11 +73,17 @@
 ### 📋 Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 ### ➡️ Abbreviations
-- **`MD`** - Apps that follow Material 3 (Material Design 3).
+- **`MD`** - Apps that follow Material Design 3.
 - **`MY`** - Apps that follow Material You theming.
 - **`MDY`** - Apps that have both Material 3 and Material You theming.
 - **`FOSS`** - Apps are Free and Open Source. No indicator means app is Closed Source.
 - **`🐾`** - Apps that I personally use 😺.  
+
+|  | Design | Dynamic Color |
+|:-:|:-:|:-:|
+|`MD`|✅|---|
+|`MY`|---|✅|
+|`MDY`|✅|✅|
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.  
 ⚠️ Some apps might require additional setup in order to achieve MY theming.  
@@ -85,7 +91,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
-## 🎰 Total no. of Apps in the list Currently ≈ 323
+## 🎰 Total no. of Apps in the list Currently ≥ 323
 ## 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
 - `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
@@ -98,8 +104,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
 - `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) `FOSS`
+- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+- `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
+- `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
 ### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
-- `MY`[ Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+- `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 - `MY` [Nova Launcher](https://novalauncher.com/beta)
 - `MD` [Spotube](https://github.com/KRTirtho/spotube) `FOSS`
 - `MY` [Scheduler](https://github.com/dgudim/Scheduler) `FOSS`
@@ -192,6 +201,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 	- `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) `FOSS`
 	- `MDY` [Ara Note](https://github.com/hashemi-hossein/ara-note) `FOSS`
+	- `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
+	- `MDY` [Another Notes](https://github.com/maltaisn/another-notes-app) `FOSS`
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
@@ -207,8 +218,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎬 Media
 - **Music Players**
-	- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer") `FOSS` , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) `FOSS` `🐾`
-	- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+	- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer") `FOSS` , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) `FOSS`
+	- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) `🐾`
 	- `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) `FOSS`
 	- `MDY` [Symphony](https://github.com/zyrouge/symphony) `FOSS`
 	- `MDY` [Zen](https://github.com/pakka-papad/Zen) `FOSS`
@@ -217,6 +228,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [mucke](https://github.com/moritz-weber/mucke) `FOSS`
 	- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 	- `MDY`[Musicmax](https://github.com/MaximillianLeonov/Musicmax) `FOSS`
+	- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) `FOSS`
 - **Spotify Clients** 
 	- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) `FOSS`, [Fork](https://github.com/BobbyESP/Jetispot) `FOSS`
 	- `MD` [Spotube](https://github.com/KRTirtho/spotube) `FOSS`
@@ -335,6 +347,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Trivia You](https://github.com/Bnyro/TriviaYou) `FOSS`
 -  **Emulators**
 	- `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) `FOSS`
+	- `MDY` [Rekado](https://github.com/MenosGrante/Rekado) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -665,6 +678,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🔧 Miscellaneous Tools
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) `FOSS`
+- `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) `🐾`
+- `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
 - `MDY` [OpneBl](https://github.com/Ounzy/OpenBl) `FOSS`
 - `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) `FOSS`
 - `MDY` [Menza](https://github.com/Lastaapps/menza) `FOSS`
@@ -688,7 +703,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [SetEdit](https://github.com/MuntashirAkon/SetEdit) `FOSS`
 - `MDY` [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) `FOSS`
 - `MDY` [Menza](https://github.com/Lastaapps/menza) `FOSS`
-- `MDY` [Kizzy](https://github.com/dead8309/Kizzy) `FOSS` `🐾`
+- `MDY` [Kizzy](https://github.com/dead8309/Kizzy) `FOSS`
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) `FOSS`
 - `MDY` [APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438) `🐾`
 - `MDY` [AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) `🐾`
