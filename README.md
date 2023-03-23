@@ -20,7 +20,7 @@
 ---
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
-- [➡️ Abbreviations](%EF%B8%8F-abbreviations)
+- [➡️ Abbreviations](#%EF%B8%8F-abbreviations)
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
 	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
@@ -107,6 +107,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 - `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 - `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
+- `MDY` [Seal](https://github.com/JunkFood02/Seal) `FOSS`
 ### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 - `MY` [Nova Launcher](https://novalauncher.com/beta)
@@ -203,6 +204,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Ara Note](https://github.com/hashemi-hossein/ara-note) `FOSS`
 	- `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
 	- `MDY` [Another Notes](https://github.com/maltaisn/another-notes-app) `FOSS`
+	- `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) `FOSS`
+	- `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) `FOSS`
+	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) `FOSS`
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Miscellaneous**
@@ -227,7 +231,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Musify](https://github.com/gokadzev/Musify) `FOSS`
 	- `MD` [mucke](https://github.com/moritz-weber/mucke) `FOSS`
 	- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
-	- `MDY`[Musicmax](https://github.com/MaximillianLeonov/Musicmax) `FOSS`
+	- `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) `FOSS`
 	- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) `FOSS`
 - **Spotify Clients** 
 	- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) `FOSS`, [Fork](https://github.com/BobbyESP/Jetispot) `FOSS`
@@ -574,8 +578,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) `FOSS` `🐾`
 	- `MDY` [Magisk Delta Monet](https://github.com/HuskyDG/magisk-files) `FOSS`
 - **Module Managers**
-	- `MDY` [Mrepo](https://github.com/ya0211/MRepo) `FOSS`
-	- `MDY` [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) `FOSS` `🐾`
+	- `MDY` [Mrepo](https://github.com/ya0211/MRepo) `FOSS` `🐾`
+	- `MDY` [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) `FOSS`
 - **Magisk Detector**
 	- `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) `FOSS`, [Ruru](https://github.com/byxiaorun/Ruru) `FOSS`
 
@@ -677,10 +681,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) `FOSS`
+- `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
 - `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) `🐾`
 - `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
-- `MDY` [OpneBl](https://github.com/Ounzy/OpenBl) `FOSS`
+- `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) `FOSS`
 - `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) `FOSS`
 - `MDY` [Menza](https://github.com/Lastaapps/menza) `FOSS`
 - `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) `FOSS`
