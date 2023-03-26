@@ -137,7 +137,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Instander](https://thedise.me/instander/repo/) `🐾`
 - **Telegram**
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) `🐾`
-	- `MY` [Nekogram](https://nekogram.app/download/) `FOSS`, `MY` [ Nekogram X](https://github.com/NekoX-Dev/NekoX) `FOSS`
+	- `MY` [Nekogram](https://nekogram.app/download/) `FOSS`
+	- `MY` [Nekogram X](https://github.com/NekoX-Dev/NekoX) `FOSS`
+	- `MY` [exteraGram](https://github.com/exteraSquad/exteraGram) `FOSS`
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) `FOSS`
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) `FOSS`
@@ -174,7 +176,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🏠 Launchers
 - `MDY` [Lawnchair 12.1](https://github.com/LawnchairLauncher/lawnchair) `FOSS` `🐾`
-- `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) `FOSS`
+- `MY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) `FOSS`
 - `MDY` [Pixel Launcher Extended (Modded)](https://github.com/saitamasahil/Pixel-Launcher-Extended)
 - `MDY` [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 - `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) `FOSS`
@@ -190,7 +192,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 📝 Notes/To-do/Wish-lists
 - **Notes**
-	- `MDY`  [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) 
+	- `MDY` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
+	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) 
 	- `MDY` [Saber](https://github.com/adil192/saber) `FOSS`
 	- `MDY` [Firenote](https://github.com/T8RIN/Firenote) `FOSS`
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) `FOSS`
@@ -238,6 +241,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Spotube](https://github.com/KRTirtho/spotube) `FOSS`
 - **Youtube Clients**
 	- `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) `FOSS`
+	- `MY` [Revanced Extended](https://github.com/inotia00/revanced-patches) `FOSS`
 	- `MDY` [Hyperion](https://github.com/zt64/Hyperion) `FOSS`
 	- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) `FOSS`
 	- `MDY` [Clipious](https://github.com/lamarios/clipious) `FOSS`
@@ -267,6 +271,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  **Media Servers**
 	- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) `FOSS`
 - **Podcast**
+	- `MDY` [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
 	- `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -279,12 +284,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Bromite](https://github.com/bromite/bromite) `FOSS`
 - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) `FOSS`
 - `MDY` [Styx](https://github.com/jamal2362/Styx) `FOSS`
+- **Chrome**
+	- `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+	- `MDY` [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
+	- `MDY` [Chrome Dev](https://play.google.com/store/apps/details?id=com.chrome.dev)
+	- `MDY` [Chrome Canary](https://play.google.com/store/apps/details?id=com.chrome.canary)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ### 🖌️ Theming Apps
 - **Gboard**
+	- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 	- `MDY` [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) `FOSS` `🐾`
 	- `MDY` [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) `FOSS`
 	- `MDY` [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) `FOSS`
@@ -357,6 +368,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🖼️ Gallery
+- `MDY` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) `FOSS`
 - `MDY` [miniGallery](https://github.com/kabirnayeem99/miniGallery) `FOSS`
 - `MDY` [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) `FOSS`
