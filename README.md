@@ -81,8 +81,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 |  | Design | Dynamic Color |
 |:-:|:-:|:-:|
-|`MD`|✅|---|
-|`MY`|---|✅|
+|`MD`|✅|🚫|
+|`MY`|🚫|✅|
 |`MDY`|✅|✅|
 
 ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots.  Please report wrong indicators.  
@@ -137,7 +137,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Instander](https://thedise.me/instander/repo/) `🐾`
 - **Telegram**
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) `🐾`
-	- `MY` [Nekogram](https://nekogram.app/download/) `FOSS`, `MY` [ Nekogram X](https://github.com/NekoX-Dev/NekoX) `FOSS`
+	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) `FOSS`
+	- `MY` [Owlgram](https://owlgram.org/)
+	- `MY` [Nekogram](https://nekogram.app/) `FOSS`
+	- `MY` [Nagram](https://github.com/NextAlone/Nagram) `FOSS`
+	- `MDY` [Lilgram](https://t.me/lildevelopment) 
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) `FOSS`
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) `FOSS`
@@ -146,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) `FOSS`
 	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) `FOSS`
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) `FOSS`
+	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -253,17 +258,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) `FOSS`
 - **Tracking Services**
 	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
-	- `MDY` [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+	- `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) `FOSS`
 	- `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler)
-	- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) `FOSS`
+	- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) `FOSS`, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) `FOSS`
 	- `MY` [Otraku](https://github.com/lotusgate/otraku) `FOSS`
 	- `MDY` [MoeList](https://github.com/axiel7/MoeList) `FOSS`
 	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) `FOSS`
+	- `MD` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks
+) `FOSS`
 - **Equalizers**
 	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
 	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482) `FOSS` `🐾`
 	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) `FOSS`
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
+	- `MDY` [Flat Equalizer Mod](https://t.me/waifupx_official/221)
 -  **Media Servers**
 	- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) `FOSS`
 - **Podcast**
@@ -295,6 +303,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Telegram**
 	- `MDY` [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) `FOSS`
 	- `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) `FOSS`
+	- `MDY` [Telegram Themer](https://github.com/therxmv/Telegram-Themer) `FOSS`
 - **SystemUI**
 	- `MDY` [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) `FOSS`
@@ -333,6 +342,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) `FOSS`
 - `MDY` [Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
+- `MDY` [Rain](https://github.com/DarkMooNight/Rain) `FOSS`
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -366,6 +376,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Resizer](https://github.com/T8RIN/ImageResizer) `FOSS`
 	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter) `FOSS`
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
+	- `MDY` [SnapSeed](https://t.me/waifupx_official)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -471,6 +482,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🤖 Artificial Intelligence
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) `FOSS`
 - `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+- `MDY` [Stable Diffusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -582,6 +594,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) `FOSS`
 - **Magisk Detector**
 	- `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) `FOSS`, [Ruru](https://github.com/byxiaorun/Ruru) `FOSS`
+- **Modules**
+	- [Monet-All](https://github.com/YangguangZhou/Monet-All) <sup>[Material You for unsupported apps](https://github.com/YangguangZhou/Monet-All#%E5%8C%85%E5%90%AB%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E5%8E%9F%E4%BD%9C%E8%80%85%E6%9D%A5%E8%87%AA%E9%85%B7%E5%AE%89)</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -681,6 +695,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 - `MDY` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) `FOSS`
 - `MDY` [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber)
