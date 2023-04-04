@@ -513,6 +513,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper)
 	- `MDY` [Pixr: Wallpaper Showcase](https://play.google.com/store/apps/details?id=com.paget96.pixr)
 	- `MDY` [Pallax](https://github.com/patzly/pallax-android) <sup>`FOSS`</sup>
+        - `MDY` [WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX)
+        - `MDY` [UtopiaWalls+](https://github.com/WaifuPX-DG/UtopiaWalls)
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 - **Widgets/Shortcuts**
 	- `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget)
