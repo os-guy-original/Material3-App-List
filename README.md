@@ -32,6 +32,7 @@
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
 	- [🎬 Media](#-media)
 	- [🌐 Browsers](#-browsers)
+	- [⌨ Keybords](#-keyboards)
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
 	- [💸 Economy](#-economy)
 	- [🌦️ Weather](#%EF%B8%8F-weather)
@@ -299,14 +300,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-### 🖌️ Theming Apps
-- **Keyboard**
+### ⌨ Keyboards
+  - `MDY` [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`FOSS`</sup>
   - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
   - `MY`  [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
 	- `MDY` [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) <sup>`FOSS`</sup> `🐾`
 	- `MDY` [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) <sup>`FOSS`</sup>
 	- `MDY` [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) <sup>`FOSS`</sup>
 	- `MDY` [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) <sup>`FOSS`</sup>
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+### 🖌️ Theming Apps
 - **MixPlorer**
 	- `MDY` [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) <sup>`FOSS`</sup> `🐾`
 	- `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) <sup>`FOSS`</sup>
@@ -484,6 +490,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🈸 Translators
+- `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - `MDY` [TranslateYou](https://github.com/Bnyro/TranslateYou) <sup>`FOSS`</sup>
 - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`FOSS`</sup>
 
@@ -706,6 +713,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 - `MDY` [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 - `MDY` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) <sup>`FOSS`</sup>
@@ -741,7 +749,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) `🐾`
 - `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup>
 - `MDY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
-- `MDY` [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`FOSS`</sup>
 - `MDY` [M3O](https://github.com/m3o/m3o-android) <sup>`FOSS`</sup>
 - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
 - `MDY` [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
