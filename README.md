@@ -302,8 +302,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### ⌨ Keyboards
   - `MDY` [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`FOSS`</sup>
-  - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
   - `MY`  [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
+  - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 	- `MDY` [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) <sup>`FOSS`</sup> `🐾`
 	- `MDY` [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) <sup>`FOSS`</sup>
 	- `MDY` [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) <sup>`FOSS`</sup>
