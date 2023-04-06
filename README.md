@@ -390,6 +390,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [miniGallery](https://github.com/kabirnayeem99/miniGallery) <sup>`FOSS`</sup>
 - `MDY` [MotoGallery](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 - `MDY` [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>`FOSS`</sup>
+- `MDY` [MotoGallery](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 - `MY` [Aves](https://github.com/deckerst/aves) <sup>`FOSS`</sup>
 - **Tools**
 	- `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
@@ -425,9 +426,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Dialer**
 	- `MDY` [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>`FOSS`</sup>
 	- `MDY` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer) <sup>`🐾`</sup>
+	- `MDY` [MotoDialer](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 - **SMS Messenger**
 	- `MDY` [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`FOSS`</sup>
-	- `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) <sup>`🐾`</sup>
+	- `MDY` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) <sup>`🐾`</sup>
+	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -445,6 +448,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`FOSS`</sup>
 - `MDY` [Record You](https://github.com/Bnyro/recordYou) <sup>`FOSS`</sup>
 - `MDY` [Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
+- `MY` [MotoAudioRecorder](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -490,6 +494,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Geomag](https://github.com/ya0211/Geomag) <sup>`FOSS`</sup>
 - `MDY` [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega)
 - `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) <sup>`🐾`</sup>
+- `MY` [MotoCompass](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -523,6 +528,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) <sup>`FOSS`</sup>
 - `MDY` [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 - `MDY` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
+- `MDY` [MotoClock](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -562,6 +568,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12) <sup>`🐾`</sup>
 	- `MDY` [Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) <sup>`FOSS`</sup>
 	- `MDY` [Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar)
+	- `MDY` [MotoWidget](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 - **Dynamic Island**
 	- `MDY` [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) `🪦Discontinued`
@@ -640,7 +647,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`FOSS`</sup>
 - `MDY` [Currencies](https://github.com/sal0max/currencies) <sup>`FOSS`</sup>
 - `MDY` [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways)
-- `MDY` [Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
+- `MDY` [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
+- `MDY` [MotoCalculator](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
