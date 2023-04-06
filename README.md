@@ -360,7 +360,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`FOSS`</sup>
 - `MDY` [Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
-- `MDY` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
+- `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -388,6 +388,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
 - `MDY` [miniGallery](https://github.com/kabirnayeem99/miniGallery) <sup>`FOSS`</sup>
+- `MDY` [MotoGallery](https://www.pling.com/p/1884299/) <sup>`FOSS`</sup>
 - `MDY` [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>`FOSS`</sup>
 - `MY` [Aves](https://github.com/deckerst/aves) <sup>`FOSS`</sup>
 - **Tools**
@@ -455,7 +456,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
 - **Blue Light Filter**
-	- `MDY` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
+	- `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 	- `MDY` [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
 - **Habit Tracker**
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
