@@ -259,7 +259,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
 	- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
 	- `MD?` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
-	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) <sup>`FOSS`</sup>
+	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 	- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
 - **Tracking Services**
 	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
