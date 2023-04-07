@@ -176,6 +176,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- `MY` [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
 	- `MDY` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
+- **Tracking Services**
+	- `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) <sup>`FOSS`</sup>
+	- `MD` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -271,7 +274,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup>
 	- `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`FOSS`</sup>
 	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
-	- `MD` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) <sup>`FOSS`</sup>
 - **Equalizers**
 	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
 	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482) <sup>`FOSS`</sup> <sup>`🐾`</sup>
@@ -364,6 +366,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
 
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -375,6 +378,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Blocked](https://github.com/jeffsieu/blocked)  <sup>`FOSS`</sup> `⛔ Not an android app`	
 	- `MDY` [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) <sup>`FOSS`</sup>
 	- `MDY` [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`FOSS`</sup>
+	- `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 	- `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
 - **Quiz/Trivia**
 	- `MDY` [New Quiz](https://github.com/joaomanaia/newquiz) <sup>`FOSS`</sup>
@@ -767,6 +771,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Tools
+- `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`FOSS`</sup>
+- `MDY` [My Server Status](https://github.com/JGeek00/my-server-status-app) <sup>`FOSS`</sup>
+- `MDY` [DroidHole](https://github.com/JGeek00/droid-hole) <sup>`FOSS`</sup>
 - `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
 - `MDY` [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
 - `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
