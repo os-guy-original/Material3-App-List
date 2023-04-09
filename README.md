@@ -31,7 +31,7 @@
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
 	- [🎬 Media](#-media)
 	- [🌐 Browsers](#-browsers)
-	- [⌨ Keyboards](#-keyboards)
+	- [⌨ Keyboards](#%EF%B8%8F-keyboards)
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
 	- [💸 Economy](#-economy)
 	- [🌦️ Weather](#%EF%B8%8F-weather)
@@ -47,7 +47,7 @@
 	- [🗺️ Maps/Navigation](#%EF%B8%8F-mapsnavigation)
 	- [📧 Email Clients](#-email-clients)
 	- [🈸 Translators](#-translators)
-	- [🤖 Artificial Intelligence](#-artificial-intelligence)
+	- [🤖 Artificial Intelligence](#-artificial-intelligence-ai)
 	- [⏱️ Clock/Timer](#%EF%B8%8F-clocktimer)
 	- [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
 	- [⬇️ Download Managers](#%EF%B8%8F-download-managers)
@@ -224,13 +224,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
-- **Miscellaneous**
-	- `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
+- **Reminders**
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
-	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
-	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) <sup>`🐾`</sup>
 	- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
 	- `MD` [RemindMe](https://github.com/kafri8889/Remind-Me) <sup>`FOSS`</sup>
+	- `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
+- **Miscellaneous**
+	- `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
+	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
+	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) <sup>`🐾`</sup>
 	- `MD` [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -265,7 +267,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Movies/Shows/Anime Streaming Services**
 	- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
 	- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
-	- `MD?` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
+	- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
 	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 	- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
 - **Tracking Services**
@@ -278,7 +280,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
 - **Equalizers**
 	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
-	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1482) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1567) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
 	- `MDY` [Flat Equalizer (Mod)](https://t.me/waifupx_official/221)
@@ -527,6 +529,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - `MDY` [Stable Diffusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app)
+- `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -814,9 +817,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`FOSS`</sup>
 - `MDY` [Kizzy](https://github.com/dead8309/Kizzy) <sup>`FOSS`</sup>
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`FOSS`</sup>
-- `MDY` [APK Editor (Redesign Mod)](https://t.me/WSTprojects/1438) <sup>`🐾`</sup>
+- `MDY` [APK Editor (Redesign Mod)](https://t.me/WSTprojects/1509)
 - `MDY` [AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) <sup>`🐾`</sup>
-- `MDY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
+- `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
 - `MDY` [M3O](https://github.com/m3o/m3o-android) <sup>`FOSS`</sup>
 - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
 - `MDY` [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit)
@@ -856,4 +859,3 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
-
