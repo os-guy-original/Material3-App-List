@@ -31,7 +31,7 @@
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
 	- [🎬 Media](#-media)
 	- [🌐 Browsers](#-browsers)
-	- [⌨ Keyboards](#%EF%B8%8F-keyboards)
+	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
 	- [💸 Economy](#-economy)
 	- [🌦️ Weather](#%EF%B8%8F-weather)
@@ -80,6 +80,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **`MY`** - Apps that follow Material You theming.
 - **`MDY`** - Apps that have both Material 3 and Material You theming.
 - **`FOSS`** - Apps are Free and Open Source. No indicator means app is Closed Source.
+- **`MOD`** - Apps that are unofficially modded by dev other than its original dev.
 - **`🐾`** - Apps that I personally use 😺.  
 
 |  | Design | Dynamic Color |
@@ -155,7 +156,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
 	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200)
+	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -280,11 +281,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
 - **Equalizers**
 	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
-	- `MDY` [ViperFX RE (Redesigned)](https://t.me/WSTprojects/1567) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MDY` [ViperFX RE](https://t.me/WSTprojects/1567) <sup>`FOSS`</sup><sup>`MOD`</sup><sup>`🐾`</sup>	
 	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
-	- `MDY` [Flat Equalizer (Mod)](https://t.me/waifupx_official/221)
--  **Media Servers**
+	- `MDY` [Flat Equalizer](https://t.me/waifupx_official/221) <sup>`MOD`</sup>
+	-  **Media Servers**
 	- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) <sup>`FOSS`</sup>
 - **Podcast**
 	- `MDY` [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
@@ -379,7 +380,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) <sup>`FOSS`</sup>
 	- `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
 	- `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`FOSS`</sup>
-	- `MDY` [Blocked](https://github.com/jeffsieu/blocked)  <sup>`FOSS`</sup> `⛔ Not an android app`	
+	- `MDY` [Blocked](https://github.com/jeffsieu/blocked)  <sup>`FOSS`</sup><sup>`⛔ Not an android app`</sup>
 	- `MDY` [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) <sup>`FOSS`</sup>
 	- `MDY` [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`FOSS`</sup>
 	- `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
@@ -407,7 +408,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Resizer](https://github.com/T8RIN/ImageResizer) <sup>`FOSS`</sup>
 	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter) <sup>`FOSS`</sup>
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
-	- `MDY` [SnapSeed (Mod)](https://t.me/waifupx_official)
+	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -549,7 +550,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack)
 	- `MDY`[Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`🐾`</sup>
-	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`🐾`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color)
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet)
@@ -627,7 +627,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 📁 File Explorers
 - `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
 - `MDY` [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>`FOSS`</sup>
-- `MDY` [Root Explorer (Redesign Mod)](https://t.me/projectmaterial/880)
+- `MDY` [Root Explorer](https://t.me/projectmaterial/880) <sup>`MOD`</sup>
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`🐾`</sup> `⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)
 - `MDY` [Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
@@ -817,7 +817,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`FOSS`</sup>
 - `MDY` [Kizzy](https://github.com/dead8309/Kizzy) <sup>`FOSS`</sup>
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`FOSS`</sup>
-- `MDY` [APK Editor (Redesign Mod)](https://t.me/WSTprojects/1509)
+- `MDY` [APK Editor](https://t.me/WSTprojects/1509) <sup>`MOD`</sup>
 - `MDY` [AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) <sup>`🐾`</sup>
 - `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
 - `MDY` [M3O](https://github.com/m3o/m3o-android) <sup>`FOSS`</sup>
