@@ -384,6 +384,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`MOD`</sup>
+- `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
