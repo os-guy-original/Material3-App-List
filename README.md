@@ -577,7 +577,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet)
 	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik)
-
 - **Wallpaper**
 	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- `MDY` [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
@@ -592,7 +591,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [UtopiaWalls+](https://github.com/WaifuPX-DG/UtopiaWalls)
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 	- `MDY` [MWalls - material u wallpapers](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app)
-	
 - **Widgets/Shortcuts**
 	- `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget)
 	- `MDY` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
@@ -606,7 +604,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [MotoWidget](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MDY` [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt)
 	- `MDY` [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) <sup>`FOSS`</sup>
-
 - **Dynamic Island**
 	- `MDY` [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`🪦Discontinued`</sup>
