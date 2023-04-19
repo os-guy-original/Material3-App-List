@@ -357,7 +357,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 💸 Economy
 - **Payment Apps**
 	- `MDY` [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
-	- `MD` [GPay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user)
+	- `MD` [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user)
 - **Expense Managers**
 	- `MDY` [Green Stash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
 	- `MDY` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`FOSS`</sup>
@@ -626,10 +626,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 👨‍💻 Google
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
-- `MDY` [Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
-- `MDY` [Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
-- `MDY` [Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
-- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
+- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+- `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
+- `MDY` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
+- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) or [Google Meet(orginal)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red)
 - `MDY` [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
@@ -639,6 +639,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY`[Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
 - `MDY`[Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
+- `MD` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
+- `MDY`[Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
+- `MDY`[Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
+- `MDY`[Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
