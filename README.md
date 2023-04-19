@@ -132,6 +132,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`🐾`</sup>
 	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
+	- `MDY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
 - **Twitter**
 	- `MY` [harpy for Twitter](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
 	- `MY` [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
@@ -441,6 +442,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
 - `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) <sup>`FOSS`</sup>
 - `MDY` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
+- `MDY`[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -574,7 +576,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color)
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet)
-	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) 
+	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik)
+
 - **Wallpaper**
 	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- `MDY` [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
@@ -603,6 +606,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [MotoWidget](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MDY` [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt)
 	- `MDY` [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) <sup>`FOSS`</sup>
+
 - **Dynamic Island**
 	- `MDY` [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`🪦Discontinued`</sup>
@@ -631,6 +635,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red)
+- `MDY` [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
+- `MDY` [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
+- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
+- `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
+- `MDY`[Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
+- `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
+- `MDY`[Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -813,7 +824,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 #### 🕹️ Device Automation
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
--  `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
+- `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -834,10 +845,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`FOSS`</sup>
 - `MDY` [My Server Status](https://github.com/JGeek00/my-server-status-app) <sup>`FOSS`</sup>
 - `MDY` [DroidHole](https://github.com/JGeek00/droid-hole) <sup>`FOSS`</sup>
-- `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
-- `MDY` [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
-- `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
-- `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
 - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) <sup>`FOSS`</sup>
 - `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) <sup>`🐾`</sup>
