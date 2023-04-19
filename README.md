@@ -629,7 +629,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MDY` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
-- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) or [Google Meet(orginal)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
+- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) or [Google Meet(original)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - `MDY` [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red)
 - `MDY` [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
