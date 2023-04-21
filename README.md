@@ -437,7 +437,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 - `MDY` [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix)
 - `MDY` [QR & Barcode Scanner](https://github.com/D4rK7355608/com.d4rk.qrcodescanner.plus) <sup>`FOSS`</sup>
-- `MDY`[Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
+- `MDY` [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -446,7 +446,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
 - `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) <sup>`FOSS`</sup>
 - `MDY` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
-- `MDY`[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+- `MDY` [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -578,7 +578,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎴 Icons / Wallpaper / Widgets
 - **Icons**
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack)
-	- `MDY`[Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
+	- `MDY` [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`🐾`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color)
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
@@ -665,17 +665,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
 - `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 - `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
-- `MDY`[Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
-- `MDY`[Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
-- `MDY`[Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
-- `MDY`[Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
+- `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
+- `MDY` [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
+- `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
+- `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ### 👁️‍🗨️ Accessibility
 - `MD` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
-- `MDY`[Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
+- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
 - `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader)
 - `MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
@@ -857,6 +857,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
+---
 ### 🔧 Miscellaneous Apps
 - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
 - `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
@@ -906,7 +907,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
-- `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
+- `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -932,3 +933,4 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
+
