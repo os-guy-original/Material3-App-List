@@ -244,6 +244,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager)
 	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
+	- `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`FOSS`</sup>
+	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 - **Wish-lists**
 	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Reminders**
@@ -257,6 +259,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
 	- `MD` [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement)
 	- `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -474,6 +477,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`FOSS`</sup>
 	- `MDY` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) <sup>`🐾`</sup>
 	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
+- **Voicemail**
+	- `MDY` [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
 - **Miscellaneous**
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 
@@ -569,6 +574,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - `MDY` [Stable Diffusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app)
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
+- `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
+- `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -873,6 +880,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Apps
+- `MDY` [LogFox](https://github.com/F0x1d/LogFox) <sup>`FOSS`</sup>
 - `MDY` [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) <sup>`FOSS`</sup>
 - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
 - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
