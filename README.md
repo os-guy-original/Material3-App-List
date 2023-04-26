@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="#-newly-added-apps">
-    <span style="display:inline-block;">🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</span>
+    <span style="display:inline-block;"><strong><u>🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</u></strong></span>
   </a>
 </p>
 
@@ -990,4 +990,3 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
-
