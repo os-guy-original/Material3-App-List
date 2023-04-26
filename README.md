@@ -15,6 +15,11 @@
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=D1E8DC&colorB=FFF6DB&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram">
   </a>
 </p>
+<p align="center">
+  <a href="#-newly-added-apps">
+    <span style="display:inline-block;">🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</span>
+  </a>
+</p>
 
 ---
 ## 📜 Table Of Contents
@@ -23,6 +28,7 @@
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
 	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
+- [🆕 Newly Added Apps!](#-newly-added-apps)
 - [📱Known apps](#known-apps)
 	- [👥 Social Media Clients](#-social-media-clients)
 	- [📖 Readers](#-readers)
@@ -125,6 +131,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
 - `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
 - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+## 🆕 Newly Added Apps!
+*Last 10 apps that were recently added to list!*
+1. `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
+2. `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
+3. `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
+4. `MDY` [LSPatch](https://github.com/LSPosed/LSPatch) <sup>`FOSS`</sup>
+5. `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
+6. `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
+7. `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
+8. `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
+9. `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
+10. `MD` [Android Auto XLauncher](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -968,3 +990,4 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
+
