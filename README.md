@@ -74,6 +74,7 @@
 		- [👋 Gesture Control](#-gesture-control)
 		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
+		- [🧩 Material Catalogs](#-material-catalogs)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -137,16 +138,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last 10 apps that were recently added to list!*
-1. `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
-2. `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
-3. `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
-4. `MDY` [LSPatch](https://github.com/LSPosed/LSPatch) <sup>`FOSS`</sup>
-5. `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
-6. `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
-7. `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
-8. `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
-9. `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
-10. `MD` [Android Auto XLauncher](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) <sup>`FOSS`</sup>
+1. `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
+2. `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
+3. `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
+4. `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
+5. `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
+6. `MDY` [LSPatch](https://github.com/LSPosed/LSPatch) <sup>`FOSS`</sup>
+7. `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
+8. `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
+9. `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
+10.`MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -178,7 +179,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Owlgram](https://owlgram.org/) <sup>`🪦Discontinued`</sup>
 	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-	- `MDY` [Lilgram](https://t.me/lildevelopment)
+	- `MDY` [Lilgram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
 - **Miscellaneous**
@@ -710,7 +711,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
 - `MDY` [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
 - `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
-- `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -905,6 +905,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) <sup>`FOSS`</sup>
 - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
+#### 🧩 Material Catalogs
+- `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
+- `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
+- `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
