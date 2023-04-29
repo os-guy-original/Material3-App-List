@@ -979,7 +979,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
 
-
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
