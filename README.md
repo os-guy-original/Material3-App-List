@@ -916,10 +916,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 - `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
 
-
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
-	---
+---
 ### 🔧 Miscellaneous Apps
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
 - `MDY` [WADBS](https://github.com/Smooth-E/wireless-adb-switch) <sup>`FOSS`</sup>
