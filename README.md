@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 **Material You** (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
@@ -139,16 +138,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last 10 apps that were recently added to list!*
+- `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
+- `MD` [ML Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)
+- `MDY` [Keyring OTP](https://gitlab.com/aorszulak/keyring) <sup>`FOSS`</sup>
+- `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
 - `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`FOSS`</sup>
 - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
 - `MDY` [Trust: Crypto & Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
 - `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>
-- `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
-- `MDY` [Material3 Catalog Compose](https://play.google.com/store/apps/details?id=wonky.product.materialyoucatalog)
-- `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
-- `MDY` [Compose Material Theme](https://play.google.com/store/apps/details?id=compose.material.theme)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1012,4 +1011,3 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
-
