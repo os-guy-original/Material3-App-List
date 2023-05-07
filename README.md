@@ -138,16 +138,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last 10 apps that were recently added to list!*
+- `MDY` [Trust: Crypto & Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
+- `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
+- `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
+- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>
 - `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
 - `MDY` [Material3 Catalog Compose](https://play.google.com/store/apps/details?id=wonky.product.materialyoucatalog)
 - `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
 - `MDY` [Compose Material Theme](https://play.google.com/store/apps/details?id=compose.material.theme)
 - `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
-- `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
-- `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
-- `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
-- `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -242,6 +242,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup>
 	- `MDY` [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`FOSS`</sup>
 	- `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup>
+	- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -290,7 +291,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎬 Media
 - **Music Players**
-	- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer") <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
+	- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
 	- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
 	- `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
 	- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
@@ -409,6 +410,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) <sup>`FOSS`</sup>
 	- `MDY` [CoinTrend](https://github.com/CoinTrend/CoinTrend) <sup>`FOSS`</sup>
 	- `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
+	- `MDY` [Trust: Crypto & Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 	- `MD` [AgoraDesk](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) <sup>`FOSS`</sup>
 	- `MD` [LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) <sup>`FOSS`</sup>
 - **Miscellaneous**
@@ -925,7 +927,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
-	---
+---
 ### 🔧 Miscellaneous Apps
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
 - `MDY` [WADBS](https://github.com/Smooth-E/wireless-adb-switch) <sup>`FOSS`</sup>
@@ -966,6 +968,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) <sup>`FOSS`</sup>
 - `MDY` [Randomix - Decision Maker](https://github.com/m-i-n-a-r/randomix) <sup>`FOSS`</sup>
 - `MDY` [TSViewer](https://github.com/BlazeCodeDev/TSViewer) <sup>`FOSS`</sup>
+- `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
+- `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
 - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 - `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) <sup>`FOSS`</sup>
