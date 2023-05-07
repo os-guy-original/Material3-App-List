@@ -103,7 +103,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
-## 🎰 Total no. of Apps in the list Currently = Lost the count
 ## 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
 - `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
@@ -131,12 +130,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Nova Launcher](https://novalauncher.com/beta)
 - `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
 - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
+- `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ## 🆕 Newly Added Apps!
 *Last 10 apps that were recently added to list!*
+- `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
 - `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
 - `MDY` [Material3 Catalog Compose](https://play.google.com/store/apps/details?id=wonky.product.materialyoucatalog)
 - `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
@@ -146,7 +147,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
 - `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 - `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
-- `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -349,7 +349,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [FOSS Browser](https://github.com/scoute-dich/browser) <sup>`FOSS`</sup>
 - `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
-- `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`FOSS`</sup>
+- `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`FOSS`</sup> <sup>`🪦Discontinued`</sup>
 - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup>
 - `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup>
 - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
@@ -363,6 +363,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
+- `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
+
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
