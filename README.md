@@ -138,16 +138,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last 10 apps that were recently added to list!*
+- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
+- `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
+- `MDY` [Skyline Emulator](https://github.com/skyline-emu/skyline) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Joiplay](https://joiplay.org/)
+- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
+- `MDY` [Antimine](https://github.com/lucasnlm/antimine-android) <sup>`FOSS`</sup>
+- `MDY` [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore)
+- `MDY` [Metronome](https://github.com/Kr0oked/Metronome) <sup>`FOSS`</sup>
 - `MDY`[JustNotes](https://github.com/jjewuz/JustNotes)<sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
-- `MD` [ML Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)
-- `MDY` [Keyring OTP](https://gitlab.com/aorszulak/keyring) <sup>`FOSS`</sup>
-- `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
-- `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`FOSS`</sup>
-- `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
-- `MDY` [Trust: Crypto & Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
-- `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
-- `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1022,4 +1022,3 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
-
