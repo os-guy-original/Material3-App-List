@@ -233,6 +233,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) <sup>`FOSS`</sup>
 - `MDY` [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) <sup>`FOSS`</sup>
 - `MDY` [Hyperion Launcher](https://play.google.com/store/apps/details?id=projekt.launcher)
+- `MDY` [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher)
 - `MY` [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
 - `MY` [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>`FOSS`</sup>
 - `MY` [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher)
@@ -370,7 +371,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
-- `MY` [Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
+- `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1000,9 +1001,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ## 🪢 Sources
-- GitHub: [sysworx](https://github.com/sysworx/Material-You-app-list), [Naverim](https://github.com/Naverim/Material-You-app-list)
-- Reddit: [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
-- Telegram: [popMODS](https://t.me/popMODS), [WSTprojects](https://t.me/WSTprojects), [WPX Projects](https://t.me/WSTprojects), [progetto materiali](https://t.me/projectmaterial), [FossDroid](https://t.me/FossDroidAndroid), [Free Softwares [Android]](https://t.me/foss_Android)
+
+- **Reddit:** [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
+- **Telegram:** [popMODS](https://t.me/popMODS), [WSTprojects](https://t.me/WSTprojects), [WPX Projects](https://t.me/WSTprojects), [progetto materiali](https://t.me/projectmaterial), [FossDroid](https://t.me/FossDroidAndroid), [Free Softwares [Android]](https://t.me/foss_Android)
+- **Similar Lists:** [sysworx's](https://github.com/sysworx/Material-You-app-list)<sup><sup>🪦</sup></sup>, [Naverim's](https://github.com/Naverim/Material-You-app-list)<sup><sup>🪦</sup></sup>, [TeaEndsAcronyms's](https://github.com/TeaEndsAcronyms/Material-You-Apps), [misaka-137666's](https://github.com/misaka-13766/Material-You-App-Repository)
 
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
@@ -1020,3 +1022,4 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
+
