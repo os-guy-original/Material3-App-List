@@ -2,7 +2,7 @@
 
 **Material You** (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.
 <p align="center">
-  <img src=https://github.com/TeaEndsAcronyms/Material-You-app-list-Fork/assets/123305689/5a489091-b501-463d-b040-696531f42837>
+  <img src="https://github.com/TeaEndsAcronyms/Material-You-app-list-Fork/assets/123305689/5a489091-b501-463d-b040-696531f42837" alt="MaterialYou">
 </p>
 <p align="center">
   <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
@@ -339,7 +339,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - **Equalizers**
 	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
-	- `MDY` [ViperFX RE](https://t.me/WSTprojects/1604) <sup>`MOD`</sup> <sup>`🐾`</sup>	
+	- `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup> <sup>`🐾`</sup>	
 	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
 	- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
 	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
