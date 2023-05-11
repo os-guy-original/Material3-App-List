@@ -137,17 +137,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ## 🆕 Newly Added Apps!
-*Last 10 apps that were recently added to list!*
-- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
-- `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
-- `MDY` [Skyline Emulator](https://github.com/skyline-emu/skyline) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Joiplay](https://joiplay.org/)
-- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
-- `MDY` [Antimine](https://github.com/lucasnlm/antimine-android) <sup>`FOSS`</sup>
-- `MDY` [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore)
-- `MDY` [Metronome](https://github.com/Kr0oked/Metronome) <sup>`FOSS`</sup>
-- `MDY`[JustNotes](https://github.com/jjewuz/JustNotes)<sup>`FOSS`</sup>
-- `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
+*Last **15 apps** that were recently added to list!*
+- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
+- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
+- `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
+- `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
+- `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
+- `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪟 WINDOWS APP`</sup>
+- `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
+- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
+- `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
+- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
+- `MDY` [Persian Calendar](https://github.com/persian-calendar/persian-calendar) <sup>`FOSS`</sup>
+- `MD` [Libre Camera](https://github.com/iakmds/librecamera) <sup>`FOSS`</sup>
+- `MD` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
+- `MDY` [Data Monitor](https://github.com/itsdrnoob/DataMonitor) <sup>`FOSS`</sup>
+- `MDY` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
