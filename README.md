@@ -139,6 +139,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
+- `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
+- `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
+- `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
+- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
+- `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) <sup>`FOSS`</sup>
+- `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
 - `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 - `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
 - `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
@@ -147,13 +154,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪟 WINDOWS APP`</sup>
 - `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
 - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
-- `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
-- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
-- `MDY` [Persian Calendar](https://github.com/persian-calendar/persian-calendar) <sup>`FOSS`</sup>
-- `MD` [Libre Camera](https://github.com/iakmds/librecamera) <sup>`FOSS`</sup>
-- `MD` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
-- `MDY` [Data Monitor](https://github.com/itsdrnoob/DataMonitor) <sup>`FOSS`</sup>
-- `MDY` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
