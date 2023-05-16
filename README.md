@@ -139,6 +139,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
+- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
+- `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`FOSS`</sup>
+- `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
+- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
+- `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
+- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
 - `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
 - `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
 - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
@@ -147,13 +154,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) <sup>`FOSS`</sup>
 - `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
 - `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
-- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
-- `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
-- `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
-- `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
-- `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪟 WINDOWS APP`</sup>
-- `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
-- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
