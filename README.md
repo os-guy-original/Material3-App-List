@@ -35,6 +35,17 @@
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
 	- [🎬 Media](#-media)
+		- [🎵 Music Players]
+		- [ ▶️ Video Players]
+		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients]
+		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients]
+		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients]
+		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /></a> Subsonic Clients]
+		- [📺 Streaming Services]
+		- [📑Tracking Services]
+		- [ 🎛️ Equalizers]
+		- [🎙️ Podcast]
+		- [🖥️ Media Servers]
 	- [🌐 Browsers](#-browsers)
 	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
@@ -133,6 +144,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
 - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
+- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -305,68 +317,69 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🎬 Media
-- **Music Players**
-	- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
-	- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
-	- `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
-	- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
-	- `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup>
-	- `MDY` [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>`FOSS`</sup>
-	- `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
-	- `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) <sup>`FOSS`</sup>
-	- `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
-	- `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
-	- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
-- **Video Players**
-	- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>
-- **Spotify Clients** 
-	- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup>, [Fork](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup>
-	- `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
-- **Youtube Clients**
-	- `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-	- `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
-	- `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
-	- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
-- **Youtube Music Clients**
-	- `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
-	- `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
-	- `MDY` [Vibe Music](https://github.com/sheikhhaziq/vibemusic) <sup>`FOSS`</sup>
-- **Subsonic Clients**
-	- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
-	- `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
-- **Streaming Services**
-	- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
-	- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
-	- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
-	- `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
-	- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
-	- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
-	- `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
-	- `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
-	- `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
-	- `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`🪟 WINDOWS APP`</sup>
-- **Tracking Services**
-	- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) <sup>`🐾`</sup>
-	- `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) <sup>`FOSS`</sup>
-	- `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler)
-	- `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`FOSS`</sup>
-	- `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
-	- `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
-	- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
-	- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`FOSS`</sup>
-	- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-- **Equalizers**
-	- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
-	- `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup> <sup>`🐾`</sup>	
-	- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
-	- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
-	- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
-- **Media Servers**
-	- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) <sup>`FOSS`</sup>
-	- `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
-- **Podcast**
-	- `MDY` [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
-	- `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
+#### 🎵 Music Players
+- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
+- `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
+- `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
+- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
+- `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup>
+- `MDY` [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>`FOSS`</sup>
+- `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
+- `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) <sup>`FOSS`</sup>
+- `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
+- `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
+- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
+#### ▶️ Video Players
+- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>
+####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
+- `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
+- `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
+- `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
+- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients
+- `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
+- `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
+- `MDY` [Vibe Music](https://github.com/sheikhhaziq/vibemusic) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients
+- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup>, [Fork](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup>
+- `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /></a> Subsonic Clients
+- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
+- `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
+#### 📺 Streaming Services
+- `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
+- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
+- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
+- `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
+- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
+- `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
+- `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
+- `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
+- `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
+- `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup><a href="https://imgbb.com/"><img src="https://i.ibb.co/hd3FtPz/windows.png" alt="windows" width="12" height="12" border="0" /></a>`Windows App`</sup>
+#### 📑Tracking Services
+- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) <sup>`🐾`</sup>
+- `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) <sup>`FOSS`</sup>
+- `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler)
+- `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`FOSS`</sup>
+- `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
+- `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
+- `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
+- `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`FOSS`</sup>
+- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+#### 🎛️ Equalizers
+- `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
+- `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup> <sup>`🐾`</sup>	
+- `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
+- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
+- `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
+#### 🎙️ Podcast
+- `MDY` [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
+- `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
+#### 🖥️ Media Servers
+- `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) <sup>`FOSS`</sup>
+- `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
+
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -637,7 +650,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🤖 Artificial Intelligence (AI)
 - `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
-- `MDY` [Stable Diffusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app)
+- `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
