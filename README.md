@@ -35,17 +35,17 @@
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
 	- [🎬 Media](#-media)
-		- [🎵 Music Players]
-		- [ ▶️ Video Players]
-		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients]
-		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients]
-		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients]
-		- [<a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /></a> Subsonic Clients]
-		- [📺 Streaming Services]
-		- [📑Tracking Services]
-		- [ 🎛️ Equalizers]
-		- [🎙️ Podcast]
-		- [🖥️ Media Servers]
+		- [🎵 Music Players](#-music-players)
+		- [ ▶️ Video Players](#%EF%B8%8F-video-players)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> [Youtube Clients](#-youtube-clients)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> [Youtube Music Clients](#-youtube-music-clients)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> [Spotify Clients](#-spotify-clients)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /></a> [Subsonic Clients](#-subsonic-clients)
+		- [📺 Streaming Services](#-streaming-services)
+		- [📑 Tracking Services](#-tracking-services)
+		- [ 🎛️ Equalizers](#%EF%B8%8F-equalizers)
+		- [🎙️ Podcast](#%EF%B8%8F-podcast)
+		- [🖥️ Media Servers](#%EF%B8%8F-equalizers)
 	- [🌐 Browsers](#-browsers)
 	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
@@ -357,7 +357,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
 - `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
 - `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup><a href="https://imgbb.com/"><img src="https://i.ibb.co/hd3FtPz/windows.png" alt="windows" width="12" height="12" border="0" /></a>`Windows App`</sup>
-#### 📑Tracking Services
+#### 📑 Tracking Services
 - `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) <sup>`🐾`</sup>
 - `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) <sup>`FOSS`</sup>
 - `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler)
