@@ -67,7 +67,7 @@
 	- [⏱️ Clock/Timer](#%EF%B8%8F-clocktimer)
 	- [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
 	- [⬇️ Download Managers](#%EF%B8%8F-download-managers)
-	- [🧮 Rs/Unit Convertors](#-calculatorsunit-convertors)
+	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
 	- [👨‍💻 Google](#-google)
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education](#-education)
