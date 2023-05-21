@@ -145,6 +145,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
+- `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -228,6 +229,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
 	- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 	- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
+	- `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
 	- `MY` [Hentoid](https://github.com/h6rd/Hentoid-Material-You) <sup>`FOSS`</sup>
 	- `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 - **RSS/News Reader**
@@ -514,6 +516,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
 	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
+	- `MDY` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -655,6 +658,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
+- `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -924,6 +928,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
 	- `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`FOSS`</sup>
+	- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
