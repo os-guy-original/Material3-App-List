@@ -151,6 +151,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [zCard](https://github.com/ziadOUA/zCard) <sup>`FOSS`</sup>
+- `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
 - `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
 - `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 - `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`FOSS`</sup>
@@ -164,8 +166,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 - `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) <sup>`FOSS`</sup>
-- `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
-- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -452,7 +452,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [AgoraDesk](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) <sup>`FOSS`</sup>
 	- `MD` [LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) <sup>`FOSS`</sup>
 - **Miscellaneous**
-	- `MDY` [Catima](https://github.com/CatimaLoyalty/Android) <sup>`FOSS`</sup>
+	- `MDY` [Catima](https://github.com/CatimaLoyalty/Android) <sup>`FOSS`</sup>, `MDY` [zCard (fork)](https://github.com/ziadOUA/zCard) <sup>`FOSS`</sup>
 	- `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -737,7 +737,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🧮 Calculators/Unit Convertors
 - `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`FOSS`</sup>
-- `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`FOSS`</sup>
+- `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`FOSS`</sup> , `MDY` [zCalc (fork)](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
 - `MDY` [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - `MDY` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>`FOSS`</sup>
 - `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`FOSS`</sup>
