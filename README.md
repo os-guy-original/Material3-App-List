@@ -970,7 +970,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 #### 🧹 Optimizer/Cleaners
-- `MDY` [AOSP Enhancer](https://github.com/iamlooper/AOSP-Enhancer/blob/main/app/README.md) <sup>`🐾`</sup>
+- `MDY` [AOSP Enhancer](https://github.com/iamlooper/Android-Enhancer) <sup>`🐾`</sup>
 - `MDY` [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) <sup>`FOSS`</sup>
 - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
 - `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`FOSS`</sup> <sup>`🐾`</sup>
