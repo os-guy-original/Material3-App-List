@@ -160,7 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [WA Tweaker](https://watweaker.com/)
 - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
-- `MDY` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
+- `MDY` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 - `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
 - `MDY` [zCard](https://github.com/ziadOUA/zCard) <sup>`FOSS`</sup>
 - `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
@@ -518,7 +518,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
 	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
-	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
+	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
