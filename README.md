@@ -68,7 +68,7 @@
 	- [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
 	- [⬇️ Download Managers](#%EF%B8%8F-download-managers)
 	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
-	- [👨‍💻 Google](#-google)
+	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="19" /></a> [Other Google Apps](#-other-google-apps)
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education](#-education)
 	- [🧰 System Tools](#-system-tools)
@@ -152,6 +152,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
+- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
+- `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
+- `MDY` [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard)
+- `MDY` [GAppsMod](https://github.com/jacopotediosi/GAppsMod) <sup>`FOSS`</sup>
+- `MD` [WA Tweaker](https://watweaker.com/)
 - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
 - `MDY` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
@@ -161,12 +167,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
 - `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 - `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`FOSS`</sup>
-- `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
-- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
-- `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
-- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
-- `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
-- `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -334,7 +334,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
 #### ▶️ Video Players
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>
-- `MDY`[NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`🐾`</sup>
+- `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
