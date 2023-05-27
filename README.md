@@ -164,7 +164,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
 - `MDY` [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar)
 - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup>
-`MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
+- `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
 - `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
 - `MDY` [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock)
 - `MDY` [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics)
