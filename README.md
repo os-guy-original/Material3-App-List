@@ -154,21 +154,21 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
+- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
+- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
+- `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
+- `MD` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
+- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
+- `MY` [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq)
+- `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
+- `MDY` [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar)
+- `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup>
+`MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
+- `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
+- `MDY` [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock)
+- `MDY` [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics)
 - `MDY` [Prayer Times](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes)
-- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
-- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
-- `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
-- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
-- `MDY` [Movies](https://github.com/michaelbel/movies) <sup>`FOSS`</sup>
-- `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
-- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
-- `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
-- `MDY` [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard)
-- `MDY` [GAppsMod](https://github.com/jacopotediosi/GAppsMod) <sup>`FOSS`</sup>
-- `MD` [WA Tweaker](https://watweaker.com/)
-- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
-- `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
-- `MDY` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
