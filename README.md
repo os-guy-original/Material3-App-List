@@ -204,6 +204,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
 - **Miscellaneous**
+        - `MD` [WhatsApp Beta](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
 	- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
@@ -227,7 +228,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup>, `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup>, [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup>
 	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup>
 	- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup>
-	- `MDY` [Kotastu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup>
+	- `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup>
 	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
 	- `MDY` [Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) <sup>`FOSS`</sup>
 	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
