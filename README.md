@@ -128,8 +128,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup>
 - `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
 - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
-- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
 - `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 - `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 - `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
@@ -177,6 +175,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 👥 Social Media Clients
 - **Reddit**
 	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`🐾`</sup>
+	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
@@ -218,6 +217,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -375,10 +375,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
 - `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
 - `MDY` [Movies](https://github.com/michaelbel/movies) <sup>`FOSS`</sup>
+- `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
 - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`FOSS`</sup>
 - `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
-- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup>
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 #### 🎛️ Equalizers
 - `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
@@ -705,7 +706,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) <sup>`💰`</sup>
 	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
 	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
-	- `MY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup>
+	- `MDY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup>
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`💰`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
@@ -1075,6 +1076,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [GAppsMod](https://github.com/jacopotediosi/GAppsMod) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Caffine](https://play.google.com/store/apps/details?id=moe.zhs.caffeine)
 - `MDY` [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics)
+- `MDY` [Sinhala Lyrics App](https://github.com/SuhasDissa/Sinhala-Lyrics-App) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
 - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
