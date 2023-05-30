@@ -153,6 +153,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Locus](https://github.com/Myzel394/locus) <sup>`FOSS`</sup>
+- `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
+- `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup>
 - `MDY` [Sinhala Lyrics App](https://github.com/SuhasDissa/Sinhala-Lyrics-App) <sup>`FOSS`</sup>
 - `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
@@ -164,14 +167,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 - `MD` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 - `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
-- `MY` [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq)
-- `MDY` [Cavedroid](https://github.com/cyb3rko/cavedroid) <sup>`FOSS`</sup>
-- `MDY` [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar)
-- `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup>
-- `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
-- `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
-- `MDY` [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock)
-- `MDY` [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
