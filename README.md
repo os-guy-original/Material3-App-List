@@ -152,6 +152,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Sinhala Lyrics App](https://github.com/SuhasDissa/Sinhala-Lyrics-App) <sup>`FOSS`</sup>
+- `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
+- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
+- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 - `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
@@ -203,7 +207,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
 - **Miscellaneous**
-        - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
 	- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
@@ -218,6 +221,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+	- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
