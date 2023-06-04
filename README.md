@@ -887,7 +887,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup>
 	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [Accrescent](https://github.com/Bnyro/accrescent) <sup>`FOSS`</sup>
+	- `MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`FOSS`</sup>
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
