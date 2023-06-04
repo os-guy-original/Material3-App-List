@@ -159,20 +159,21 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Insigno](https://github.com/MindsHub/insigno_frontend) <sup>`FOSS`</sup>
+- `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`FOSS`</sup>
+- `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
+- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup>
+- `MDY` [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app)
+- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup> <sup>`💰`</sup>
+- `MY` [TouchFind](https://play.google.com/store/apps/details?id=com.davesla.easyfind)
+- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
+- `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
+- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+- `MDY` [Expense](https://play.google.com/store/apps/details?id=com.budget.allowance)
+- `MDY` [Yuzu](https://github.com/yuzu-emu/yuzu) <sup>`FOSS`</sup>
+- `MDY` [CaptivePortalController](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`FOSS`</sup>
 - `MDY` [Locus](https://github.com/Myzel394/locus) <sup>`FOSS`</sup>
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
-- `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup>
-- `MDY` [Sinhala Lyrics App](https://github.com/SuhasDissa/Sinhala-Lyrics-App) <sup>`FOSS`</sup>
-- `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
-- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
-- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
-- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
-- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
-- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
-- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
-- `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
-- `MD` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
-- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -395,7 +396,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 #### 🎛️ Equalizers
 - `MDY` [Wavelet](https://github.com/Pittvandewitt/Wavelet)
-- `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup> <sup>`🐾`</sup>	<sup>`#️⃣`</sup>
+- `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`MOD`</sup> <sup>`🐾`</sup> <sup>`#️⃣`</sup>
 - `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) <sup>`FOSS`</sup>
 - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
 - `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
@@ -457,7 +458,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
 	- `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
 	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🪦`</sup> 
-	- `MDY`[Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup> <sup>`💰`</sup>
+	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup> <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
