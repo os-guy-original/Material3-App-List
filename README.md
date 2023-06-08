@@ -2,7 +2,7 @@
 
 ***Material You** (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.*
 <p align="center">
-  <img src="https://github.com/TeaEndsAcronyms/Material-You-app-list-Fork/assets/123305689/5a489091-b501-463d-b040-696531f42837" alt="MaterialYou">
+  <img src="https://github.com/TeaEndsAcronyms/Material-You-app-list-Fork/assets/123305689/0c82f332-2d36-4af8-88c1-32e9e353b233" alt="MaterialYou">
 </p>
 <p align="center">
   <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
