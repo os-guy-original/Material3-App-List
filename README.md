@@ -160,6 +160,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
+- `MD` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
+- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 - `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
 - `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
@@ -172,12 +175,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`FOSS`</sup>
 - `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
 - `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup>
-- `MDY` [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app)
-- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup> <sup>`💰`</sup>
-- `MY` [TouchFind](https://play.google.com/store/apps/details?id=com.davesla.easyfind)
-- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
-- `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
-- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
