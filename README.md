@@ -479,6 +479,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
 	- `MDY` [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app)
 	- `MDY` [Allowance](https://github.com/jameskokoska/Allowance) <sup>`FOSS`</sup>
+	- `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
 	- `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
 	- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
 - **Cryptocurrency**
@@ -826,6 +827,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
 - `MDY` [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
 - `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
+- `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
 - `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
 - `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
 
@@ -1122,6 +1124,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [CAPod](https://github.com/d4rken-org/capod) <sup>`FOSS`</sup>
 - `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
 - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
+- `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
