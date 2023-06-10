@@ -313,6 +313,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 	- `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`FOSS`</sup>
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
+	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
@@ -648,6 +649,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
 	- `MD` [Koduko](https://github.com/Mazahir26/koduko) <sup>`FOSS`</sup>
+	- `MD` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
 - **Screen Time**
 	- `MDY` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing) <sup>`🐾`</sup>
 - **Miscellaneous**
@@ -883,6 +885,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **File Transfer**
 	- `MDY` [LocalSend](https://github.com/localsend/localsend) <sup>`FOSS`</sup>
 	- `MD` [Photon](https://github.com/abhi16180/photon) <sup>`FOSS`</sup>
+	- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1117,6 +1120,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 - `MDY` [Insigno](https://github.com/MindsHub/insigno_frontend) <sup>`FOSS`</sup>
 - `MDY` [CaptivePortalController](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`FOSS`</sup>
+- `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
 - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
@@ -1132,7 +1136,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
-- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
 - `MY` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
