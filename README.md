@@ -160,6 +160,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
+- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+- `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
+- `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`FOSS`</sup>
+- `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) <sup>`FOSS`</sup>
+- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+- `MD` [Global News App](https://github.com/v1tzor/GlobalNewsApp) <sup>`FOSS`</sup>
 - `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MD` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
 - `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
@@ -168,13 +175,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
 - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
 - `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
-- `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup>
-- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup>
-- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
-- `MDY` [Insigno](https://github.com/MindsHub/insigno_frontend) <sup>`FOSS`</sup>
-- `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`FOSS`</sup>
-- `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
-- `MDY` [Koler](https://github.com/Chooloo/koler) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
