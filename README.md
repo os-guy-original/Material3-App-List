@@ -161,7 +161,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
-- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`FOSS`</sup>
 - `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) <sup>`FOSS`</sup>
@@ -199,9 +199,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 - **Discord**
 	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
-	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-	- `Soon?`<sup>[when?](https://discord.com/channels/1015931589865246730/1015931590741872712/1093249016646598786)</sup> [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
+	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
+	- `Soon?`<sup>[`when?`](https://discord.com/channels/1015931589865246730/1015931590741872712/1093249016646598786)</sup> [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - **Instagram**
 	- `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🐾`</sup>
 	- `MY` [Honista](https://t.me/Honistagram)
@@ -1005,7 +1005,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 	- `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 	- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
-	- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+	- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
