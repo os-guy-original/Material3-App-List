@@ -356,14 +356,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
 #### ▶️ Video Players
-- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>
+- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>, [VLC Media Player](https://t.me/projectmaterial/914) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
 - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
-- `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+- `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager) <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
