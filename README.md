@@ -160,6 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
 - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
@@ -174,7 +175,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
 - `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
 - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
-- `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -196,6 +196,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
 	- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 	- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
+	- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 	- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 - **Discord**
 	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
