@@ -8,11 +8,11 @@
   <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&colorA=FFEBEB&colorB=E5D0EE&logo=github&logoColor=black">
+  <img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&colorA=FCEDE9&colorB=F9ADA4&logo=github&logoColor=400008">
 </p>
 <p align="center">
   <a href="https://t.me/materialyouapps">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=D1E8DC&colorB=FFF6DB&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps" alt="Telegram">
   </a>
 </p>
 <p align="center">
@@ -160,6 +160,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
+- `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
+- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
 - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
@@ -172,9 +175,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
 - `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
-- `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
-- `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
-- `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -317,6 +317,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
+	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 - **Diary/Journal**
@@ -485,6 +486,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Allowance](https://github.com/jameskokoska/Allowance) <sup>`FOSS`</sup>
 	- `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
 	- `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) <sup>`FOSS`</sup>
+	- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 	- `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
 	- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
 - **Cryptocurrency**
@@ -1007,6 +1009,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 	- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 	- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
+	- `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1137,6 +1140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
 - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
 - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
+- `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
