@@ -160,6 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **15 apps** that were recently added to list!*
+- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 - `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
 - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
 - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
