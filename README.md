@@ -159,7 +159,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ## 🆕 Newly Added Apps!
-*Last **15 apps** that were recently added to list!*
+*Last **20 apps** that were recently added to list!*
+- `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
+- `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
+- `MD` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
+- `MDY` [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian) <sup>`FOSS`</sup>
+- `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`FOSS`</sup>
+- `MDY` [RideBus](https://github.com/ridebus-by/ridebus) <sup>`FOSS`</sup>
+- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup>
+- `MDY` [Ridna - Relationship Calendar](https://github.com/nexy791/Ridna) <sup>`FOSS`</sup>
+- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
+- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
+- `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
+- `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`FOSS`</sup>
+- `MDY` [Croissant](https://github.com/joeloewi7178/Croissant) <sup>`FOSS`</sup>
 - `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 - `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
 - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
@@ -167,15 +180,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
 - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
-- `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
-- `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`FOSS`</sup>
-- `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) <sup>`FOSS`</sup>
-- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
-- `MD` [Global News App](https://github.com/v1tzor/GlobalNewsApp) <sup>`FOSS`</sup>
-- `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
-- `MD` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
-- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
-- `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -872,6 +876,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
 - `MDY` [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) <sup>`FOSS`</sup>
+- `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
 - **Quotes**
 	- `MDY` [Literary Clock](https://github.com/AChep/literaryclock)  <sup>`FOSS`</sup>
 	- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) <sup>`FOSS`</sup>
