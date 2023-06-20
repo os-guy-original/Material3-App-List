@@ -159,7 +159,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ## 🆕 Newly Added Apps!
-*Last **20 apps** that were recently added to list!*
+*Last **25 apps** that were recently added to list!*
+- `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) <sup>`FOSS`</sup>
+- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android) <sup>`FOSS`</sup>
+- `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`FOSS`</sup>
+- `MDY` [Confidant](https://github.com/YangDai-Github/Encryptor-Android) <sup>`FOSS`</sup>
+- `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android)<sup>`FOSS`</sup>
+- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
+- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
+- `MDY` [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android) <sup>`FOSS`</sup>
+- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
+- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
+- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
+- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
+- `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`FOSS`</sup>
 - `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
 - `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
@@ -172,14 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
 - `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
-- `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`FOSS`</sup>
-- `MDY` [Croissant](https://github.com/joeloewi7178/Croissant) <sup>`FOSS`</sup>
-- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
-- `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
-- `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
-- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
-- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
-- `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
