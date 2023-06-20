@@ -221,6 +221,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
+- **Lemmy**
+	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
+	- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 - **Other Messaging Apps** 
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
@@ -234,7 +237,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
 	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup>
 	- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
-	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 	- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 	- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
 	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
@@ -322,6 +324,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`FOSS`</sup>
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
+	- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
@@ -347,8 +350,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
 	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
 	- `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
-	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
+	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
+	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
+	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -540,6 +545,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 	- `MDY` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku) <sup>`FOSS`</sup>
 	- `MDY` [Antimine](https://github.com/lucasnlm/antimine-android) <sup>`FOSS`</sup>
+	- `MDY` [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android) <sup>`FOSS`</sup>
 	- `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
 	- `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⛔ Not an android app`</sup>
 - **Quiz/Trivia**
@@ -558,6 +564,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Cuberite](https://github.com/cuberite/android) <sup>`FOSS`</sup>
 	- `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
 	- `MDY` [Croissant](https://github.com/joeloewi7178/Croissant) <sup>`FOSS`</sup>
+	- `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -753,12 +760,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) <sup>`💰`</sup>
 	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
-        - `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
+	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
 	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
 	- `MDY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	- `MDY` [DGicons Monet](https://t.me/MaterialYouAppsChat/2362)
 	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
 	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup>
+	- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`💰`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
@@ -817,6 +825,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Torrenting**
 	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
 	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
+- **Miscellaneous**
+	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -833,6 +843,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [MotoCalculator](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - `MDY` [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) <sup>`FOSS`</sup>
 - `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`FOSS`</sup>
+- `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android)<sup>`FOSS`</sup>
 - `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1007,6 +1018,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt)
 	- `MDY` [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
 	- `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
+	- `MDY` [Confidant](https://github.com/YangDai-Github/Encryptor-Android) <sup>`FOSS`</sup>
 	- `MD` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) <sup>`FOSS`</sup>
 - **Email Forwarding**
 	- `MDY` [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) <sup>`FOSS`</sup>
@@ -1024,6 +1036,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
 	- `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 	- `MDY` [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian) <sup>`FOSS`</sup>
+	- `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`FOSS`</sup>
 	- `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`FOSS`</sup> <sup>`🧩`</sup>
 	- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 	- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
@@ -1147,7 +1160,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [CaptivePortalController](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`FOSS`</sup>
 - `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
-- `MD` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
+- `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
+- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
@@ -1161,6 +1175,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
 - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
+- `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
