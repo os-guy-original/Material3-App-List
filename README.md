@@ -179,7 +179,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup>
-- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -221,6 +220,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
+- **Other Messaging Apps** 
+	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
+	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
+	- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
@@ -234,10 +237,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 	- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
 	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
-	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
 	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-	- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -622,8 +623,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - **Voicemail**
 	- `MDY` [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
-- **Miscellaneous**
-	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1182,12 +1181,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 😼 Author
 <p>
   <a href="https://github.com/nyas1">
-    <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&colorB=black&logo=github&logoColor=black" alt="GitHub">
   </a>
   <a href="https://discord.com/users/528161316033265674">
-    <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
   </a>
   <a href="https://t.me/nyas69">
-    <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&colorA=97cbff&colorB=00639b&logo=telegram&logoColor=277bba" alt="Telegram">
   </a>
 </p>
