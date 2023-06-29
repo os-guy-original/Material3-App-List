@@ -160,6 +160,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
+- `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
+- `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`FOSS`</sup>
+- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
 - `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
@@ -181,20 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
 - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
 - `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
-- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-- `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`FOSS`</sup>
-- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
-- `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
-- `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
-- `MD` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-- `MDY` [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian) <sup>`FOSS`</sup>
-- `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`FOSS`</sup>
-- `MDY` [RideBus](https://github.com/ridebus-by/ridebus) <sup>`FOSS`</sup>
-- `MDY` [NightScreen](https://github.com/SkyD666/NightScreen) <sup>`FOSS`</sup>
-- `MDY` [Ridna - Relationship Calendar](https://github.com/nexy791/Ridna) <sup>`FOSS`</sup>
-- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
-- `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
