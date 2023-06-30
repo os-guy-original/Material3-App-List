@@ -160,6 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
 - `MDY` [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc)
 - `MD` [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) <sup>`FOSS`</sup>
@@ -184,7 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android)<sup>`FOSS`</sup>
 - `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 - `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
-- `MDY` [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -219,6 +219,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🐾`</sup>
 	- `MY` [Honista](https://t.me/Honistagram)
 - **Telegram**
+	- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) <sup>`🐾`</sup>
 	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 	- `MDY` [Lilgram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
