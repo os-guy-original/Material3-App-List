@@ -160,6 +160,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
+- `MDY` [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc)
+- `MD` [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) <sup>`FOSS`</sup>
 - `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
 - `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
 - `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`FOSS`</sup>
@@ -182,9 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 - `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
 - `MDY` [Number Tic-Tac-Toe](https://github.com/YangDai-Github/Number_Tic_Tac_Toe-Android) <sup>`FOSS`</sup>
-- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
-- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
-- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
