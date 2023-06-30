@@ -397,6 +397,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
 - `MDY` [Vibe Music](https://github.com/sheikhhaziq/vibemusic) <sup>`FOSS`</sup>
 - `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
+- `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
 #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup>, [Fork](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup>
 - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
@@ -856,6 +857,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) <sup>`FOSS`</sup>
 - `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`FOSS`</sup>
 - `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android)<sup>`FOSS`</sup>
+- `MDY` [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc)
 - `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1192,6 +1194,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
 - `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) <sup>`FOSS`</sup>
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
+- `MD` [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
