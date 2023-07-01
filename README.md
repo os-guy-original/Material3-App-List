@@ -8,7 +8,7 @@
   <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&colorA=FCEDE9&colorB=F9ADA4&logo=github&logoColor=400008">
+	<img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list">
 </p>
 <p align="center">
   <a href="https://t.me/materialyouapps">
@@ -219,10 +219,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🐾`</sup>
 	- `MY` [Honista](https://t.me/Honistagram)
 - **Telegram**
-	- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) <sup>`🐾`</sup>
 	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 	- `MDY` [Lilgram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
+	- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 	- `MY` [Owlgram](https://owlgram.org/) <sup>`🪦`</sup>
 	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
