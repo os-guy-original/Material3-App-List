@@ -160,6 +160,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
+- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) <sup>`FOSS`</sup>
+- `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
+- `MDY` [Tivi](https://play.google.com/store/apps/details?id=app.tivi)
+- `MY` [Octogram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
+- `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
+- `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`FOSS`</sup>
+- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
 - `MDY` [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc)
@@ -177,14 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
 - `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
 - `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) <sup>`FOSS`</sup>
-- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
-- `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) <sup>`FOSS`</sup>
-- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android) <sup>`FOSS`</sup>
-- `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`FOSS`</sup>
-- `MDY` [Confidant](https://github.com/YangDai-Github/Encryptor-Android) <sup>`FOSS`</sup>
-- `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android)<sup>`FOSS`</sup>
-- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
-- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
