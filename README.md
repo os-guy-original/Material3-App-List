@@ -159,6 +159,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
+- `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
+- `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
+- `MDY` [Key Mapper](https://github.com/keymapperorg/KeyMapper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Mint Calc](https://github.com/boredcodebyk/mintcalc) <sup>`FOSS`</sup>
+- `MDY` [Telemone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup>
+- `MDY` [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user)
+- `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
+- `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
+- `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup>
+- `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup>
 - `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
 - `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) <sup>`FOSS`</sup>
 - `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
@@ -172,18 +184,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc)
 - `MD` [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) <sup>`FOSS`</sup>
 - `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
-- `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
-- `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`FOSS`</sup>
-- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-- `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
-- `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
-- `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
-- `MDY`[Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
-- `MDY` [Mellow Music](https://github.com/SuhasDissa/MellowMusic) <sup>`FOSS`</sup>
-- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
-- `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
-- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
-- `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
