@@ -113,7 +113,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |**`💰`**|Paid apps / Apps with time limited free trial.|
 |**`#️⃣`**|Apps that require rooted device.|
 |**`🧩`**|Apps that require Xposed Framework|
-|**`🪦`**|App is development is discontinued/paused indefinitely.|
+|**`🪦`**|App whose development is discontinued/paused indefinitely.|
 |**`🐾`**|Apps that I personally use 😺.|
 
 - ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots. Please report wrong indicators.  
