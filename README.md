@@ -172,7 +172,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup>
 - `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup>
 - `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
-- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) <sup>`FOSS`</sup>
+- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
 - `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
 - `MDY` [Tivi](https://play.google.com/store/apps/details?id=app.tivi)
 - `MY` [Octogram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
@@ -238,7 +238,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Other Messaging Apps** 
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>, `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-	- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
+	- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+	- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
@@ -253,7 +254,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-	- `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) <sup>`FOSS`</sup>
+	- `MD` [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia) <sup>`FOSS`</sup>
 	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -358,7 +359,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
 	- `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
 	- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
-	- `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme) <sup>`FOSS`</sup>
+	- `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme)
 	- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
 - **Draw Board**
 	- `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
@@ -815,7 +816,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Widepaper - Desktop Wallpapers](https://play.google.com/store/apps/details?id=com.lagguy.widepapers)
 	- `MDY` [Abstracto](https://play.google.com/store/apps/details?id=com.lagguy.abstracto)
 	- `MDY` [Frames](https://github.com/jahirfiquitiva/Frames) <sup>`FOSS`</sup>
-	- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) <sup>`FOSS`</sup>
+	- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup>
 - **Widgets/Shortcuts**
@@ -884,7 +885,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 - `MDY` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
-- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon), [Google Meet (original)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
+- `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
+- `MDY` [Google Meet (original)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
 - `MDY` [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red)
 - `MDY` [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
 - `MDY` [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
