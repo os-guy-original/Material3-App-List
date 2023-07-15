@@ -28,7 +28,7 @@
 - [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
 	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
-- [🆕 Newly Added Apps!](#-newly-added-apps)
+- [🆕Newly Added Apps!](#-newly-added-apps)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media Clients](#-social-media-clients)
 	- [📖 Readers](#-readers)
