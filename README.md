@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="#-newly-added-apps">
-    <span style="display:inline-block;"><strong><u>🆕CHECKOUT NEWLY ADDED APPS HERE!🆕</u></strong></span>
+    <span style="display:inline-block;"><strong><u>🆕CHECKOUT NEWLY ADDED APPS HERE🆕</u></strong></span>
   </a>
 </p>
 
