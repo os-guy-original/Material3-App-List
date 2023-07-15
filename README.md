@@ -86,7 +86,7 @@
 		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 		- [🧩 Material Catalogs](#-material-catalogs)
-  		- [⚙️ Other devices control](#%EF%B8%8F-other-devices-control)
+  		- [⚙️ Contollable You](#%EF%B8%8F-controllable-you)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -1147,7 +1147,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 ---
-#### ⚙️ Other devices control
+#### ⚙️ Contollable You
 - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
