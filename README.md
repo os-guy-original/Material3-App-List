@@ -762,6 +762,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
+- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android) 
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
@@ -1198,7 +1199,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android) <sup>`FOSS`</sup>
+<sup>`FOSS`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
 - `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
 - `MDY`[Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
