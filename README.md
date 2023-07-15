@@ -86,6 +86,7 @@
 		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 		- [🧩 Material Catalogs](#-material-catalogs)
+  		- [🕹 Other devices control](#-other-devices-control)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
