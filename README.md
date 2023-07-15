@@ -124,7 +124,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🏛️ Hall Of Fame
 ### 🏆 Best Implementation of Material You
-- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 - `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
@@ -193,7 +192,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 👥 Social Media Clients
 - **Reddit** <br></br>
 *How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
-	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 	- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
 	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
