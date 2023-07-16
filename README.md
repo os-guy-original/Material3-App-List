@@ -228,6 +228,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
 	- `MY` [Octogram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
+	- `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
 - **Matrix**
 	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
 - **Lemmy**
@@ -759,6 +760,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
+- `MDY` [VIC](https://github.com/iamlooper/VIC)
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
@@ -1242,7 +1244,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
     <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&colorB=black&logo=github&logoColor=black" alt="GitHub">
   </a>
   <a href="https://discord.com/users/528161316033265674">
-    <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-@Nyas69-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
   </a>
   <a href="https://t.me/nyas69">
     <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&colorA=97cbff&colorB=00639b&logo=telegram&logoColor=277bba" alt="Telegram">
