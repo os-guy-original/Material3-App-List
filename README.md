@@ -191,7 +191,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 📱 Known apps
 ### 👥 Social Media Clients
-- **Reddit** <br></br>
+- **Reddit** <br>
 *How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
 	- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
@@ -216,7 +216,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
 	- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-	- `Soon?`<sup>[`when?`](https://discord.com/channels/1015931589865246730/1015931590741872712/1093249016646598786)</sup> [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://materialdetta.vorlie.pl/)
 - **Instagram**
 	- `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🐾`</sup>
 	- `MY` [Honista](https://t.me/Honistagram)
@@ -616,6 +616,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
 	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
+	- `MDY` [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser)
+	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
 	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -794,7 +796,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
 	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
 	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
-	- `MDY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MDY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup> <sup>`🐾`</sup>, `MDY` [Lawnicons by TF](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup>
 	- `MDY` [DGicons Monet](https://t.me/MaterialYouAppsChat/2362)
 	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
 	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup>
@@ -928,6 +930,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
 - `MDY` [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
+- `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
 - `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) <sup>`FOSS`</sup>
 - `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
 - **Quotes**
