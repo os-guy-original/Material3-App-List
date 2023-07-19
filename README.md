@@ -70,7 +70,7 @@
 	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
 	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /></a> [Other Google Apps](#-other-google-apps)
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
-	- [🎓 Education/School](#-education/school)
+	- [🎓 Education/School](#-educationschool)
 	- [🛐 Religious](#-religious)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
@@ -1150,18 +1150,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 ---
 #### ⚙️ Other device control
 - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-- `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
-- `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
-- `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
 - `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`FOSS`</sup>
 - `MDY` [My Server Status](https://github.com/JGeek00/my-server-status-app) <sup>`FOSS`</sup>
+- `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
 - `MDY` [DroidHole](https://github.com/JGeek00/droid-hole) <sup>`FOSS`</sup>
+- `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
+- `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 ---
 ### 🔧 Miscellaneous Apps
 - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
