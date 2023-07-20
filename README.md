@@ -455,7 +455,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
 - `MDY` [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
 - `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
-- `MD` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
+- `MDY` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 #### 🖥️ Media Servers
 - `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) <sup>`FOSS`</sup>
 - `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
@@ -1253,7 +1253,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 😼 Author
 <p>
   <a href="https://github.com/nyas1">
-    <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&colorB=black&logo=github&logoColor=black" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&colorA=BAC8D7&colorB=black&logo=github&logoColor=black" alt="GitHub">
   </a>
   <a href="https://discord.com/users/528161316033265674">
     <img src="https://img.shields.io/badge/Discord-@Nyas69-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
