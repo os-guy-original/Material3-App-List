@@ -86,7 +86,7 @@
 		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 		- [🧩 Material Catalogs](#-material-catalogs)
-  		- [⚙️ Other deivce control](#%EF%B8%8F-other-device-control)
+  		- [⚙️ Other device control](#%EF%B8%8F-other-device-control)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -161,7 +161,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
-- - `MDY` [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser)
+- `MDY` [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser)
 - `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
 - `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
 - `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
