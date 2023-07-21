@@ -161,7 +161,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
-- `MDY` [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser)
+- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
 - `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
 - `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
 - `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
@@ -616,7 +616,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
 	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
-	- `MDY` [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser)
+	- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
 	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
 	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
