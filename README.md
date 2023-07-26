@@ -160,6 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Wallman](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
 - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
 - `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
 - `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
@@ -184,7 +185,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`FOSS`</sup>
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
-- `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
