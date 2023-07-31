@@ -72,6 +72,7 @@
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education/School](#-educationschool)
 	- [🛐 Religious](#-religious)
+	- [🌎 VPNs/Proxies](#-vpnsproxies)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
 		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
@@ -87,7 +88,6 @@
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 		- [🧩 Material Catalogs](#-material-catalogs)
   		- [⚙️ Other device control](#%EF%B8%8F-other-device-control)
-        - [🌎 VPNs/Proxies](#-vpnsproxies)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -968,6 +968,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
+### 🌎 VPNs/Proxies
+- `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
+- `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
+- `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
+- `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
+- `MDY` [ClashYou](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
 ### 🧰 System Tools
 
 #### 📁 File Explorers
@@ -1195,16 +1205,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-### 🌎 VPNs/Proxies
-- `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
-- `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
-- `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
-- `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
-- `MDY` [ClashYou](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
----
-
 ### 🔧 Miscellaneous Apps
 - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
 - `MDY` [Metronome](https://github.com/Kr0oked/Metronome) <sup>`FOSS`</sup>
@@ -1244,7 +1244,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-<sup>`FOSS`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
 - `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
 - `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
