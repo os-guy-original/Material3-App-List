@@ -1066,6 +1066,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -1162,7 +1163,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
 - `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> <sup>`🧩`</sup>
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
-
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
