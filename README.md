@@ -198,7 +198,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 	- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
 	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-        - `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
+	- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
 	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
@@ -378,12 +378,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
 	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
 	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
-        - `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
+	- `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-
 ### 🎬 Media
 #### 🎵 Music Players
 - `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro), [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) <sup>`FOSS`</sup>
@@ -489,7 +488,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Cromite](https://github.com/uazo/cromite) <sup>`FOSS`</sup>
 	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup>
 	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup>
-        - `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
+	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
 - **Other**
 	- `MDY` [FOSS Browser](https://github.com/scoute-dich/browser) <sup>`FOSS`</sup>
@@ -995,7 +994,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - **File Transfer**
 	- `MDY` [LocalSend](https://github.com/localsend/localsend) <sup>`FOSS`</sup>
-        - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
+	- `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
 	- `MD` [Photon](https://github.com/abhi16180/photon) <sup>`FOSS`</sup>
 	- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
 
