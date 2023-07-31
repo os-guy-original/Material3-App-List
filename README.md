@@ -72,6 +72,7 @@
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education/School](#-educationschool)
 	- [🛐 Religious](#-religious)
+	- [🌎 VPNs/Proxies](#-vpnsproxies)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
 		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
@@ -160,32 +161,31 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-- `MDY` [Wallman](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
-- `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`FOSS`</sup>
-- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
-- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
-- `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
-- `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
-- `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
-- `MDY` [Key Mapper](https://github.com/keymapperorg/KeyMapper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Mint Calc](https://github.com/boredcodebyk/mintcalc) <sup>`FOSS`</sup>
-- `MDY` [Telemone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup>
-- `MDY` [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user)
-- `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
-- `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
-- `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
-- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup>
-- `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup>
-- `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
-- `MDY` [iOSXPC Wallpaper](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
-- `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
-- `MDY` [Tivi](https://play.google.com/store/apps/details?id=app.tivi)
-- `MY` [Octogram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
-- `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
-- `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`FOSS`</sup>
-- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
-- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
-
+- `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+- `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
+- `MD` [TV Randshow](https://github.com/deandreamatias/tv-randshow) <sup>`FOSS`</sup>
+- `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
+- `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
+- `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup>
+- `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
+- `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) <sup>`💰`</sup>
+- `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
+- `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
+- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
+- `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
+- `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
+- `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
+- `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
+- `MDY` [ClashYou](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
+- `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
+- `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
+- `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> <sup>`🧩`</sup>
+- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
+- `MDY` [Pearl](https://play.google.com/store/apps/details?id=com.pearl.music)
+- `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
+- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
+- `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -197,6 +197,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 	- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
 	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
+        - `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
 	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
@@ -376,13 +377,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
 	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
 	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
+        - `MD` [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
+
 ### 🎬 Media
 #### 🎵 Music Players
-- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
+- `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro), [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) <sup>`FOSS`</sup>
 - `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
 - `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
 - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
@@ -392,7 +395,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
 - `MDY` [Mellow Music](https://github.com/SuhasDissa/MellowMusic) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
+- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
+- `MDY` [Pearl](https://play.google.com/store/apps/details?id=com.pearl.music)
+- `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
+- `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
 #### ▶️ Video Players
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>, [VLC Media Player](https://t.me/projectmaterial/914) <sup>`MOD`</sup>
@@ -403,13 +410,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
-- `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager) <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+- `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager) <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
 #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
 - `MDY` [Vibe Music](https://github.com/sheikhhaziq/vibemusic) <sup>`FOSS`</sup>
 - `MDY` [Musify](https://github.com/gokadzev/Musify) <sup>`FOSS`</sup>
 - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
+- `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
+- `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup>
 #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup>, [Fork](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup>
 - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
@@ -423,6 +432,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
+- `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+- `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
 - `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
 - `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
@@ -444,6 +455,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
 - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`FOSS`</sup>
 - `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
+- `MD` [TV Randshow](https://github.com/deandreamatias/tv-randshow) <sup>`FOSS`</sup>
 - `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup>
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 #### 🎛️ Equalizers
@@ -475,6 +487,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Cromite](https://github.com/uazo/cromite) <sup>`FOSS`</sup>
 	- `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) <sup>`FOSS`</sup>
 	- `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup>
+        - `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
 - **Other**
 	- `MDY` [FOSS Browser](https://github.com/scoute-dich/browser) <sup>`FOSS`</sup>
@@ -490,6 +503,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`🐾`</sup>
 - `MDY` [Thumb Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
+- `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
 - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
 
@@ -623,7 +637,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
 	- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
-	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor)
+	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) <sup>`💰`</sup>
 	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -689,6 +703,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`FOSS`</sup>
 - `MDY` [Record You](https://github.com/Bnyro/recordYou) <sup>`FOSS`</sup>
 - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
+- `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) <sup>`💰`</sup>
 - `MY` [MotoAudioRecorder](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -773,6 +788,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
 - `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android)
 - `MDY` [VIC](https://github.com/iamlooper/VIC)
+- `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
@@ -952,6 +968,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
+### 🌎 VPNs/Proxies
+- `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
+- `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
+- `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
+- `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
+- `MDY` [ClashYou](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
 ### 🧰 System Tools
 
 #### 📁 File Explorers
@@ -961,10 +987,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`FOSS`</sup>
 - `MDY` [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 - `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer) <sup>`💰`</sup>
+- `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - **File Transfer**
 	- `MDY` [LocalSend](https://github.com/localsend/localsend) <sup>`FOSS`</sup>
+        - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
 	- `MD` [Photon](https://github.com/abhi16180/photon) <sup>`FOSS`</sup>
 	- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
 
@@ -1037,6 +1065,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
+- `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1131,6 +1160,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 #### 🕹️ Device Automation
 - `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
+- `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
+- `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> <sup>`🧩`</sup>
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1213,13 +1244,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Tune Detective](https://github.com/n000tavailable/tunedetective) <sup>`FOSS`</sup>
 - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-<sup>`FOSS`</sup>
 - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`FOSS`</sup>
 - `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) <sup>`FOSS`</sup>
 - `MDY` [Mealient](https://github.com/kirmanak/Mealient) <sup>`FOSS`</sup>
 - `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`FOSS`</sup>
 - `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
 - `MDY` [Key Mapper](https://github.com/keymapperorg/KeyMapper) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
