@@ -830,7 +830,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Wallpaper**
 	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- `MDY` [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
-	- `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`FOSS`</sup>, [WallYou X](https://github.com/AyraHikari/WallYouX/) <sup>`FOSS`</sup>
+	- `MDY` [Wall You](https://github.com/Bnyro/WallYou) <sup>`FOSS`</sup>
 	- `MDY` [Lamartine: Live Wallpaper](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine)
 	- `MDY` [Doodle: Live Wallpapers](https://github.com/patzly/doodle-android) <sup>`FOSS`</sup>
 	- `MDY` [Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
