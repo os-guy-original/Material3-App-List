@@ -966,6 +966,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🌎 VPNs/Proxies
+*Free VPNs are not recommended: [Read](https://www.makeuseof.com/why-you-should-never-use-a-free-vpn/)*
 - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
 - `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
