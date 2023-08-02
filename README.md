@@ -183,7 +183,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
 - `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> <sup>`🧩`</sup>
 - `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
-- `MDY` [Pearl](https://play.google.com/store/apps/details?id=com.pearl.music)
 - `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 
@@ -196,14 +195,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 *How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
 	- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
-	- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
 	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
 	- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
 	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
 - **Twitter**
-	- `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 	- `MY` [harpy for Twitter](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
 	- `MY` [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
 	- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
@@ -211,7 +208,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 	- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
 	- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
-	- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
 	- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 	- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 - **Discord**
@@ -396,7 +392,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Mellow Music](https://github.com/SuhasDissa/MellowMusic) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
 - `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
-- `MDY` [Pearl](https://play.google.com/store/apps/details?id=com.pearl.music)
 - `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
 - `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -467,7 +462,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🎙️ Podcast
 - `MDY` [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
 - `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
-- `MDY` [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
 - `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
 - `MDY` [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
@@ -807,6 +801,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [ClockYou](https://github.com/Bnyro/ClockYou) <sup>`FOSS`</sup>
 - `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
 - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
+- `MD` [Formula Timer](https://play.google.com/store/apps/details?id=com.therxmv.f1timer)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
