@@ -120,7 +120,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots. Please report wrong indicators.  
 - ⚠️ Some apps might require additional setup in order to achieve MY theming.  
-- 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, , XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
+- 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
 ## 🏛️ Hall Of Fame
