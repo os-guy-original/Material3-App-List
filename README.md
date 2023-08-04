@@ -120,7 +120,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots. Please report wrong indicators.  
 - ⚠️ Some apps might require additional setup in order to achieve MY theming.  
-- 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
+- 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, , XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
 ## 🏛️ Hall Of Fame
@@ -221,19 +221,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Telegram**
 	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) <sup>`🐾`</sup>
 	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
-	- `MDY` [Lilgram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
+	- `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
 	- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
-	- `MY` [Owlgram](https://owlgram.org/) <sup>`🪦`</sup>
+	- `MY` [OwlGram](https://owlgram.org/) <sup>`🪦`</sup>
 	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-	- `MY` [Octogram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
+	- `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 	- `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
 - **Matrix**
-	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
+	- `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
 - **Lemmy**
 	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 	- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-	- `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`FOSS`</sup>
 	- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 - **Other Messaging Apps** 
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>, `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
@@ -277,7 +276,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **RSS/News Reader**
 	- `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`FOSS`</sup>
 	- `MDY` [News](https://github.com/bubelov/news) <sup>`FOSS`</sup>
-	- `MDY` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`FOSS`</sup>
+	- `MDY` [Feeder](https://github.com/spacecowboy/Feeder) <sup>`FOSS`</sup>
 	- `MDY` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
 	- `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup>
 	- `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
