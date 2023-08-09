@@ -162,6 +162,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Gcamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
+- `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
+- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
+- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 - `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`FOSS`</sup>
 - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
@@ -182,10 +186,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
 - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
-- `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> <sup>`🧩`</sup>
-- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
-- `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
