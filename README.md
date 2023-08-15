@@ -30,7 +30,7 @@
 	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
 - [📱 Known apps](#-known-apps)
-	- [👥 Social Media Clients](#-social-media-clients)
+	- [👥 Social Media](#-social-media)
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
@@ -188,7 +188,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ## 📱 Known apps
-### 👥 Social Media Clients
+### 👥 Social Media
 - **Reddit** <br>
 *How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
 	- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
@@ -233,11 +233,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 	- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 	- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
+- **Whatsapp**
+	- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+	- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
+   	- **Miscellaneous**
+   	  	- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
+   	  	- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
+   	  	- `MD` [WA Tweaker](https://watweaker.com/)
 - **Other Messaging Apps** 
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>, `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-	- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
-	- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
@@ -1223,10 +1228,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Logra](https://github.com/wingio/Logra) <sup>`FOSS`</sup>
 - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
 - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
-- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
 - `MDY` [Jetisteam](https://github.com/iTaysonLab/jetisteam) <sup>`FOSS`</sup>
 - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`FOSS`</sup>
-- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
 - `MDY` [Coffee](https://github.com/mueller-ma/Coffee) <sup>`FOSS`</sup>
 - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`FOSS`</sup>
 - `MDY` [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) <sup>`FOSS`</sup> 
@@ -1271,6 +1274,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Mi FreeForm](https://github.com/sunshine0523/Mi-Freeform) <sup>`FOSS`</sup>
 - `MDY` [Samsung Firmware Downloader](https://github.com/zacharee/SamloaderKotlin) <sup>`FOSS`</sup>
 - `MDY` [Prayer Times](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes)
+- `MDY` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
@@ -1282,8 +1286,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Octi](https://github.com/d4rken-org/octi) <sup>`FOSS`</sup>
 - `MD` [CAPod](https://github.com/d4rken-org/capod) <sup>`FOSS`</sup>
 - `MD` [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer)
-- `MD` [WA Tweaker](https://watweaker.com/) 
-- `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
 - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
 - `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) <sup>`FOSS`</sup>
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
