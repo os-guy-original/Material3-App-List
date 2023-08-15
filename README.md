@@ -339,6 +339,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
 	- `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+   	- `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`FOSS`</sup>
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
@@ -1268,6 +1269,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Mi FreeForm](https://github.com/sunshine0523/Mi-Freeform) <sup>`FOSS`</sup>
 - `MDY` [Samsung Firmware Downloader](https://github.com/zacharee/SamloaderKotlin) <sup>`FOSS`</sup>
 - `MDY` [Prayer Times](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes)
+- `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
 - `MD` [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) <sup>`FOSS`</sup>
 - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`FOSS`</sup>
