@@ -5,9 +5,6 @@
   <img src="https://github.com/TeaEndsAcronyms/Material-You-app-list-Fork/assets/123305689/0c82f332-2d36-4af8-88c1-32e9e353b233" alt="MaterialYou">
 </p>
 <p align="center">
-  <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
-</p>
-<p align="center">
 	<img src="https://m3-markdown-badges.vercel.app/stars/1/2/nyas1/Material-You-app-list">
 </p>
 <p align="center">
