@@ -118,6 +118,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`FOSS`</sup>
+- `MDY` [Tremotesf](https://github.com/equeim/tremotesf-android) <sup>`FOSS`</sup>
+- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
+- `MDY` [App APK Extractor & Analyzer](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor)
+- `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
+- `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`FOSS`</sup>
+- `MDY` [Wallpapers Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos)
+- `MD` [Baby on Board (aka. BoB)](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
+- `MDY` [Pixel - Music Player](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💰`</sup>
 - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`FOSS`</sup>
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup>
@@ -135,14 +144,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`FOSS`</sup>
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
 - `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
-- `MD` [Gcamloader](https://play.google.com/store/apps/details?id=net.metareverse.gcamloader)
-- `MDY` [Rwiftkey Themes for SwiftKey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`FOSS`</sup>
-- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup>
-- `MD` [Gcamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
-- `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
-- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
-- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
-- `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
