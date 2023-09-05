@@ -23,9 +23,7 @@
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Abbreviations](#%EF%B8%8F-abbreviations)
 - [🆕Newly Added Apps!](#-newly-added-apps)
-- [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
-	- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
-	- [💩 Worst Implementation of Material You](#-worst-implementation-of-material-you-no-hate-to-dev-%EF%B8%8F)
+- [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
 	- [📖 Readers](#-readers)
@@ -106,6 +104,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |Abbreviation|Meaning|
 |:-:|-|
 |**`FOSS`**|Apps are Free and Open Source. No indicator means app is Closed Source.|
+|**`FORK`**|
 |**`MOD`**|Apps that are unofficially Modded (not pirated) by a dev other than its original dev.|
 |**`PORT`**|Apps Ported<sup><sup>[`1`](https://en.wikipedia.org/wiki/Porting)</sup></sup> from OEM roms like MyUI, OneUI, etc.|
 |**`💰`**|Paid apps / Apps with time limited free trial.|
@@ -148,8 +147,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-## 🏛️ Hall Of Fame
-### 🏆 Best Implementation of Material You
+## 🏆 Best Implementation of Material You
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
@@ -172,15 +170,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
 - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
-### 💩 Worst Implementation of Material You (No Hate to Dev ♥️)
-- `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
-- `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
-- `MY` [Nova Launcher](https://novalauncher.com/beta)
-- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
-- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
-- `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
-- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) <sup>`FOSS`</sup>
-- `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -244,8 +233,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Other Messaging Apps**
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
- 	- `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
-  	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
+ 	- `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
    	- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
@@ -270,8 +259,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
 	- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup>
-	- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup>
-	- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup>
+	- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup>
 	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup>
 	- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup>
@@ -417,8 +406,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎬 Media
 #### 🎵 Music Players
 - `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup>
-- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup> 
+- `MDY` [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) <sup>`FOSS`</sup> <sup>`FORK`</sup> 
 - `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) 
 - `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
 - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
@@ -435,7 +424,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
 #### ▶️ Video Players
-- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> , [VLC Media Player](https://t.me/projectmaterial/914) <sup>`MOD`</sup>
+- `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
+- `MDY` [VLC Media Player](https://t.me/projectmaterial/914) <sup>`MOD`</sup> <sup>`FORK`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup> 
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
