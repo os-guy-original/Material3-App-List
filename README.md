@@ -104,7 +104,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |Abbreviation|Meaning|
 |:-:|-|
 |**`FOSS`**|Apps are Free and Open Source. No indicator means app is Closed Source.|
-|**`FORK`**|
+|**`FORK`**|Projects that uses The source code of an other project as a starting point,  then adds modifications on top of it.|
 |**`MOD`**|Apps that are unofficially Modded (not pirated) by a dev other than its original dev.|
 |**`PORT`**|Apps Ported<sup><sup>[`1`](https://en.wikipedia.org/wiki/Porting)</sup></sup> from OEM roms like MyUI, OneUI, etc.|
 |**`💰`**|Paid apps / Apps with time limited free trial.|
