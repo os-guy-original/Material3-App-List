@@ -344,7 +344,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`FOSS`</sup>
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
-	- `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
    	- `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`FOSS`</sup>
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
