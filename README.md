@@ -493,7 +493,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
 - `MD` [TV Randshow](https://github.com/deandreamatias/tv-randshow) <sup>`FOSS`</sup>
 - `MD` [GG: Game Giveaways Notifier](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways)
-- `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`FOSS`</sup>
+- `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`FOSS`</sup>
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 #### 🎛️ Equalizers
 - `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
