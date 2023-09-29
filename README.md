@@ -237,13 +237,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 	- `MY` [VK Equals](https://t.me/vkequals)
 	- `MY` [ctVK](https://t.me/ctwVK)
+ - **Pixiv**
+        - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
+	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
+	
 - **Other Messaging Apps**
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
 	- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
  		- `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
   		- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-   	- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
@@ -251,7 +254,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup>
 	- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
 	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
-	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup>
 	- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
 	- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 	- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
@@ -484,7 +486,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
 - `MDY` [Movies](https://github.com/michaelbel/movies) <sup>`FOSS`</sup>
 - `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
-- `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
 - `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup>
 - `MDY` [Tivi](https://play.google.com/store/apps/details?id=app.tivi)
 - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`FOSS`</sup>
@@ -619,7 +620,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🌦️ Weather
 - `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
 - `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
-- `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`FOSS`</sup>
+- `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`FOSS`</sup> <sup> `🪦` </sup>
 - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`FOSS`</sup>
 - `MDY` [Air - Pollution around you](https://play.google.com/store/apps/details?id=com.urbandroid.air)
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`PORT`</sup>
@@ -627,7 +628,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
 - `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`FOSS`</sup>
 - `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`FOSS`</sup>
-- `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`FOSS`</sup>
+- `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`FOSS`</sup> <sup> `FORK` </sup>
 - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`FOSS`</sup>
 - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
 
@@ -1045,7 +1046,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🌎 VPNs/Proxies
 *Free VPNs are not recommended: [Read](https://www.makeuseof.com/why-you-should-never-use-a-free-vpn/)*
 - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
-- `MDY` [Surrfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
+- `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`FOSS`</sup>
 - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
 - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`FOSS`</sup>
