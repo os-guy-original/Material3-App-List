@@ -227,10 +227,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Whatsapp**
 	- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
 	- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
-   	- **Miscellaneous**
-   	  	- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
-   	  	- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
-   	  	- `MD` [WA Tweaker](https://watweaker.com/)
+	- **Miscellaneous**
+		- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
+		- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
+		- `MD` [WA Tweaker](https://watweaker.com/)
 - **VK**
 	- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -238,8 +238,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [VK Equals](https://t.me/vkequals)
 	- `MY` [ctVK](https://t.me/ctwVK)
  - **Pixiv**
-        - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
-	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
+	 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
+	 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
 	
 - **Other Messaging Apps**
 	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
