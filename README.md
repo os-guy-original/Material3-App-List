@@ -482,14 +482,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`FOSS`</sup>
 - `MDY` [Animite](https://github.com/imashnake0/Animite) <sup>`FOSS`</sup>
 - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
-- `MDY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
 - `MDY` [Live Football on TV Guide](https://play.google.com/store/apps/details?id=com.livefootballontv.free)
 - `MDY` [Movies](https://github.com/michaelbel/movies) <sup>`FOSS`</sup>
 - `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`FOSS`</sup>
 - `MDY` [Nekome](https://github.com/Chesire/Nekome) <sup>`FOSS`</sup>
 - `MDY` [Tivi](https://play.google.com/store/apps/details?id=app.tivi)
 - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`FOSS`</sup>
-- `MDY` [Flow - Рутрекер Клиент](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
+- `MY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
 - `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`FOSS`</sup>
 - `MD` [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt)
 - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>
@@ -964,6 +963,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Spotify**
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup> 
 - **Torrenting**
+        - `MDY` [Flow - Рутрекер Клиент](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
 	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
 	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
 - **Miscellaneous**
