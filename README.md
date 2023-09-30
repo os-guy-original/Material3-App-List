@@ -73,7 +73,6 @@
 		- [📁 File Explorers](#-file-explorers)
 		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
 		- [#️⃣ SuperUser](#%EF%B8%8F%E2%83%A3-superuser)
-		- [🔦 Flashlight](#-flashlight)
 		- [📲 Device Info/Monitors](#-device-infomonitors)
 		- [🔐 Security](#-security)
 		- [🔏 Privacy](#-privacy)
