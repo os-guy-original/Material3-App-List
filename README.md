@@ -1113,8 +1113,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 #### #️⃣ SuperUser
 - **Magisk Manager**
-	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup> 
-	- `MDY` [Magisk Delta Monet](https://github.com/HuskyDG/magisk-files) <sup>`FOSS`</sup>
+	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup>
 - **Module Managers**
 	- `MDY` [Mrepo](https://github.com/ya0211/MRepo) <sup>`FOSS`</sup> 
 	- `MDY` [FoxMMM](https://github.com/Androidacy/MagiskModuleManager) <sup>`FOSS`</sup>
