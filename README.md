@@ -22,13 +22,14 @@
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
 - [➡️ Abbreviations](#%EF%B8%8F-abbreviations)
+- [🆕 Newly Added Apps!](#-newly-added-apps)
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
-	- [🖋️ Text/Code Editors](#textcode-editorside)
+	- [🖋️ Text/Code Editors](#%EF%B8%8F-textcode-editorside)
 	- [🎬 Media](#-media)
 		- [🎵 Music Players](#-music-players)
 		- [▶️ Video Players](#%EF%B8%8F-video-players)
@@ -67,7 +68,7 @@
 	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education/School](#-educationschool)
 	- [🌎 VPNs/Proxies](#-vpnsproxies)
-	- [🔦 Flashlight](#-flashlight)
+	- [🔦 Flashlights](#-flashlights)
 	- [🔢 Counters](#-counters)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
@@ -115,6 +116,36 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
+## 🆕 Newly Added Apps!
+*Last **25 apps** that were recently added to list!*
+- `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
+- `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) <sup>`FOSS`</sup>
+- `MDY` [Score Counter](https://github.com/hegocre/ScoreCounter) <sup>`FOSS`</sup>
+- `MY` [Counter](https://play.google.com/store/apps/details?id=me.tsukanov.counter)
+- `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`FOSS`</sup>
+- `MDY` [Waveteam Android Bomber](https://t.me/androidsmsbomber)
+- `MDY` [Racó](https://github.com/hegocre/RacoAndroid) <sup>`FOSS`</sup>
+- `MDY` [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases) <sup>`FOSS`</sup>
+- `MY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
+- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
+- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MY` [VK Equals](https://t.me/vkequals)
+- `MY` [ctVK](https://t.me/ctwVK)
+- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
+- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
+- `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
+- `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
+- `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
+- `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
+- `MDY` [CodeFusion: Code Editor](https://play.google.com/store/apps/details?id=com.alif.editor.code)
+- `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
+- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
+- `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 ## 🏆 Best Implementation of Material You
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
