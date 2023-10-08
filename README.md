@@ -414,6 +414,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
 - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
 - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
+- `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
 - **Google**
 	- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 	- `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
@@ -1047,6 +1048,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) <sup>`FOSS`</sup>
 - `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
 - `MD` [Google Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural)
+- `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
 - **Quotes**
 	- `MDY` [Literary Clock](https://github.com/AChep/literaryclock)  <sup>`FOSS`</sup>
 	- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) <sup>`FOSS`</sup>
