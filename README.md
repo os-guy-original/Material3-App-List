@@ -22,69 +22,81 @@
 ---
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
-- [➡️ Abbreviations](#%EF%B8%8F-abbreviations)
+- [➡️ Abbreviations](#-abbreviations)
 - [🆕 Newly Added Apps!](#-newly-added-apps)
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" /></a> [Reddit](#-reddit)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /></a> [X(Twitter)](#-twitter)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="15" height="17" /></a> [Mastodon](#-mastodon)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="17" height="17" /></a> [Discord](#-discord)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="17" height="17" /></a> [Instagram](#-instagram)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="17" height="17" /></a> [Telegram](#-telegram)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="17" height="17" /></a> [Lemmy](#-lemmy)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="17" height="17" /></a> [Whatsapp](#-whatsapp)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /></a> [VK](#-vk)
+		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="17" height="17" /></a> [Pixiv](#-pixiv)
+		- [🔧 Other Social Media](#-other-social-media-apps)
+		- [🔧 Miscellaneous](#-miscellaneous)
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
-	- [🖋️ Text/Code Editors](#%EF%B8%8F-textcode-editorside)
+	- [🖋️ Text/Code Editors](#-textcode-editorside)
 	- [🎬 Media](#-media)
 		- [🎵 Music Players](#-music-players)
-		- [▶️ Video Players](#%EF%B8%8F-video-players)
+		- [▶️ Video Players](#-video-players)
 		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube Clients](#-youtube-clients)
 		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="17" height="17" /></a> [Youtube Music Clients](#-youtube-music-clients)
 		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="17" height="17" /></a> [Spotify Clients](#-spotify-clients)
 		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="17" height="17" /></a> [Subsonic Clients](#-subsonic-clients)
 		- [📺 Streaming Services](#-streaming-services)
 		- [📑 Tracking Services](#-tracking-services)
-		- [🎛️ Equalizers](#%EF%B8%8F-equalizers)
-		- [🎙️ Podcast](#%EF%B8%8F-podcast)
-		- [🖥️ Media Servers](#%EF%B8%8F-equalizers)
+		- [🎛️ Equalizers](#-equalizers)
+		- [🎙️ Podcast](#-podcast)
+		- [🖥️ Media Servers](#-equalizers)
 	- [🌐 Browsers](#-browsers)
-	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
-	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
+	- [⌨️ Keyboards](#-keyboards)
+	- [🖌️ Theming Apps](#-theming-apps)
 	- [💸 Economy](#-economy)
-	- [🌦️ Weather](#%EF%B8%8F-weather)
-	- [🎮 Games & Emulators](#-games--emulators)
-	- [🖼️ Gallery](#%EF%B8%8F-gallery)
+	- [🌦️ Weather](#-weather)
+	- [🎮 Games/Emulators](#-gamesemulators)
+	- [🖼️ Gallery](#-gallery)
 	- [🔬 Scanners](#-scanners)
-	- [🗓️ Calendar](#%EF%B8%8F-calendar)
+	- [🗓️ Calendar](#-calendar)
 	- [📞 Communication](#-communication)
 	- [📷 Camera](#-camera)
-	- [🎙️ Audio Recorder](#%EF%B8%8F-audio-recorder)
-	- [🧘‍♂️ Health & Well-being](#%EF%B8%8F-health--well-being)
+	- [🎙️ Audio Recorder](#-audio-recorder)
+	- [🧘‍♂️ Health & Well-being](#-health--well-being)
 	- [🛒 Shopping](#-shopping)
-	- [🗺️ Maps/Navigation](#%EF%B8%8F-mapsnavigation)
+	- [🗺️ Maps/Navigation](#-mapsnavigation)
 	- [📧 Email Clients](#-email-clients)
 	- [🈸 Translators](#-translators)
 	- [🤖 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-	- [⏱️ Clocks/Timers](#%EF%B8%8F-clockstimers)
+	- [⏱️ Clocks/Timers](#-clockstimers)
 	- [🎴 Icons/Wallpapers/Widgets](#-iconswallpaperswidgets)
-	- [⬇️ Download Managers](#%EF%B8%8F-download-managers)
+	- [⬇️ Download Managers](#-download-managers)
 	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
 	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /></a> [Other Google Apps](#-other-google-apps)
-	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
+	- [👁️‍🗨️ Accessibility](#-accessibility)
 	- [🎓 Education/School](#-educationschool)
-	- [🌎 VPNs/Proxies](#-vpnsproxies)
+	- [🌎 VPN/Proxy](#-vpnsproxies)
 	- [🔦 Flashlights](#-flashlights)
 	- [🔢 Counters](#-counters)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
-		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
-		- [#️⃣ SuperUser](#%EF%B8%8F%E2%83%A3-superuser)
+		- [🛍️ App Stores](#-app-stores)
+		- [#️⃣ SuperUser](#-superuser)
 		- [📲 Device Info/Monitors](#-device-infomonitors)
 		- [🔐 Security](#-security)
 		- [🔏 Privacy](#-privacy)
 		- [📦 App Managers](#-app-managers)
 		- [💾 Backup](#-backup)
 		- [👋 Gesture Control](#-gesture-control)
-		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
+		- [🕹️ Device Automation](#-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 		- [🧩 Material Catalogs](#-material-catalogs)
-  		- [⚙️ Other device control](#%EF%B8%8F-other-device-control)
+  		- [⚙️ Other device control](#-other-device-control)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
 - [🔧 Tools Used](#-tools-used)
@@ -176,92 +188,89 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 📱 Known apps
 ### 👥 Social Media
-- **Reddit** 
-<br>*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
-	- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
-	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
-	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-	- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
-	- `MDY` [Focus For Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
-	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
-	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
-	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
-- **X (Twitter)**
-	- `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
-	- `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
-	- `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
-	- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
-- **Mastodon**
-	- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
-	- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
-	- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
-	- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
-	- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
-	- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
-- **Discord**
-	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
-	- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
-	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-	- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)`OR`[`#2`](https://vorlie.pl/materialdetta)
-- **Instagram**
-	- `MY` [Instander](https://thedise.me/instander/repo/) 
-	- `MY` [Honista](https://t.me/Honistagram)
-- **Telegram**
-	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) 
-	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
-	- `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
-	- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
-	- `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
-	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-	- `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
-	- `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
-- **Matrix**
-	- `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
-- **Lemmy**
-	- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
-	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
-	- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-	- `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
-	- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-- **Whatsapp**
-	- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
-	- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
-	- **Miscellaneous**
-		- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
-		- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
-		- `MD` [WA Tweaker](https://watweaker.com/)
-- **VK**
-	- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
-	- `MY` [VK Equals](https://t.me/vkequals)
-	- `MY` [ctVK](https://t.me/ctwVK)
- - **Pixiv**
-	 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
-	 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
-	
-- **Other Messaging Apps**
-	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
-	- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
- 		- `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  		- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="21" height="21" /></a> **Reddit** <br>*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
+- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
+- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
+- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
+- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit)
+- `MDY` [Focus For Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
+- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
+- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /></a> **X (Twitter)**
+- `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
+- `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
+- `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
+- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /></a> **Mastodon**
+- `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
+- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
+- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
+- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
+- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
+- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21" /></a> **Discord**
+- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
+- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
+- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
+- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) `OR` [`#2`](https://vorlie.pl/materialdetta)
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /></a> **Instagram**
+- `MY` [Instander](https://thedise.me/instander/repo/) 
+- `MY` [Honista](https://t.me/Honistagram)
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /></a> **Telegram**
+- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) 
+- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
+- `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
+- `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
+- `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
+- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
+- `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
+- `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21" /></a> **Lemmy**
+- `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
+- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
+- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+- `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
+- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21" /></a> **Whatsapp**
+- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+- `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
-	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
-	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
-	- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
-	- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup>
-	- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
-	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
-	- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
-	- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
-	- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
-	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
-	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
-	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-	- `MD` [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia) <sup>`FOSS`</sup>
-	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
+	- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
+	- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
+	- `MD` [WA Tweaker](https://watweaker.com/)
+#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="21" height="21" /></a> **VK**
+- `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
+- `MY` [VK Equals](https://t.me/vkequals)
+- `MY` [ctVK](https://t.me/ctwVK)
+ #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="21" height="21" /></a> **Pixiv**
+- `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
+- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
+#### 🔧 **Other Social Media Apps**
+- `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
+- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
+- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
+- `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
+- `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
+	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+#### 🔧 **Miscellaneous**
+- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
+- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
+- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
+- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup>
+- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
+- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
+- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
+- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
+- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
+- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
+- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
+- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+- `MD` [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia) <sup>`FOSS`</sup>
+- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
