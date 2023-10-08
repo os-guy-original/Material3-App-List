@@ -210,7 +210,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
-#### <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21" /> **Discord**
+#### <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
@@ -228,13 +228,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
 - `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
-#### <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21" /> **Lemmy**
+#### <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21"/> **Lemmy**
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
 - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-#### <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21" /> **Whatsapp**
+#### <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
 - `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
