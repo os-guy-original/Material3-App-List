@@ -28,7 +28,7 @@
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
 		- <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" /> [Reddit](#reddit)
-		- <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /> [X(Twitter)](#twitter)
+		- <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /> [X(Twitter)](#-x-twitter)
 		- <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="15" height="17" /> [Mastodon](#-mastodon)
 		- <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="17" height="17" /> [Discord](#-discord)
 		- <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="17" height="17" /> [Instagram](#-instagram)
@@ -188,7 +188,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 📱 Known apps
 ### 👥 Social Media
-#### <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="21" height="21" /> **Reddit** <br>*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
+#### <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="21" height="21"/> **Reddit**
+*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
