@@ -234,7 +234,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
 - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-#### <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
+#### <img src="https://i.ibb.co/HH6rD96/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
 - `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
