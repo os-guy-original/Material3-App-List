@@ -210,7 +210,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
-#### <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
+#### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
