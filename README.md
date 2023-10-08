@@ -11,12 +11,12 @@
   <a href="https://t.me/materialyouapps">
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps"
 	alt="Telegram">
-  </a>
+  
 </p>
 <p align="center">
   <a href="#-newly-added-apps">
     <span style="display:inline-block;"><strong><u>🆕CHECKOUT NEWLY ADDED APPS HERE🆕</u></strong></span>
-  </a>
+  
 </p>
 
 ---
@@ -27,16 +27,16 @@
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" /></a> [Reddit](#reddit)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /></a> [X(Twitter)](#twitter)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="15" height="17" /></a> [Mastodon](#-mastodon)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="17" height="17" /></a> [Discord](#-discord)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="17" height="17" /></a> [Instagram](#-instagram)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="17" height="17" /></a> [Telegram](#-telegram)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="17" height="17" /></a> [Lemmy](#-lemmy)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="17" height="17" /></a> [Whatsapp](#-whatsapp)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /></a> [VK](#-vk)
-		- <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="17" height="17" /></a> [Pixiv](#-pixiv)
+		- <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" /> [Reddit](#reddit)
+		- <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /> [X(Twitter)](#twitter)
+		- <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="15" height="17" /> [Mastodon](#-mastodon)
+		- <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="17" height="17" /> [Discord](#-discord)
+		- <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="17" height="17" /> [Instagram](#-instagram)
+		- <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="17" height="17" /> [Telegram](#-telegram)
+		- <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="17" height="17" /> [Lemmy](#-lemmy)
+		- <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="17" height="17" /> [Whatsapp](#-whatsapp)
+		- <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /> [VK](#-vk)
+		- <img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="17" height="17" /> [Pixiv](#-pixiv)
 		- [🔧 Other Social Media](#-other-social-media-apps)
 		- [🔧 Miscellaneous](#-miscellaneous)
 	- [📖 Readers](#-readers)
@@ -46,10 +46,10 @@
 	- [🎬 Media](#-media)
 		- [🎵 Music Players](#-music-players)
 		- [▶️ Video Players](#-video-players)
-		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube Clients](#-youtube-clients)
-		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="17" height="17" /></a> [Youtube Music Clients](#-youtube-music-clients)
-		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="17" height="17" /></a> [Spotify Clients](#-spotify-clients)
-		-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="17" height="17" /></a> [Subsonic Clients](#-subsonic-clients)
+		-  <img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /> [Youtube Clients](#-youtube-clients)
+		-  <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="17" height="17" /> [Youtube Music Clients](#-youtube-music-clients)
+		-  <img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="17" height="17" /> [Spotify Clients](#-spotify-clients)
+		-  <img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="17" height="17" /> [Subsonic Clients](#-subsonic-clients)
 		- [📺 Streaming Services](#-streaming-services)
 		- [📑 Tracking Services](#-tracking-services)
 		- [🎛️ Equalizers](#-equalizers)
@@ -77,7 +77,7 @@
 	- [🎴 Icons/Wallpapers/Widgets](#-iconswallpaperswidgets)
 	- [⬇️ Download Managers](#-download-managers)
 	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
-	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /></a> [Other Google Apps](#-other-google-apps)
+	- <img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /> [Other Google Apps](#-other-google-apps)
 	- [👁️‍🗨️ Accessibility](#-accessibility)
 	- [🎓 Education/School](#-educationschool)
 	- [🌎 VPN/Proxy](#-vpnsproxies)
@@ -188,7 +188,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 📱 Known apps
 ### 👥 Social Media
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="21" height="21" /></a> **Reddit** <br>*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
+#### <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="21" height="21" /> **Reddit** <br>*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)!
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
@@ -197,27 +197,27 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
 - `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 - `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /></a> **X (Twitter)**
+#### <a href="https://imgbb.com"><img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /> **X (Twitter)**
 - `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
 - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
 - `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /></a> **Mastodon**
+#### <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /> **Mastodon**
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
 - `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21" /></a> **Discord**
+#### <img src="https://i.ibb.co/HtGsbY0/discord-8234.png" alt="discord" width="21" height="21" /> **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
 - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) `OR` [`#2`](https://vorlie.pl/materialdetta)
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /></a> **Instagram**
+#### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) 
 - `MY` [Honista](https://t.me/Honistagram)
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /></a> **Telegram**
+#### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> **Telegram**
 - `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) 
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
@@ -227,26 +227,26 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
 - `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21" /></a> **Lemmy**
+#### <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21" /> **Lemmy**
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
 - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21" /></a> **Whatsapp**
+#### <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21" /> **Whatsapp**
 - `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
 	- `MDY` [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver)
 	- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
 	- `MD` [WA Tweaker](https://watweaker.com/)
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="21" height="21" /></a> **VK**
+#### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="21" height="21" /> **VK**
 - `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - `MY` [VK Equals](https://t.me/vkequals)
 - `MY` [ctVK](https://t.me/ctwVK)
- #### <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="21" height="21" /></a> **Pixiv**
+ #### <img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="21" height="21" /> **Pixiv**
 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
 #### 🔧 **Other Social Media Apps**
@@ -449,14 +449,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### ▶️ Video Players
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup> 
-####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
+####  <img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /> Youtube Clients
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
 - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
 - `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /></a> Youtube Music Clients
+#### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
 	- `MDY` [Guitarist](https://github.com/Colorata/Guitarist) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -465,11 +465,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
 - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`FOSS`</sup>
 - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /></a> Spotify Clients
+#### <img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="20" height="20" /> Spotify Clients
 - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`FOSS`</sup>
 	- `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`FOSS`</sup>
-#### <a href="https://imgbb.com/"><img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /></a> Subsonic Clients
+#### <img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Untitled" width="22" height="22" /> Subsonic Clients
 - `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`FOSS`</sup>
 - `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
 - `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`FOSS`</sup>
@@ -1006,7 +1006,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Google Apps
+### <img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /> Other Google Apps
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) 
 - `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
 - `MDY` [Google Meet (original)](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
