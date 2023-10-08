@@ -34,7 +34,7 @@
 		- <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="17" height="17" /> [Instagram](#-instagram)
 		- <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="17" height="17" /> [Telegram](#-telegram)
 		- <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="17" height="17" /> [Lemmy](#-lemmy)
-		- <img src="https://i.ibb.co/fxfCYTf/whatsapp-logo-4456.png" alt="whatsapp" width="17" height="17" /> [Whatsapp](#-whatsapp)
+		- <img src="https://i.ibb.co/HH6rD96/whatsapp-logo-4456.png" alt="whatsapp" width="17" height="17"> [Whatsapp](#-whatsapp)
 		- <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /> [VK](#-vk)
 		- <img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="17" height="17" /> [Pixiv](#-pixiv)
 		- [🔧 Other Social Media](#-other-social-media-apps)
