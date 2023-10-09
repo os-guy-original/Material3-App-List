@@ -11,6 +11,7 @@
   <a href="https://t.me/materialyouapps">
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouapps"
 	alt="Telegram">
+  </p>
 ---
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
