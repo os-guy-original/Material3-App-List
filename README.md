@@ -133,6 +133,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
+- `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
+- `MDY` [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper)
+- `MDY` [PokeMoney](https://play.google.com/store/apps/details?id=com.urbandroid.pokemoney)
+- `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
+- `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
+- `MD` [News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
+- `MD` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup>
+- `MDY` [DontKillMyApp](https://play.google.com/store/apps/details?id=com.urbandroid.dontkillmyapp)
+- `MDY` [SnapEnchance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
+- `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
+- `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
 - `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) <sup>`FOSS`</sup>
@@ -146,18 +158,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MY` [VK Equals](https://t.me/vkequals)
-- `MY` [ctVK](https://t.me/ctwVK)
-- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
-- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
-- `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
-- `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
-- `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
-- `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
-- `MDY` [CodeFusion: Code Editor](https://play.google.com/store/apps/details?id=com.alif.editor.code)
-- `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
-- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
