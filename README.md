@@ -17,7 +17,7 @@
 ---
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
-- [➡️ Abbreviations](#-abbreviations)
+- [➡️ Abbreviations](#%EF%B8%8F-abbreviations)
 - [🆕 Newly Added Apps!](#-newly-added-apps)
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
@@ -37,60 +37,61 @@
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
-	- [🖋️ Text/Code Editors](#-textcode-editorside)
+	- [🖋️ Text/Code Editors](#%EF%B8%8F-textcode-editorside)
 	- [🎬 Media](#-media)
 		- [🎵 Music Players](#-music-players)
-		- [▶️ Video Players](#-video-players)
+		- [▶️ Video Players](#%EF%B8%8F-video-players)
 		-  <img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube" width="15" height="11" /> [Youtube](#-youtube-clients)
 		-  <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="music" width="17" height="17" /> [Youtube Music](#-youtube-music-clients)
 		-  <img src="https://i.ibb.co/cQqNYB7/spotify.png" alt="spotify" width="17" height="17" /> [Spotify](#-spotify-clients)
 		-  <img src="https://i.ibb.co/QDCBHg1/Untitled.png" alt="Subsonic" width="17" height="17" /> [Subsonic](#-subsonic-clients)
 		- [📺 Streaming Services](#-streaming-services)
 		- [📑 Tracking Services](#-tracking-services)
-		- [🎛️ Equalizers](#-equalizers)
-		- [🎙️ Podcast](#-podcast)
-		- [🖥️ Media Servers](#-equalizers)
+		- [🎛️ Equalizers](#%EF%B8%8F-equalizers)
+		- [🎙️ Podcast](#%EF%B8%8F-podcast)
+		- [🖥️ Media Servers](#-media-servers)
+		- [📖 Audiobook](#-audiobook)
 	- [🌐 Browsers](#-browsers)
-	- [⌨️ Keyboards](#-keyboards)
-	- [🖌️ Theming Apps](#-theming-apps)
+	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
+	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
 	- [💸 Economy](#-economy)
-	- [🌦️ Weather](#-weather)
+	- [🌦️ Weather](#%EF%B8%8F-weather)
 	- [🎮 Games/Emulators](#-gamesemulators)
-	- [🖼️ Galleries](#-gallery)
+	- [🖼️ Galleries](#%EF%B8%8F-gallery)
 	- [🔬 Scanners](#-scanners)
-	- [🗓️ Calendars](#-calendar)
+	- [🗓️ Calendars](#%EF%B8%8F-calendar)
 	- [📞 Communication](#-communication)
 	- [📷 Cameras](#-camera)
-	- [🎙️ Audio Recorders](#-audio-recorder)
-	- [🧘‍♂️ Health & Well-being](#-health--well-being)
+	- [🎙️ Audio Recorders](#%EF%B8%8F-audio-recorder)
+	- [🧘‍♂️ Health & Well-being](#%EF%B8%8F-health--well-being)
 	- [🛒 Shopping](#-shopping)
-	- [🗺️ Maps/Navigation](#-mapsnavigation)
+	- [🗺️ Maps/Navigation](#%EF%B8%8F-mapsnavigation)
 	- [📧 Email Clients](#-email-clients)
 	- [🈸 Translators](#-translators)
 	- [🤖 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-	- [⏱️ Clocks/Timers](#-clockstimers)
+	- [⏱️ Clocks/Timers](#%EF%B8%8F-clockstimers)
 	- [🎴 Icons/Wallpapers/Widgets](#-iconswallpaperswidgets)
-	- [⬇️ Download Managers](#-download-managers)
+	- [⬇️ Download Managers](#%EF%B8%8F-download-managers)
 	- [🧮 Calculators/Unit Convertors](#-calculatorsunit-convertors)
 	- <img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /> [Other Google Apps](#-other-google-apps)
-	- [👁️‍🗨️ Accessibility](#-accessibility)
+	- [👁️‍🗨️ Accessibility](#%EF%B8%8F%EF%B8%8F-accessibility)
 	- [🎓 Education/School](#-educationschool)
 	- [🌎 VPNs/Proxies](#-vpnsproxies)
-   	- [🧩 Material Catalogs](#-material-catalogs)
-  	- [⚙️ Other Device Control](#-other-device-control)
+	- [🧩 Material Catalogs](#-material-catalogs)
+  	- [⚙️ Other Device Control](#%EF%B8%8F-other-device-control)
 	- [🔦 Flashlights](#-flashlights)
 	- [🔢 Counters](#-counters)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
-		- [🛍️ App Stores](#-app-stores)
-		- [#️⃣ SuperUser(Magisk)](#-superuser)
+		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
+		- [#️⃣ SuperUser(Magisk)](##%EF%B8%8F⃣-superuser)
 		- [📲 Device Info/Monitors](#-device-infomonitors)
 		- [🔐 Security](#-security)
 		- [🔏 Privacy](#-privacy)
 		- [📦 App Managers](#-app-managers)
 		- [💾 Backup](#-backup)
 		- [👋 Gesture Control](#-gesture-control)
-		- [🕹️ Device Automation](#-device-automation)
+		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
 		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
 	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
 - [🪢 Sources](#-sources)
@@ -1066,7 +1067,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-#### 🧩 Material Catalogs
+### 🧩 Material Catalogs
 - `MDY` [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) <sup>`FOSS`</sup>
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 - `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) <sup>`FOSS`</sup>
@@ -1082,7 +1083,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-#### ⚙️ Other Device Control
+### ⚙️ Other Device Control
 - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`FOSS`</sup> 
 - `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`FOSS`</sup>
@@ -1100,7 +1101,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-#### 🔦 Flashlights
+### 🔦 Flashlights
 - `MDY` [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`FOSS`</sup>
 - `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) <sup>`FOSS`</sup>
 - `MD` [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
