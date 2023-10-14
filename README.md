@@ -13,6 +13,12 @@
 	alt="Telegram">
   </a>
 </p>
+</p>
+<p align="center">
+  <a href="#-newly-added-apps">
+    <span style="display:inline-block;"><strong><u>🆕 CHECKOUT NEWLY ADDED APPS HERE! 🆕</u></strong></span>
+  </a>
+</p>
 
 ---
 ## 📜 Table Of Contents
