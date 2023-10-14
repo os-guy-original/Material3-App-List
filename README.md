@@ -84,7 +84,7 @@
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
 		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
-		- [#️⃣ SuperUser(Magisk)](##%EF%B8%8F⃣-superuser)
+		- [#️⃣ SuperUser(Magisk)](#%EF%B8%8F⃣-superuser)
 		- [📲 Device Info/Monitors](#-device-infomonitors)
 		- [🔐 Security](#-security)
 		- [🔏 Privacy](#-privacy)
