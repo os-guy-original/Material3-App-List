@@ -41,7 +41,7 @@
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
 	- [📝 Notes/To-do/Wish-lists](#-notesto-dowish-lists)
-	- [🖋️ Text/Code Editors](#%EF%B8%8F-textcode-editorside)
+	- [🖋️ Text/Code Editors/IDE](#%EF%B8%8F-textcode-editorside)
 	- [🎬 Media](#-media)
 		- [🎵 Music Players](#-music-players)
 		- [▶️ Video Players](#%EF%B8%8F-video-players)
