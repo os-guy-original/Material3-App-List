@@ -26,7 +26,7 @@
 - [🏆 Best Implementation of Material You](#-best-implementation-of-material-you)
 - [📱 Known apps](#-known-apps)
 	- [👥 Social Media](#-social-media)
-		- <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" /> [Reddit](#-reddit)
+		- <img src="https://i.ibb.co/h1d08cr/reddit-logo-2436.png" alt="reddit" width="17" height="17" href="#-reddit"/> [Reddit](#-reddit)
 		- <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="17" height="17" /> [X(Twitter)](#-x-twitter)
 		- <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="15" height="17" /> [Mastodon](#-mastodon)
 		- <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="17" height="17" /> [Discord](#-discord)
