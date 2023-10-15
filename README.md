@@ -629,6 +629,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Catima](https://github.com/CatimaLoyalty/Android) <sup>`FOSS`</sup>
 		- `MDY` [zCard (fork)](https://github.com/ziadOUA/zCard) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
+	- `MDY` [Donate to redlee90](https://play.google.com/store/apps/details?id=com.redlee90.donateany)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -894,6 +895,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎴 Icons/Wallpapers/Widgets
 - **Icons**
+	- `MDY` [Nyon Material You icons](https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material) <sup>`💰`</sup>
 	- `MDY` [Material You Dynamic Icon pack](https://play.google.com/store/apps/details?id=com.akbon.myd)
 	- `MDY` [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
