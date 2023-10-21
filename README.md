@@ -283,7 +283,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 		- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [Aniyomi](https://github.com/aniyomiorg/aniyomi) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-			- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup>
 	- `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup>
 	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
@@ -483,6 +482,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
 - `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
