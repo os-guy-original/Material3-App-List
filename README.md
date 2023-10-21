@@ -131,6 +131,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💰`</sup>
 - `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
 - `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
@@ -156,7 +157,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
 - `MDY` [CodeFusion: Code Editor](https://play.google.com/store/apps/details?id=com.alif.editor.code)
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
-- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -233,6 +233,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+- `MDY` [Boost for Lemmy](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
 - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/HH6rD96/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
