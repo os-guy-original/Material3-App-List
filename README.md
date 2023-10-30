@@ -987,9 +987,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Spotify**
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup> 
 - **Torrenting**
-        - `MDY` [Flow - Рутрекер Клиент](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
-	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
-	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
+  - `MDY` [Flow - Рутрекер Клиент](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
+  - `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
+  - `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
 - **Miscellaneous**
 	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
