@@ -131,6 +131,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Raca](https://github.com/SkyD666/Raca-Android)
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💰`</sup>
 - `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
@@ -269,6 +270,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
 - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
+- `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
