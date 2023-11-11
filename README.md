@@ -131,6 +131,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android)
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💰`</sup>
@@ -155,9 +156,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
 - `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 - `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
-- `MDY` [CodeFusion: Code Editor](https://play.google.com/store/apps/details?id=com.alif.editor.code)
-- `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
