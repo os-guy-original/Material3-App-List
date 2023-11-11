@@ -494,7 +494,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
 - `MD` [Music You](https://github.com/GuihongWang/MusicYou) <sup>`FOSS`</sup> <sup>`⛔ Not an Android app`</sup>
 #### 📑 Tracking Services
-- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) 
+- `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
+- `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
 - `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) <sup>`FOSS`</sup>
 - `MDY` [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler) <sup>`FOSS`</sup>
 - `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`FOSS`</sup>
