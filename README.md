@@ -53,7 +53,7 @@
 		- [📑 Tracking Services](#-tracking-services)
 		- [🎛️ Equalizers](#%EF%B8%8F-equalizers)
 		- [🎙️ Podcast](#%EF%B8%8F-podcast)
-		- [🖥️ Media Servers](#-media-servers)
+		- [🖥️ Media Servers](#%EF%B8%8F-media-servers)
 		- [📖 Audiobook](#-audiobook)
 	- [🌐 Browsers](#-browsers)
 	- [⌨️ Keyboards](#%EF%B8%8F-keyboards)
