@@ -551,7 +551,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 	- `MY` [Vivaldi](https://vivaldi.com/source/) <sup>`FOSS`</sup>
 - **Other**
-	- `MDY` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser) <sup>`FOSS`</sup>
+	- `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 	- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
 	- `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup>
