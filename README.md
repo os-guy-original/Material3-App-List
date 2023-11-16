@@ -145,7 +145,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
 - `MD` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup>
 - `MDY` [DontKillMyApp](https://play.google.com/store/apps/details?id=com.urbandroid.dontkillmyapp)
-- `MDY` [SnapEnchance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
+- `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
 - `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
@@ -1401,7 +1401,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Musekit](https://github.com/Kwasow/Musekit) <sup>`FOSS`</sup>
 - `MDY` [Outline Manager](https://github.com/sirekanian/outline) <sup>`FOSS`</sup>
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
-- `MDY` [SnapEnchance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
+- `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
 - `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
