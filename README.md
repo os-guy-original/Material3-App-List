@@ -441,7 +441,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>`FOSS`</sup>
 - `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) <sup>`FOSS`</sup>
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
-- `MDY` [Mellow Music](https://github.com/SuhasDissa/MellowMusic) <sup>`FOSS`</sup>
+- `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
 - `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
 - `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
@@ -671,7 +671,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⛔ Not an Android app`</sup>
 - **Quiz/Trivia**
 	- `MDY` [New Quiz](https://github.com/joaomanaia/newquiz) <sup>`FOSS`</sup>
-	- `MDY` [Trivia You](https://github.com/Bnyro/TriviaYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Trivia You](https://github.com/you-apps/TriviaYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq)
 -  **Emulators**
 	- `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`FOSS`</sup>
@@ -743,7 +743,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📞 Communication
 - **Contacts**
 	- `MDY` [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>`FOSS`</sup>
-	- `MDY` [Connect You](https://github.com/Bnyro/ConnectYou) <sup>`FOSS`</sup>
+	- `MDY` [Connect You](https://github.com/you-apps/ConnectYou) <sup>`FOSS`</sup>
 	- `MDY` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 	- `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts)
 - **Dialer**
@@ -780,7 +780,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎙️ Audio Recorder
 - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`FOSS`</sup>
-- `MDY` [Record You](https://github.com/Bnyro/recordYou) <sup>`FOSS`</sup>
+- `MDY` [Record You](https://github.com/you-apps/recordYou) <sup>`FOSS`</sup>
 - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 - `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor)
 - `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
@@ -856,7 +856,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🈸 Translators
 - `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-- `MDY` [Translate You](https://github.com/Bnyro/TranslateYou) <sup>`FOSS`</sup>
+- `MDY` [Translate You](https://github.com/you-apps/TranslateYou) <sup>`FOSS`</sup>
 - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`FOSS`</sup>
 - `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`FOSS`</sup>
 - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup>
@@ -887,7 +887,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer)
 - `MDY` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
 - `MDY` [MotoClock](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
-- `MDY` [Clock You](https://github.com/Bnyro/ClockYou) <sup>`FOSS`</sup>
+- `MDY` [Clock You](https://github.com/you-apps/ClockYou) <sup>`FOSS`</sup>
 - `MDY` [AtomicClock](https://play.google.com/store/apps/details?id=partl.atomicclock)
 - `MDY` [PomoTrack](https://play.google.com/store/apps/details?id=com.jask.pomotrack)
 - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
@@ -932,7 +932,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Wallpaper**
 	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 	- `MDY` [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
-	- `MDY` [Wall You](https://github.com/Bnyro/WallYou) <sup>`FOSS`</sup>
+	- `MDY` [Wall You](https://github.com/you-apps/WallYou) <sup>`FOSS`</sup>
 	- `MDY` [Lamartine: Live Wallpaper](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine)
 	- `MDY` [Doodle: Live Wallpapers](https://github.com/patzly/doodle-android) <sup>`FOSS`</sup>
 	- `MDY` [Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
