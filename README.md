@@ -131,6 +131,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
+- `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
+- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
+- `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
 - `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
 - `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
 - `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
@@ -152,11 +156,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MY` [VK Equals](https://t.me/vkequals)
 - `MY` [ctVK](https://t.me/ctwVK)
-- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
-- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
-- `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
-- `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
-- `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
