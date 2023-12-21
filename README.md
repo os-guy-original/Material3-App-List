@@ -443,7 +443,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
 - `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
-- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup>
+- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MDY` [Pixel - Music Player](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
