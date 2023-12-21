@@ -1112,9 +1112,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
 - `MDY` [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion)
 - `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
-- `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
+- `MD` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
 - `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
-- `MDY` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
+- `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
 - `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
