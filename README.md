@@ -131,6 +131,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
@@ -155,7 +156,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MY` [VK Equals](https://t.me/vkequals)
-- `MY` [ctVK](https://t.me/ctwVK)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1224,6 +1224,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
 - `MD` [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
+- `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
   
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
