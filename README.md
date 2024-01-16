@@ -131,6 +131,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
@@ -155,7 +156,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
 - `MY` [VK Equals](https://t.me/vkequals)
-- `MY` [ctVK](https://t.me/ctwVK)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -442,12 +442,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
 - `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
-- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MDY` [Pixel - Music Player](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
+- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
-- `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
 #### ▶️ Video Players
@@ -872,6 +871,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android)
 - `MDY` [VIC](https://github.com/iamlooper/VIC)
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
+- `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
 - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
