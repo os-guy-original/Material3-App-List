@@ -132,6 +132,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
+- `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
+- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
@@ -155,7 +157,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
-- `MY` [VK Equals](https://t.me/vkequals)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -252,8 +253,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
 #### <img src="https://i.ibb.co/J3NzWRd/icons8-signal-app-240.png" alt="signal" width="21" height="21"/> **Signal**
-- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
 - `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
+	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
 	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 #### 🔧 **Miscellaneous**
 - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
@@ -442,12 +443,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
 - `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup>
-- `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MDY` [Pixel - Music Player](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
+- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
-- `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
 #### ▶️ Video Players
@@ -872,6 +872,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android)
 - `MDY` [VIC](https://github.com/iamlooper/VIC)
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
+- `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
 - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
@@ -1220,12 +1221,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) <sup>`FOSS`</sup>
 - `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
 - `MDY` [Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
+- `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
 - `MD` [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
-- `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
-  
+
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -1236,9 +1237,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`FOSS`</sup> 
 	- `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) <sup>`FOSS`</sup>
 - **Password/Pin Manager**
+	- `MDY` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) <sup>`FOSS`</sup>
 	- `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`FOSS`</sup>
-	- `MDY` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-   	- `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
+	- `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
 	- `MDY` [Pincredible](https://github.com/cyb3rko/pincredible) <sup>`FOSS`</sup>
 	- `MDY` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`FOSS`</sup>
 	- `MDY` [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore)
