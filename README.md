@@ -1347,7 +1347,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🔧 Miscellaneous Apps
 - `MDY` [Waveteam Android Bomber](https://t.me/androidsmsbomber)
-- `MDY` [aShell](https://github.com/DP-Hridayan/ashell) <sup>`FOSS`</sup>
+- `MDY` [aShell](https://github.com/DP-Hridayan/ashell) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Racó](https://github.com/hegocre/RacoAndroid) <sup>`FOSS`</sup>
 - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
 - `MDY` [Metronome](https://github.com/Kr0oked/Metronome) <sup>`FOSS`</sup>
