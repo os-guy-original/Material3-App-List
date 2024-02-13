@@ -131,6 +131,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [KuPass](https://github.com/achmaddaniel24/kupass.git) <sup>`FOSS`</sup>
+- `MDY` [Overload](https://codeberg.org/pabloscloud/Overload) <sup>`FOSS`</sup>
+- `MD` [Instant Translate on Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
+- `MDY` [RideBus](https://play.google.com/store/apps/details?id=org.xtimms.ridebus)
+- `MDY` [Barcoder](https://play.google.com/store/apps/details?id=com.barcoder.app)
+- `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) <sup>`FOSS`</sup> 
 - `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
@@ -150,13 +156,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper)
 - `MDY` [PokeMoney](https://play.google.com/store/apps/details?id=com.urbandroid.pokemoney)
 - `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
-- `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
-- `MD` [News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
-- `MD` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup>
-- `MDY` [DontKillMyApp](https://play.google.com/store/apps/details?id=com.urbandroid.dontkillmyapp)
-- `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
-- `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
-- `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
