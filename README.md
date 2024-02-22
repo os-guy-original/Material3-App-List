@@ -157,7 +157,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
 - `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
 
-
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🏆 Best Implementation of Material You
