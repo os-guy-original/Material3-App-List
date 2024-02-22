@@ -1463,6 +1463,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
 - `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
 - `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
+- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
+- `MDY` [OTP Helper](https://github.com/jd1378/otphelper) <sup>`FOSS`</sup>
+- `MDY` [OMGSoundboard](https://github.com/OMGSoundboard/android-app) <sup>`FOSS`</sup>
+- `MDY` [AppVerifier](https://github.com/soupslurpr/AppVerifier) <sup>`FOSS`</sup>
+- `MDY` [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) <sup>`FOSS`</sup>
+- `MDY` [Redomi](https://github.com/acszo/Redomi) <sup>`FOSS`</sup>
+- `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) <sup>`FOSS`</sup>
+- `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) <sup>`FOSS`</sup>
+- `MDY` [Tuner](https://github.com/thetwom/Tuner) <sup>`FOSS`</sup>
+- `MDY` [MusicSearch](https://github.com/lydavid/MusicSearch) <sup>`FOSS`</sup>
+- `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) <sup>`FOSS`</sup>
+- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
+- `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
 - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`FOSS`</sup>
@@ -1493,6 +1506,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💰`</sup>
 - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`FOSS`</sup>
 - `MY` [Bhagavad Gita App](https://github.com/WirelessAlien/BhagavadGitaApp) <sup>`FOSS`</sup>
+- `MY` [Checker](https://github.com/AkaneTan/Checker) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
