@@ -204,7 +204,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
 - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
-- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
+- `MY` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/YtKsH74/mastodon-icon.png" alt="mastodon" width="19" height="21" /> **Mastodon**
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
 - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
