@@ -18,7 +18,6 @@
   </a>
 </p>
 
----
 
 ## 📜 Table Of Contents
 - [📋 Disclaimer](#-disclaimer)
