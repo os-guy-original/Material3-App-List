@@ -61,7 +61,7 @@
 	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
 	- [💸 Economy](#-economy)
 	- [🌦️ Weather](#%EF%B8%8F-weather)
-	- [🎮 Games/Emulators](#-gamesemulators)
+	- [🎮 Games/Emulators](#-games--emulators)
 	- [🖼️ Galleries](#%EF%B8%8F-gallery)
 	- [🔬 Scanners](#-scanners)
 	- [🗓️ Calendars](#%EF%B8%8F-calendar)
