@@ -625,6 +625,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Expense Managers**
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
 	- `MDY` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`FOSS`</sup>
+ 	- `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
 	- `MDY` [Buckwheat](https://github.com/danilkinkin/buckwheat) <sup>`FOSS`</sup>
 	- `MDY` [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio)
 	- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
