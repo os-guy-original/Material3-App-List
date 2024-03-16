@@ -203,6 +203,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
 #### <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /> **X (Twitter)**
 - `MDY` [FocusTwitter - for Twitter (X)](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
+- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
 - `MD` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup>
 - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
 - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
