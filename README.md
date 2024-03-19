@@ -132,6 +132,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
+- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
 - `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
