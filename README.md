@@ -638,7 +638,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio)
 	- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
 	- `MDY` [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app)
-	- `MDY` [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) 
+	- `MDY` [Cashew](https://github.com/jameskokoska/Cashew) <sup>`FOSS`</sup>
 	- `MDY` [Allowance](https://github.com/jameskokoska/Allowance) <sup>`FOSS`</sup>
  	- `MDY` [Mony: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker)
 	- `MDY` [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker) <sup>`FOSS`</sup>
