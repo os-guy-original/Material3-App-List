@@ -136,6 +136,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+
+- `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
+- `MY`[Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
+- `MY`[Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
 - `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
 - `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
 - `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
@@ -159,11 +163,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
 - `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
 - `MD` [News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
-- `MD` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup>
-- `MDY` [DontKillMyApp](https://play.google.com/store/apps/details?id=com.urbandroid.dontkillmyapp)
-- `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup>
-- `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) <sup>`FOSS`</sup>
-- `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -699,6 +698,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
 	- `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⛔ Not an Android app`</sup>
 	- `MD` [LoL Catalyst](https://play.google.com/store/apps/details?id=com.ggstudios.lolcatalyst)
+	- `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
+	- `MY`[Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
+	- `MY`[Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
 - **Quiz/Trivia**
 	- `MDY` [New Quiz](https://github.com/joaomanaia/newquiz) <sup>`FOSS`</sup>
 	- `MDY` [Trivia You](https://github.com/you-apps/TriviaYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
