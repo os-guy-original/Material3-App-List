@@ -383,6 +383,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 - **Todo/Tasks**
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
+ - `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
+ - `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
 	- `MDY` [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks)
 	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
