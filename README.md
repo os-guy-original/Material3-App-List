@@ -376,8 +376,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
-  - `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`FOSS`</sup>
-  - `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
+	- `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`FOSS`</sup>
+	- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
 	- `MD` [Quillpad](https://github.com/quillpad/quillpad) <sup>`FOSS`</sup>
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
@@ -389,11 +389,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
 	- `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`FOSS`</sup>
 	- `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases)
+	- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
 	- `MD` [Mightyday](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
 	- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
-	- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
 - **Diary/Journal**
 	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
@@ -743,9 +743,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [SnapSeed](https://t.me/waifupx_official/145) <sup>`MOD`</sup>
 	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
 	- `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`FOSS`</sup>
-	 - `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) <sup>`💰`</sup>
+	- `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) <sup>`💰`</sup>
 	- `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage)
-	 - `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
+	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -881,10 +881,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega)
 - `MDY` [Tridenta](https://github.com/Stypox/tridenta) <sup>`FOSS`</sup>
 - `MDY` [Compass](https://github.com/SynapseTech/Compass) <sup>`FOSS`</sup>
+- `MDY` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
 - `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) <sup>`FOSS`</sup>
 - `MD` [EVMap](https://github.com/ev-map/EVMap) <sup>`FOSS`</sup>
 - `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) 
-- `MDY` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
 - `MY` [MotoCompass](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -924,7 +924,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
 - `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
-- `MD` [Cross AI - AI For All Apps](https://play.google.com/store/apps/details?id=com.sapiens.assistant.input)
+- `MD` [Cross AI](https://play.google.com/store/apps/details?id=com.sapiens.assistant.input)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1048,10 +1048,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Spotify**
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup> 
 - **Torrenting**
-  - `MDY` [Flow - Rutracker client](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
-  - `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
-  - `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
-  - `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+	- `MDY` [Flow - Rutracker client](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
+	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
+	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
+	- `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
 - **Miscellaneous**
 	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
