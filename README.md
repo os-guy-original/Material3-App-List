@@ -136,7 +136,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-
+- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
+- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
 - `MDY` [XtMapper](https://github.com/Xtr126/XtMapper) <sup>`FOSS`</sup>
 - `MDY` [Raccoon for Lemmy](https://github.com/diegoberaldin/RaccoonForLemmy) <sup>`FOSS`</sup>
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
@@ -161,8 +162,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage)
 - `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
 - `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
-- `MDY` [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper)
-- `MDY` [PokeMoney](https://play.google.com/store/apps/details?id=com.urbandroid.pokemoney)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -245,8 +244,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Raccoon for Lemmy](https://github.com/diegoberaldin/RaccoonForLemmy) <sup>`FOSS`</sup>
 - `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
 - `MDY` [Boost for Lemmy](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
+- `MDY` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
-- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/HH6rD96/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
 - `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
@@ -384,8 +383,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 - **Todo/Tasks**
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
-	- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
-	- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
 	- `MDY` [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks)
 	- `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 	- `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
@@ -396,6 +393,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
 	- `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 	- `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
+	- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
+	- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
 - **Diary/Journal**
 	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
@@ -635,12 +634,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Expense Managers**
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
 	- `MDY` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`FOSS`</sup>
+	- `MDY` [Cashew](https://github.com/jameskokoska/Cashew) <sup>`FOSS`</sup>
  	- `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
 	- `MDY` [Buckwheat](https://github.com/danilkinkin/buckwheat) <sup>`FOSS`</sup>
 	- `MDY` [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio)
 	- `MDY` [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal)
 	- `MDY` [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app)
-	- `MDY` [Cashew](https://github.com/jameskokoska/Cashew) <sup>`FOSS`</sup> 💰 Unlimited budgets, Past budget periods, Unlimited color picker is Premium features! However, you don't need to buy to still use these features!
 	- `MDY` [Allowance](https://github.com/jameskokoska/Allowance) <sup>`FOSS`</sup>
  	- `MDY` [Mony: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker)
 	- `MDY` [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker) <sup>`FOSS`</sup>
