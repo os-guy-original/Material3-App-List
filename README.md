@@ -136,6 +136,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
 - `MD` [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
 - `MDY` [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) <sup>`FOSS`</sup>
 - `MDY` [StreamGuide](https://play.google.com/store/apps/details?id=app.streamguide)
@@ -1150,6 +1151,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [NordVPN](https://play.google.com/store/apps/details?id=com.nordvpn.android)
 - `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
+- `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
