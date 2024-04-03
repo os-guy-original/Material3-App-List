@@ -147,14 +147,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Raccoon for Lemmy](https://github.com/diegoberaldin/RaccoonForLemmy) <sup>`FOSS`</sup>
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
 - `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
-- `MY`[Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
-- `MY`[Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
+- `MY` [Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
+- `MY` [Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
 - `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
 - `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
 - `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
-- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
+- `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
@@ -470,7 +470,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`FOSS`</sup>
 - `MDY` [Pixel - Music Player](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
-- `MDY`[Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
+- `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [SoundCrowd](https://github.com/soundcrowd/soundcrowd) <sup>`FOSS`</sup>
@@ -709,8 +709,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⛔ Not an Android app`</sup>
 	- `MD` [LoL Catalyst](https://play.google.com/store/apps/details?id=com.ggstudios.lolcatalyst)
 	- `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
-	- `MY`[Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
-	- `MY`[Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
+	- `MY` [Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
+	- `MY` [Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
 - **Quiz/Trivia**
 	- `MDY` [New Quiz](https://github.com/joaomanaia/newquiz) <sup>`FOSS`</sup>
 	- `MDY` [Trivia You](https://github.com/you-apps/TriviaYou) <sup>`FOSS`</sup> <sup>`🪦`</sup>
