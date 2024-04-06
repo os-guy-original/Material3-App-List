@@ -13,7 +13,7 @@
   </a>
 	<br></br>
    <a href="https://t.me/materialyouappschat">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmaterialyouappschat" alt="Telegram">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&colorA=DAB9FF&colorB=470084&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fmaterialyouappschat" alt="Telegram">
   </a>
 </p>
 <p align="center">
