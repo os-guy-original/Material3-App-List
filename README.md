@@ -230,6 +230,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
 - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) `OR` [`#2`](https://vorlie.pl/materialdetta)
+	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MY` [Pyoncord](https://github.com/pyoncord/Pyoncord) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) 
 - `MY` [Honista](https://t.me/Honistagram)
@@ -260,7 +262,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [WA Tweaker](https://watweaker.com/)
 #### <img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="21" height="21" /> **VK**
 - `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Fenrir Kate](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - `MY` [VK Equals](https://t.me/vkequals)
 - `MY` [ctVK](https://t.me/ctwVK)
@@ -1234,14 +1235,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 #### 🛍️ App Stores
 - **F-Droid Clients**
-	- `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`FOSS`</sup> 
 	- `MDY` [Droid-ify](https://github.com/Iamlooker/Droid-ify) <sup>`FOSS`</sup> 
+	- `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`FOSS`</sup> 
 - **Play Store Clients**
 	- `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`FOSS`</sup> 
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
-	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup>
+	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
 	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> 
 	- `MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`FOSS`</sup>
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
@@ -1330,7 +1331,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
 	- `MDY` [AdClose](https://github.com/Xposed-Modules-Repo/com.close.hook.ads) <sup>`FOSS`</sup>
 	- `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
-	
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1420,7 +1420,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
-
 ---
 #### 🪛 ADB Tools
 - `MDY` [aShell You](https://github.com/DP-Hridayan/ashell) <sup>`FOSS`</sup>
@@ -1480,7 +1479,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Anywhere-](https://github.com/zhaobozhen/Anywhere-) <sup>`FOSS`</sup>
 - `MDY` [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) <sup>`FOSS`</sup>
 - `MDY` [Mastodon/Lemmy Redirect](https://github.com/zacharee/MastodonRedirect) <sup>`FOSS`</sup>
-- `MDY` [Pixel VoLTE Patch](https://github.com/kyujin-cho/pixel-volte-patch/releases/) <sup>`FOSS`</sup>
+- `MDY` [Pixel VoLTE Patch](https://github.com/kyujin-cho/pixel-volte-patch) <sup>`FOSS`</sup>
 - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`FOSS`</sup>
 - `MDY` [Android Gyroscope MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) <sup>`FOSS`</sup>
 - `MDY` [Mi FreeForm](https://github.com/sunshine0523/Mi-Freeform) <sup>`FOSS`</sup>
@@ -1505,6 +1504,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [MusicSearch](https://github.com/lydavid/MusicSearch) <sup>`FOSS`</sup>
 - `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) <sup>`FOSS`</sup>
 - `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`FOSS`</sup>
+- `MDY`[Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
 - `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
@@ -1529,7 +1529,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup>
 - `MD` [CodeAssist](https://github.com/Deenu488/CodeAssist-Unofficial) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
-- `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup>
+- `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup> <sup>🪦</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
 - `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
 - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💰`</sup>
