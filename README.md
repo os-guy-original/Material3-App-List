@@ -1,6 +1,8 @@
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
-***Material You** (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.*
+<p align="center">
+<i><b>Material You</b> (Material Design v3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.</i>
+</p>
 <p align="center">
   <img src="images/material_you.png" alt="MaterialYou">
 </p>
@@ -137,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MY` [MyInsta](https://t.me/instasmashrepo)
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
 - `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup>
 - `MY` [Pyoncord](https://github.com/pyoncord/Pyoncord) <sup>`FOSS`</sup>
@@ -161,15 +164,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
-- `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
-- `MDY` [TimeNoder2](https://play.google.com/store/apps/details?id=com.janzimola.goal_venture2)
-- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
-- `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
-- `MDY` [Raca](https://github.com/SkyD666/Raca-Android)
-- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-- `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage)
-- `MDY` [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam)
-- `MDY` [Aluminium for Anilist](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -238,6 +232,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
 - `MY` [Instander](https://thedise.me/instander/repo/) 
 - `MY` [Honista](https://t.me/Honistagram)
+- `MY` [MyInsta](https://t.me/instasmashrepo)
 #### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> **Telegram**
 - `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) 
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
