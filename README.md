@@ -139,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
 - `MY` [MyInsta](https://t.me/instasmashrepo)
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
 - `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup>
@@ -163,7 +164,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
-- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1060,6 +1060,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
 	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
 	- `MD` [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+ 	- `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
 - **Miscellaneous**
 	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
