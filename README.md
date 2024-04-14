@@ -139,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Untracker](https://github.com/zhanghai/Untracker) <sup>`FOSS`</sup>
 - `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
 - `MY` [MyInsta](https://t.me/instasmashrepo)
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
@@ -1348,7 +1349,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`FOSS`</sup>
 - **Link Cleaners**
 	- `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`FOSS`</sup>
-	- `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup> 
+	- `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup>
+ 	- `MDY` [Untracker](https://github.com/zhanghai/Untracker) <sup>`FOSS`</sup>
 	- `MY` [URLCheck](https://github.com/TrianguloY/UrlChecker) <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard) <sup>`FOSS`</sup>
