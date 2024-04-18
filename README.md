@@ -840,6 +840,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🧘‍♂️ Health & Well-being
 - **Sleep Tracker**
 	- `MDY` [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
+- **Body Weight**
+	- `MDY` [trale](https://github.com/QuantumPhysique/trale)
 - **Digital Well-being**
 	- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`FOSS`</sup>
 	- `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
