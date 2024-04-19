@@ -1126,6 +1126,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) <sup>`FOSS`</sup>
 - `MDY` [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp) <sup>`FOSS`</sup>
 - `MDY` [Graded](https://github.com/NightDreamGames/Graded) <sup>`FOSS`</sup>
+- `MDY` [Schedule planner and Task list](https://play.google.com/store/apps/details?id=app.smart.timetable)
 - `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 - `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
 - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`FOSS`</sup>
