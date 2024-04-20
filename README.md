@@ -1320,6 +1320,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`FOSS`</sup>
 	- `MDY` [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore)
 	- `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`FOSS`</sup>
+	- `MD` [NewPass](https://github.com/6eero/NewPass) <sup>`FOSS`</sup>
 	- `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`FOSS`</sup>
  	- `MDY` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup> <sup>`💰 Dynamic color theme is a paid feature.`</sup>
 	- `MD` [KeySpace](https://github.com/Keyspace-cloud/android) <sup>`FOSS`</sup>
