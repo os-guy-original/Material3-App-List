@@ -1230,6 +1230,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc)
 	- `MD` [Photon](https://github.com/abhi16180/photon) <sup>`FOSS`</sup>
 	- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
+ - `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
