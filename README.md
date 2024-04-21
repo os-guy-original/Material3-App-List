@@ -139,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 - `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 - `MDY` [Smart Timetable](https://play.google.com/store/apps/details?id=app.smart.timetable)
@@ -412,8 +413,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
-	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
+	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 - **Reminders**
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
 	- `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
