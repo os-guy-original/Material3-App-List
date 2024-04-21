@@ -139,6 +139,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 - `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 - `MDY` [Smart Timetable](https://play.google.com/store/apps/details?id=app.smart.timetable)
@@ -1548,6 +1549,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`FOSS`</sup>
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup>
 - `MD` [CodeAssist](https://github.com/Deenu488/CodeAssist-Unofficial) <sup>`FOSS`</sup>
+- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup> <sup>🪦</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
@@ -1556,7 +1558,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`FOSS`</sup>
 - `MY` [Bhagavad Gita App](https://github.com/WirelessAlien/BhagavadGitaApp) <sup>`FOSS`</sup>
 - `MY` [Checker](https://github.com/AkaneTan/Checker) <sup>`FOSS`</sup>
-- `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
