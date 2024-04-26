@@ -140,6 +140,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
+- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
+- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
+- `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 - `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 - `MDY` [Smart Timetable](https://play.google.com/store/apps/details?id=app.smart.timetable)
@@ -161,17 +164,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [StreamGuide](https://play.google.com/store/apps/details?id=app.streamguide)
 - `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
 - `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
-- `MDY` [XtMapper](https://github.com/Xtr126/XtMapper) <sup>`FOSS`</sup>
-- `MDY` [Raccoon for Lemmy](https://github.com/diegoberaldin/RaccoonForLemmy) <sup>`FOSS`</sup>
-- `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
-- `MY` [Sudoku](https://play.google.com/store/apps/details?id=ee.dustland.android.dustlandsudoku)
-- `MY` [Minesweeper](https://play.google.com/store/apps/details?id=ee.dustland.android.minesweeper)
-- `MY` [Solitaire](https://play.google.com/store/apps/details?id=ee.dustland.android.solitaire)
-- `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) <sup>`FOSS`</sup>
-- `MDY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
-- `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
-- `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
-- `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -414,6 +406,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
+	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
+	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
 - **Reminders**
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
 	- `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
@@ -1426,6 +1420,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
 - `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> 
+- `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
 - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`FOSS`</sup>
 
