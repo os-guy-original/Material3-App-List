@@ -437,11 +437,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [PyCode](https://play.google.com/store/apps/details?id=com.alif.ide.python)
 - `MDY` [JStudio](https://play.google.com/store/apps/details?id=com.qamar.ide.java)
 - `MDY` [Html Editor](https://play.google.com/store/apps/details?id=com.qamar.editor.html)
-- `MDY` [WebCode html, css, js ide](https://play.google.com/store/apps/details?id=com.qamar.ide.web)
+- `MDY` [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web)
 - `MDY` [LuaDroid](https://play.google.com/store/apps/details?id=com.alif.ide.lua)
 - `MDY` [Shell Script Editor](https://play.google.com/store/apps/details?id=com.qamar.editor.shellscript)
 - `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
-- `MDY` [CodeFusion: Code Editor](https://play.google.com/store/apps/details?id=com.alif.editor.code)
+- `MDY` [CodeFusion](https://play.google.com/store/apps/details?id=com.alif.editor.code)
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
 - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
