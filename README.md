@@ -139,6 +139,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
+- `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
 - `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
@@ -162,8 +164,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
 - `MDY` [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) <sup>`FOSS`</sup>
 - `MDY` [StreamGuide](https://play.google.com/store/apps/details?id=app.streamguide)
-- `MD` [Snaptick](https://github.com/vishal2376/snaptick) <sup>`FOSS`</sup>
-- `MD` [ToDark](https://github.com/darkmoonight/ToDark) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -484,8 +484,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup>
-- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
-- `MY` [ReVanced Extended](https://github.com/revanced/revanced-manager)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
+- `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 #### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
@@ -507,8 +506,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 📺 Streaming Services
 - `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
 	- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
-- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
+- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
+- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
@@ -581,7 +580,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Mask Browser](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
  	- `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
 	- `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
-	- `MY` [Vivaldi](https://vivaldi.com/source/) <sup>`FOSS`</sup>
+	- `MY` [Vivaldi](https://vivaldi.com/source/)
 - **Other**
 	- `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
@@ -595,8 +594,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### ⌨️ Keyboards
-- `MDY` [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`FOSS`</sup>
-- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) 
+- `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) <sup>`FOSS`</sup>
+- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+- `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) <sup>`FOSS`</sup>
 - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
 - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
@@ -909,6 +909,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm) 
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
+- `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1335,6 +1336,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [NewPass](https://github.com/6eero/NewPass) <sup>`FOSS`</sup>
 - **Password Generator**
 	- `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
+	- `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 	- `MD` [KuPass](https://github.com/achmaddaniel24/kupass.git) <sup>`FOSS`</sup>
 	- `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) <sup>`FOSS`</sup>
 	- `MD` [Password Generator](https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator)
