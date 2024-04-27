@@ -44,6 +44,7 @@
 		- <a href="#-vk"><img src="https://i.ibb.co/54JN5RM/icons8-vk-480.png" alt="vk" width="17" height="17" /> [VK](#-vk)
 		- <a href="#-pixiv"><img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="17" height="17" /> [Pixiv](#-pixiv)
 		- <a href="#-signal"><img src="https://i.ibb.co/J3NzWRd/icons8-signal-app-240.png" alt="signal" width="17" height="17" /> [Signal](#-signal)
+		- <a href="#-twitch"><img src="https://cdn-icons-png.freepik.com/512/4138/4138153.png" alt="xtra" width="17" height="17"/> [Twitch](#-twitch)
 		- [🔧 Miscellaneous](#-miscellaneous)
 	- [📖 Readers](#-readers)
 	- [🏠 Launchers](#-launchers)
@@ -270,6 +271,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
 	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>
 	- `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+#### <img src="https://cdn-icons-png.freepik.com/512/4138/4138153.png" alt="signal" width="21" height="21"/> **Twitch**
+- `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup>
+- `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
 #### 🔧 **Miscellaneous**
 - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`FOSS`</sup>
 - `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
@@ -508,7 +512,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
