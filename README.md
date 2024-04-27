@@ -546,7 +546,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Showly OSS](https://github.com/1RandomDev/showly-oss) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`FOSS`</sup>
 - `MD` [TV Randshow](https://github.com/deandreamatias/tv-randshow) <sup>`FOSS`</sup>
-- `MD` [GG: Game Giveaways Notifier](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways)
 - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`FOSS`</sup>
 - `MY` [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
 - `MY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
@@ -735,6 +734,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) <sup>`FOSS`</sup>
 	- `MDY` [Croissant](https://github.com/joeloewi7178/Croissant) <sup>`FOSS`</sup>
 	- `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`FOSS`</sup>
+ 	- `MD` [GG: Game Giveaways Notifier](https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
