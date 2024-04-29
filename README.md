@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
 - `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
 - `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 - `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
@@ -393,6 +394,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
+	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
 - **Todo/Tasks**
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
 	- `MDY` [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks)
