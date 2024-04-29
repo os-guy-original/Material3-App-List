@@ -140,7 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 - `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
 - `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
 - `MDY` [Simple Counter](https://github.com/quicksc0p3r/simplecounter) <sup>`FOSS`</sup>
@@ -412,7 +412,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
 	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
-	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
 - **Reminders**
