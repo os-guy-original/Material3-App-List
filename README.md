@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Simple Counter](https://github.com/quicksc0p3r/simplecounter) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
@@ -1219,6 +1220,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🔢 Counters
 - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 - `MDY` [Score Counter](https://github.com/hegocre/ScoreCounter) <sup>`FOSS`</sup>
+- `MDY` [Simple Counter](https://github.com/quicksc0p3r/simplecounter) <sup>`FOSS`</sup>
 - `MY` [Counter](https://play.google.com/store/apps/details?id=me.tsukanov.counter)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
