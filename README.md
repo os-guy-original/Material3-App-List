@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
 - `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 - `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
 - `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
@@ -870,6 +871,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
 	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
+	- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
 	- `MD` [Koduko](https://github.com/Mazahir26/koduko) <sup>`FOSS`</sup>
 	- `MD` [Habo](https://github.com/xpavle00/Habo) <sup>`FOSS`</sup>
 - **Screen Time**
