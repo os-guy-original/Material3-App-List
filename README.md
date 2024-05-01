@@ -140,6 +140,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
+- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
+- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
+- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+- `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
+- `MDY` [Simple Counter](https://github.com/quicksc0p3r/simplecounter) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
@@ -388,6 +394,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
+	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
 - **Todo/Tasks**
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
 	- `MDY` [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks)
@@ -407,6 +414,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
+	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
 - **Reminders**
@@ -421,7 +430,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
  	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
-	- `MDY` [MyParslay](https://github.com/sirekanian/function) <sup>`FOSS`</sup>
 	- `MDY` [Function](https://github.com/sirekanian/function) <sup>`FOSS`</sup>
 	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
 	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
@@ -661,6 +669,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
 	- `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
 	- `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`FOSS`</sup>
+	- `MD` [WalletCount](https://github.com/GittyMac/WalletCount) <sup>`FOSS`</sup>
 - **Cryptocurrency**
 	- `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) <sup>`FOSS`</sup>
 	- `MDY` [CoinTrend](https://github.com/CoinTrend/CoinTrend) <sup>`FOSS`</sup>
@@ -863,6 +872,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
 	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
+	- `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
 	- `MD` [Koduko](https://github.com/Mazahir26/koduko) <sup>`FOSS`</sup>
 	- `MD` [Habo](https://github.com/xpavle00/Habo) <sup>`FOSS`</sup>
 - **Screen Time**
@@ -1219,6 +1229,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🔢 Counters
 - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 - `MDY` [Score Counter](https://github.com/hegocre/ScoreCounter) <sup>`FOSS`</sup>
+- `MDY` [Simple Counter](https://github.com/quicksc0p3r/simplecounter) <sup>`FOSS`</sup>
 - `MY` [Counter](https://play.google.com/store/apps/details?id=me.tsukanov.counter)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
