@@ -140,6 +140,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
+- `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
 - `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
 - `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) <sup>`FOSS`</sup>
 - `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
@@ -1320,6 +1322,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
 - `MDY` [Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
+- `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
@@ -1433,7 +1436,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🕹️ Device Automation
 - `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
-- `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup> 
+- `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup>
+- `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
 - `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
 - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
 - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`FOSS`</sup>
