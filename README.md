@@ -166,20 +166,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Smart Timetable](https://play.google.com/store/apps/details?id=app.smart.timetable)
 - `MD` [Flick](https://github.com/f33lnothin9/flick) <sup>`FOSS`</sup>
 - `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
-- `MDY` [Chrono](https://github.com/vicolo-dev/chrono) <sup>`FOSS`</sup>
-- `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) <sup>`FOSS`</sup>
-- `MD` [Raven](https://github.com/ksh-b/raven) <sup>`FOSS`</sup>
-- `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) <sup>`FOSS`</sup>
-- `MDY` [Untracker](https://github.com/zhanghai/Untracker) <sup>`FOSS`</sup>
-- `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
-- `MY` [MyInsta](https://t.me/instasmashrepo)
-- `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
-- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MY` [Pyoncord](https://github.com/pyoncord/Pyoncord) <sup>`FOSS`</sup>
-- `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
-- `MD` [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
-- `MDY` [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) <sup>`FOSS`</sup>
-- `MDY` [StreamGuide](https://play.google.com/store/apps/details?id=app.streamguide)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
