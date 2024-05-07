@@ -140,6 +140,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
+- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
+- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
 - `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
@@ -300,6 +304,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -337,6 +342,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tracking Services**
 	- `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) <sup>`FOSS`</sup>
 	- `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
+	- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
 	- `MD` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1180,6 +1186,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
+- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1353,6 +1360,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
  	- `MDY` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`FOSS`</sup> <sup>`💰 Dynamic color theme is a paid feature.`</sup>
 	- `MD` [KeySpace](https://github.com/Keyspace-cloud/android) <sup>`FOSS`</sup>
 	- `MD` [NewPass](https://github.com/6eero/NewPass) <sup>`FOSS`</sup>
+	- `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
 - **Password Generator**
 	- `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
 	- `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
