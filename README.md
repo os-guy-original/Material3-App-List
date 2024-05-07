@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
 - `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
@@ -1183,6 +1184,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 - `MD` [AdGuard VPN](https://adguard-vpn.com/en/android/overview.html)
 - `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) <sup>`FOSS`</sup>
+- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
