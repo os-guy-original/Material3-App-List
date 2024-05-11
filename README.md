@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 - `MD` [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) <sup>`FOSS`</sup>
 - `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 - `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
@@ -165,7 +166,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 - `MDY` [Smart Timetable](https://play.google.com/store/apps/details?id=app.smart.timetable)
 - `MD` [Flick](https://github.com/f33lnothin9/flick) <sup>`FOSS`</sup>
-- `MDY` [trale](https://github.com/QuantumPhysique/trale) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -596,6 +596,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Bookmark Managers**
 	- `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)  <sup>`FOSS`</sup>
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
+	- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
