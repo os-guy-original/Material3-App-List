@@ -140,6 +140,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)  <sup>`FOSS`</sup>
+- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
+- `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak)  <sup>`FOSS`</sup>
 - `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 - `MD` [Materialious](https://github.com/Materialious/Materialious)  <sup>`FOSS`</sup>
 - `MDY` [Bura](https://github.com/davidtakac/bura)  <sup>`FOSS`</sup>
@@ -163,10 +166,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
-- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
-- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
-- `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
-- `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -881,6 +880,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Habo](https://github.com/xpavle00/Habo) <sup>`FOSS`</sup>
 - **Screen Time**
 	- `MDY` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
+-**Medicine Reminder**
+	- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)  <sup>`FOSS`</sup>
+	- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
+	- `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak)  <sup>`FOSS`</sup>
 - **Miscellaneous**
 	- `MDY` [MotionMate](https://github.com/0xf4b1/motionmate) <sup>`FOSS`</sup>
 	- `MDY` [Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby)
