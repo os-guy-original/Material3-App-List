@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Materialious](https://github.com/Materialious/Materialious)  <sup>`FOSS`</sup>
 - `MDY` [Bura](https://github.com/davidtakac/bura)  <sup>`FOSS`</sup>
 - `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup>
 - `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
@@ -165,7 +166,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 - `MD` [EasySync](https://github.com/phpbg/easysync) <sup>`FOSS`</sup>
 - `MDY` [PI](https://github.com/SanmerApps/PI) <sup>`FOSS`</sup>
-- `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -493,6 +493,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup>
+- `MD` [Materialious](https://github.com/Materialious/Materialious)  <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 #### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
