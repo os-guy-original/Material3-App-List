@@ -788,7 +788,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Barcoder](https://play.google.com/store/apps/details?id=com.barcoder.app)
 - `MDY` [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 - `MDY` [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) <sup>`💰`</sup>
-- `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+- `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) <sup>`FOSS`</sup>
 - `MDY` [Catalog Scanner (for ACNH)](https://play.google.com/store/apps/details?id=com.acnh.catalog_scanner)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
