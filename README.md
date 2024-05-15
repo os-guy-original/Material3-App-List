@@ -140,6 +140,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
+- `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
+- `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 - `MD` [CryptoTracker](https://github.com/judemont/CryptoTracker)  <sup>`FOSS`</sup>
 - `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow)  <sup>`FOSS`</sup>
 - `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)  <sup>`FOSS`</sup>
@@ -921,7 +924,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`FOSS`</sup>
 - `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) <sup>`FOSS`</sup>
 - `MD` [EVMap](https://github.com/ev-map/EVMap) <sup>`FOSS`</sup>
-- `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) 
+- `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 - `MY` [MotoCompass](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1255,6 +1258,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
 - `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
@@ -1406,6 +1410,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`FOSS`</sup> 
 	- `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
 	- `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
+	- `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
 	- `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1574,6 +1579,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`FOSS`</sup>
 - `MD` [CodeAssist](https://github.com/Deenu488/CodeAssist-Unofficial) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
+- `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup> <sup>🪦</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
