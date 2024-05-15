@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bardy)
 - `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - `MDY` [eXch](https://github.com/pitonite/exch_cx)  <sup>`FOSS`</sup>
 - `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
@@ -164,7 +165,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
 - `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
-- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -964,6 +964,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
 - `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
 - `MD` [Cross AI](https://play.google.com/store/apps/details?id=com.sapiens.assistant.input)
+- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bardy)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
