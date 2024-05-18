@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MDY` [DailyAL](https://github.com/JICA98/DailyAL)  <sup>`FOSS`</sup>
 - `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB)  <sup>`FOSS`</sup>
@@ -164,7 +165,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
 - `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
 - `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
-- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1261,6 +1261,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
 - `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
+- `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
