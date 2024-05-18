@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MD` [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) <sup>`FOSS`</sup>
 - `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 - `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
@@ -372,6 +373,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) 
 	- `MDY` [Saber](https://github.com/adil192/saber) <sup>`FOSS`</sup>
 	- `MDY` [Firenote](https://github.com/T8RIN/Firenote) <sup>`FOSS`</sup>
+	- `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 	- `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) <sup>`FOSS`</sup>
 	- `MDY` [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) <sup>`FOSS`</sup>
 	- `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) <sup>`FOSS`</sup>
