@@ -140,6 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MDY` [DailyAL](https://github.com/JICA98/DailyAL)  <sup>`FOSS`</sup>
@@ -164,7 +165,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 - `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
 - `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
-- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -603,6 +603,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
 	- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 	- `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup>
+	- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
