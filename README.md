@@ -142,6 +142,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 *Last **25 apps** that were recently added to list!*
 - `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
 - `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
+- `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
+- `MD` [K-9 Mail](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
+- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
+- `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MDY` [DailyAL](https://github.com/JICA98/DailyAL)  <sup>`FOSS`</sup>
 - `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB)  <sup>`FOSS`</sup>
@@ -161,12 +165,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Bura](https://github.com/davidtakac/bura)  <sup>`FOSS`</sup>
 - `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup>
 - `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
-- `MD` [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) <sup>`FOSS`</sup>
-- `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
-- `MD` [KeePassVault](https://github.com/aivanovski/kpassnotes) <sup>`FOSS`</sup>
-- `MD` [sing-box](https://github.com/SagerNet/sing-box) <sup>`FOSS`</sup>
-- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
-- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -605,6 +603,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
 	- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 	- `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup>
+	- `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -942,6 +941,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
+- `MD` [K-9 Mail](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1267,6 +1267,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
 - `MDY` [Fenrir File Gallery](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
+- `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup>
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
@@ -1562,6 +1563,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) <sup>`FOSS`</sup>
 - `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`FOSS`</sup>
 - `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) <sup>`FOSS`</sup>
+- `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
+- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
