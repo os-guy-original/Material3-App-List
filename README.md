@@ -140,7 +140,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-- `MDY` [SoundTap](https://github.com/Angel-Studio/SoundTap)  <sup>`FOSS`</sup>
+- `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
 - `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 - `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
@@ -165,6 +165,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Materialious](https://github.com/Materialious/Materialious)  <sup>`FOSS`</sup>
 - `MDY` [Bura](https://github.com/davidtakac/bura)  <sup>`FOSS`</sup>
 - `MD` [Omnivore](https://github.com/omnivore-app/omnivore)  <sup>`FOSS`</sup>
+- `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -377,7 +378,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) <sup>`FOSS`</sup>
 	- `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) <sup>`FOSS`</sup>
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager)
-	- `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`FOSS`</sup>
 	- `MDY` [Doable](https://codeberg.org/florian-obernberger/flutter-doable) <sup>`FOSS`</sup>
 	- `MDY` [Simple Notes](https://github.com/YangDai-Github/SimpleNotes-Android) <sup>`FOSS`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
@@ -409,6 +409,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
 	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
+	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
@@ -790,6 +791,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 - `MDY` [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) <sup>`💰`</sup>
 - `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) <sup>`FOSS`</sup>
+- `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MDY` [Catalog Scanner (for ACNH)](https://play.google.com/store/apps/details?id=com.acnh.catalog_scanner)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -884,7 +886,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Workout Tracker**
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
-	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
 - **Screen Time**
@@ -1059,15 +1060,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) <sup>`FOSS`</sup>
 	- `MDY` [Flip Clock Widget](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip)
 	- `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
+	- `MDY` [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim)
 	- `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`FOSS`</sup>
 	- `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
 	- `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`FOSS`</sup>
 	- `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
+	- `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
 	- `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
 - **Dynamic Island**
 	- `MDY` [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 	- `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`🪦`</sup>
-	- `MDY` [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1431,7 +1433,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 #### 👋 Gesture Control
-- `MDY` [SoundTap](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Tap, Tap](https://github.com/KieronQuinn/TapTap) <sup>`FOSS`</sup> 
 - `MDY` [Rotation](https://play.google.com/store/apps/details?id=com.pranavpandey.rotation)
 - `MDY` [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock)
