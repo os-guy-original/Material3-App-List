@@ -169,12 +169,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ## 🏆 Best Implementation of Material You
-- `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/)
 - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 - `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
-- `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
-- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup>
 - `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup>
 - `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 - `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup>
@@ -390,7 +387,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
 	- `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
 	- `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
-	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
+	- `MD` [Snappr](https://github.com/Iamlooker/Snappr/) <sup>`FOSS`</sup>
 	- `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - **Todo/Tasks**
 	- `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`FOSS`</sup>
@@ -878,7 +875,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 - **Habit Tracker**
 	- `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
-	- `MDY` [Soberity](https://github.com/KiARC/Sobriety/releases) <sup>`FOSS`</sup>
+	- `MDY` [Soberity](https://github.com/KiARC/Sobriety) <sup>`FOSS`</sup>
 	- `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`FOSS`</sup>
 	- `MDY` [Table Habit](https://github.com/FriesI23/mhabit) <sup>`FOSS`</sup>
 	- `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) <sup>`FOSS`</sup>
@@ -1004,7 +1001,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
 	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) <sup>`💰`</sup>
 	- `MDY` [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
-	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons/releases) <sup>`FOSS`</sup> 
+	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) <sup>`FOSS`</sup> 
 	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
 	- `MDY` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup>
  	- `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup>
@@ -1015,21 +1012,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`💰`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
-	- **Miscellaneous**
-		- `MDY` [Iconeration](https://codeberg.org/kaanelloed/Iconeration) <sup>`FOSS`</sup>
-		- `MDY` [Alluring Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.alluring_Iconpack)
-		- `MDY` [Glossy Blue Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueIcons)
-		- `MDY` [Wooden Icons Pro](https://play.google.com/store/apps/details?id=com.arjunarora.woodenIcons)
-		- `MDY` [Royale Anna Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueIcons)
-		- `MDY` [LuX Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.lux.free.Iconpack)
-		- `MDY` [Nexa Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.square.nexa.Iconpack)
-		- `MDY` [ColorOS 13 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.coloros)
-		- `MDY` [OxygenOS 13 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.oxygenos)
-		- `MDY` [XOS 13 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.xos)
-		- `MDY` [Realme 3.0 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.realmeui)
-		- `MDY` [HiOS 13 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.hios)
-		- `MDY` [iOS 16 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.ios)
-		- `MDY` [MIUI 13 Icon pack](https://play.google.com/store/apps/details?id=com.akbon.miui)
 - **Wallpaper**
 	- `MDY` [Peristyle](https://github.com/Hamza417/Peristyle) <sup>`FOSS`</sup>
 	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
@@ -1501,7 +1483,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`FOSS`</sup>
 - `MDY` [Coffee](https://github.com/mueller-ma/Coffee) <sup>`FOSS`</sup>
 - `MDY` [Gloom - GitHub](https://github.com/MateriiApps/Gloom) <sup>`FOSS`</sup>
-- `MDY` [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases) <sup>`FOSS`</sup>
+- `MDY` [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs) <sup>`FOSS`</sup>
 - `MDY` [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) <sup>`FOSS`</sup> 
 - `MDY` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`FOSS`</sup>
 - `MDY` [openHAB](https://github.com/openhab/openhab-android) <sup>`FOSS`</sup>
