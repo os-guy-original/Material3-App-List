@@ -409,7 +409,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Daily You](https://github.com/Demizo/Daily_You) <sup>`FOSS`</sup>
 	- `MDY` [Journal Pro](https://play.google.com/store/apps/details?id=com.alif.diary)
 	- `MDY` [Daybook](https://play.google.com/store/apps/details?id=com.bigheadtechies.diary)
-	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 	- `MD` [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 	- `MD` [OneShot](https://github.com/ptrLx/OneShot) <sup>`FOSS`</sup>
 	- `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise)
@@ -885,6 +884,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Workout Tracker**
 	- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 	- `MDY` [Workout Tracker & Gym Plan Log](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
+	- `MDY` [Kenko](https://github.com/Iamlooker/Kenko)  <sup>`FOSS`</sup>
 	- `MD` [WGER Workout Manager](https://github.com/wger-project/flutter) <sup>`FOSS`</sup>
 	- `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
 - **Screen Time**
