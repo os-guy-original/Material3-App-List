@@ -265,7 +265,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`FOSS`</sup>
 - `MY` [VK Equals](https://t.me/vkequals)
-- `MY` [ctVK](https://t.me/ctwVK)
  #### <img src="https://i.ibb.co/fYKHvgF/icons8-pixiv-240.png" alt="pixiv" width="21" height="21" /> **Pixiv**
 - `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) <sup>`FOSS`</sup>
 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup> `🪦` </sup>
