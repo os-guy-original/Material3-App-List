@@ -155,7 +155,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MDY` [DailyAL](https://github.com/JICA98/DailyAL)  <sup>`FOSS`</sup>
 - `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB)  <sup>`FOSS`</sup>
-- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bardy)
+- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 - `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - `MDY` [eXch](https://github.com/pitonite/exch_cx)  <sup>`FOSS`</sup>
 - `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
@@ -201,8 +201,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/) <sup>`🪦`</sup>
 - `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) <sup>`🪦`</sup>
 - `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) <sup>`🪦`</sup>
-- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) <sup>`🪦`</sup>
+- `MDY` [Boost for Reddit](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/) <sup>`🪦`</sup>
 - `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
 - `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`🪦`</sup>
 #### <img src="https://i.ibb.co/QD5PLy9/twitter-x-logo-black-round-20851.png" alt="twitter" width="21" height="21" /> **X (Twitter)**
@@ -1565,7 +1564,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
-- `MY` [Vanced MicroG](https://github.com/cuynu/VancedMicroG) <sup>`FOSS`</sup> <sup>🪦</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
 - `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
 - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💰`</sup>
