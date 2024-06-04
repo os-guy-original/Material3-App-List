@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Material You Apps List 🎨</h1>
 
 <p align="center">
@@ -200,6 +199,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup>
 - `MDY` [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
+- `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
