@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
 - `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
 - `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
 - `MD` [FitBook](https://github.com/brandonp2412/FitBook)  <sup>`FOSS`</sup>
@@ -174,7 +175,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [CryptoTracker](https://github.com/judemont/CryptoTracker)  <sup>`FOSS`</sup>
 - `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow)  <sup>`FOSS`</sup>
 - `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)  <sup>`FOSS`</sup>
-- `MDY` [MedTimer](https://github.com/Futsch1/medTimer)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1481,6 +1481,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Racó](https://github.com/hegocre/RacoAndroid) <sup>`FOSS`</sup>
 - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
 - `MDY` [Metronome](https://github.com/Kr0oked/Metronome) <sup>`FOSS`</sup>
+- `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
 - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
 - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
 - `MDY` [Jetisteam](https://github.com/iTaysonLab/jetisteam) <sup>`FOSS`</sup>
