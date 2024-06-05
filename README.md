@@ -973,7 +973,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
 - `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
 - `MD` [Cross AI](https://play.google.com/store/apps/details?id=com.sapiens.assistant.input)
-- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bardy)
+- `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1101,7 +1101,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
 - `MDY` [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - `MDY` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>`FOSS`</sup>
-- `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`FOSS`</sup>
+- `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [NumberHub](https://github.com/Myzel394/NumberHub) <sup>`FOSS`</sup>
 - `MDY` [Currencies](https://github.com/sal0max/currencies) <sup>`FOSS`</sup>
 - `MDY` [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways)
 - `MDY` [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
@@ -1226,7 +1227,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`FOSS`</sup>
 - `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) <sup>`FOSS`</sup>
 - `MD` [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
-- `MY` [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1275,7 +1275,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`FOSS`</sup> 
 	- `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`FOSS`</sup>
 	- `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) <sup>`FOSS`</sup> <sup>🪦</sup>
-	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup>
+	- `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`FOSS`</sup> <sup>`🪦`</sup>
  		- `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`FOSS`</sup>
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
@@ -1325,7 +1325,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) 
 - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`FOSS`</sup>
 - `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) <sup>`FOSS`</sup>
-- `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
+- `MDY` [Device Info](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
 - `MDY` [Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
@@ -1574,7 +1574,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [CodeAssist](https://github.com/Deenu488/CodeAssist-Unofficial) <sup>`FOSS`</sup>
 - `MD` [reciper](https://github.com/judemont/reciper) <sup>`FOSS`</sup>
 - `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
-- `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
+- `MY` [ComboSkin for 4PDA](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`FOSS`</sup>
 - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
 - `MY` [DPITunnel](https://github.com/nomoresat/DPITunnel-android) <sup>`FOSS`</sup>
 - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💰`</sup>
