@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup>
 - `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
 - `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
 - `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 - `MD` [CryptoTracker](https://github.com/judemont/CryptoTracker)  <sup>`FOSS`</sup>
 - `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow)  <sup>`FOSS`</sup>
-- `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
