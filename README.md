@@ -520,6 +520,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 - `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup>
+- `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
 - `MD` [Tokei](https://github.com/Sovan22/Tokeii) <sup>`FOSS`</sup>
 - `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
