@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MDY` [Linkora](https://github.com/sakethpathike/Linkora)  <sup>`FOSS`</sup>
 - `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup>
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [eXch](https://github.com/pitonite/exch_cx)  <sup>`FOSS`</sup>
 - `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
 - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract)  <sup>`FOSS`</sup>
-- `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1051,7 +1051,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar)
 	- `MDY` [MotoWidget](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 	- `MDY` [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt)
-	- `MDY` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept&pli=1) <sup>`💰`</sup>
+	- `MDY` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💰`</sup>
 	- `MDY` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💰`</sup>
 	- `MDY` [Android 13 KWGT](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💰`</sup>
 	- `MDY` [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💰`</sup>
@@ -1065,6 +1065,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`FOSS`</sup>
 	- `MDY` [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget)
 	- `MDY` [Material Photo Widget](https://github.com/fibelatti/photo-widget) <sup>`FOSS`</sup>
+	- `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 	- `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
 - **Dynamic Island**
 	- `MDY` [MaterialYou Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) <sup>`FOSS`</sup>  <sup>`🪦`</sup>
@@ -1378,7 +1379,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
 	- `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
 	- `MDY` [Confidant](https://github.com/YangDai-Github/Encryptor-Android) <sup>`FOSS`</sup>
-	- `MD` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) <sup>`FOSS`</sup>
+	- `MDY` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) <sup>`FOSS`</sup>
 	- `MD` [File Vault](https://play.google.com/store/apps/details?id=com.alif.vault.file)
 - **Email Forwarding**
 	- `MDY` [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) <sup>`FOSS`</sup>
