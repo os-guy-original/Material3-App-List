@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [WallFlow](https://github.com/ammargitham/WallFlow/)  <sup>`FOSS`</sup>
 - `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
 - `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 - `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - `MDY` [eXch](https://github.com/pitonite/exch_cx)  <sup>`FOSS`</sup>
-- `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1036,6 +1036,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Wallpapers Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos)
 	- `MDY` [Wallman](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
 	- `MDY` [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper)
+	- `MDY` [WallFlow](https://github.com/ammargitham/WallFlow/)  <sup>`FOSS`</sup>
 	- `MD` [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers)
 	- `MY` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`FOSS`</sup>
 - **Widgets/Shortcuts**
