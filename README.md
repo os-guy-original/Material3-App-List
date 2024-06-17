@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow/)  <sup>`FOSS`</sup>
+- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
 - `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MDY` [Linkora](https://github.com/sakethpathike/Linkora)  <sup>`FOSS`</sup>
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 - `MD` [Notify](https://github.com/aritra-tech/Notify)  <sup>`FOSS`</sup>
 - `MDY` [eXch](https://github.com/pitonite/exch_cx)  <sup>`FOSS`</sup>
-- `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -231,10 +231,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [OpenCord](https://github.com/topminipie/OpenCord) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`🪦`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)`
+- `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🪦`</sup>  <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme)`</sup>
 	- `MY` [Revenge](https://github.com/revenge-mod/Revenge) <sup>`FOSS`</sup> <sup>`🪦`</sup> 
 	- `MY` [Pyoncord](https://github.com/pyoncord/Pyoncord) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/3R120GH/instagram.png" alt="instagram" width="21" height="21" /> **Instagram**
@@ -645,6 +644,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
 	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`🪦`</sup> 
 	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`💰`</sup>
+	- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
  	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
 - **Miscellaneous**
 	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup>
@@ -1445,7 +1445,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 #### 🕹️ Device Automation
-- `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
+- `MDY` [Klick'r](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
 - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
 - `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup>
 - `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
