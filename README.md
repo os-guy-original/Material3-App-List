@@ -192,7 +192,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu)
 - `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup>
 - `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`FOSS`</sup>
-- `MDY` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app)<sup>`FOSS`</sup>
+- `MDY` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app)
 - `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 - `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 - `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
@@ -1330,6 +1330,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Native Tools](https://github.com/hushenghao/NativeTools) <sup>`FOSS`</sup>
 - `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
+- `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`FOSS`</sup>
 - `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) <sup>`FOSS`</sup>
 - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
 - `MD` [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6)
