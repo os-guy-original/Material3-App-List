@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup>
 - `MD` [Bitwarden Beta](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden.beta) <sup>`FOSS`</sup>
 - `MDY` [GlassDown](https://github.com/Sinneida/glassdown) <sup>`FOSS`</sup>
 - `MDY` [Dantotsu](https://github.com/rebelonion/Dantotsu) <sup>`FOSS`</sup>
@@ -261,7 +262,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
 - `MD` [Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
 #### <img src="https://i.ibb.co/HH6rD96/whatsapp-logo-4456.png" alt="whatsapp" width="21" height="21"/> **Whatsapp**
-- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+- `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) <sup>`⚠️Requires Additional Setup:`[`#1`](https://t.me/MaterialYouApps/217)`</sup>
 - `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 - **Miscellaneous**
 	- `MDY` [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
@@ -1286,6 +1287,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) <sup>`FOSS`</sup>
  	- `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) <sup>`FOSS`</sup>
  	- `MDY` [GlassDown](https://github.com/Sinneida/glassdown) <sup>`FOSS`</sup>
+  	- `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
