@@ -764,7 +764,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🖼️ Gallery
 - `MDY` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) 
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup> <sup>`MOD`</sup>
-- `MDY` [miniGallery](https://github.com/kabirnayeem99/miniGallery) <sup>`FOSS`</sup>
 - `MDY` [Fossify Gallery](https://github.com/FossifyOrg/Gallery) <sup>`FOSS`</sup>
 - `MDY` [MotoGallery](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 - `MDY` [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) <sup>`FOSS`</sup>
