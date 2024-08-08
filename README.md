@@ -296,7 +296,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup>
-- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
+- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup> <sup> `🪦` </sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
 - `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
@@ -307,7 +307,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 📖 Readers
 - **Manga/Novel/E-book Reader**
-	- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Tachiyomi](https://tachiyomi.org/news/2024-01-13-goodbye) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 		- `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 		- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup> <sup>`FORK`</sup>
