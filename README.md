@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Viola Browser](https://gitlab.com/TipzTeam/viola) <sup>`FOSS`</sup>
 - `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup>
 - `MD` [Bitwarden Beta](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden.beta) <sup>`FOSS`</sup>
 - `MDY` [GlassDown](https://github.com/Sinneida/glassdown) <sup>`FOSS`</sup>
@@ -175,7 +176,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 - `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) <sup>`FOSS`</sup>
 - `MDY` [DailyAL](https://github.com/JICA98/DailyAL)  <sup>`FOSS`</sup>
-- `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -599,6 +599,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 	- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
 	- `MDY` [Styx](https://github.com/jamal2362/Styx) <sup>`FOSS`</sup>
+ 	- `MDY` [Viola Browser](https://gitlab.com/TipzTeam/viola) <sup>`FOSS`</sup>
 - **Bookmark Managers/Read it later**
 	- `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)  <sup>`FOSS`</sup>
 	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
