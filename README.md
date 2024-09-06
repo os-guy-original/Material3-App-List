@@ -149,6 +149,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Komikku](https://github.com/komikku-app/komikku) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [AniVu](https://github.com/SkyD666/AniVu) <sup>`FOSS`</sup>
 - `MDY` [Calculator You](https://github.com/forzzzzz/Calculator-You) <sup>`FOSS`</sup>
 - `MY` [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla) <sup>`FOSS`</sup>
 - `MDY` [Viola Browser](https://gitlab.com/TipzTeam/viola) <sup>`FOSS`</sup>
@@ -175,7 +177,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
 - `MD` [K-9 Mail](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 - `MD` [frigoligo](https://github.com/casimir/frigoligo)  <sup>`FOSS`</sup>
-- `MDY` [File Navigator](https://github.com/w2sv/FileNavigator)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1094,7 +1095,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Torrenting**
 	- `MDY` [Flow - Rutracker client](https://play.google.com/store/apps/details?id=me.rutrackersearch.app)
 	- `MDY` [Tremotesf](https://github.com/equeim/tremotesf-android) <sup>`FOSS`</sup>
-	- `MDY` [Flud+](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid)<sup>`💰`</sup>
+	- `MDY` [Flud+](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid) <sup>`💰`</sup>
 	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
 	- `MD` [Nyanpasu](https://github.com/Lucchetto/Nyanpasu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
