@@ -751,7 +751,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  **Emulators**
 	- `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`FOSS`</sup>
 	- `MDY` [Rekado](https://github.com/MenosGrante/Rekado) <sup>`FOSS`</sup>
-	- `MDY` [Joiplay](https://joiplay.org/)
+	- `MDY` [Joiplay](https://joiplay.net/)
 	- `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) <sup>`FOSS`</sup>
 	- `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) <sup>`FOSS`</sup>
 - **Tools**
