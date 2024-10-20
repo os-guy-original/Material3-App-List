@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
 - `MDY` [qBitController](https://github.com/Bartuzen/qBitController) <sup>`FOSS`</sup>
 - `MDY` [Komikku](https://github.com/komikku-app/komikku) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [AniVu](https://github.com/SkyD666/AniVu) <sup>`FOSS`</sup>
@@ -1491,6 +1492,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔧 Miscellaneous Apps
+- `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
 - `MDY` [XtMapper](https://github.com/Xtr126/XtMapper) <sup>`FOSS`</sup>
 - `MDY` [Waveteam Android Bomber](https://t.me/androidsmsbomber)
 - `MDY` [Racó](https://github.com/hegocre/RacoAndroid) <sup>`FOSS`</sup>
