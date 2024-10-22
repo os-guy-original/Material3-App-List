@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) <sup>`FOSS`</sup>
 - `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup>
 - `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
@@ -505,6 +506,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 #### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
+	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MY` [ViTune](https://github.com/25huizengek1/ViTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
