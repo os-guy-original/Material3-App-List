@@ -149,9 +149,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+
 - `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) <sup>`FOSS`</sup>
 - `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup>
+- `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) <sup>`FOSS`</sup>
 - `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
 - `MDY` [qBitController](https://github.com/Bartuzen/qBitController) <sup>`FOSS`</sup>
 - `MDY` [Komikku](https://github.com/komikku-app/komikku) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -179,8 +181,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
 - `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
 - `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
-- `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
-- `MD` [K-9 Mail](https://github.com/thunderbird/thunderbird-android)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -360,6 +360,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Hyperion Launcher](https://play.google.com/store/apps/details?id=projekt.launcher)
 - `MDY` [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher)
 - `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
+- `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) <sup>`FOSS`</sup>
 - `MDY` [Nova Launcher 8](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
 - `MY` [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
 - `MY` [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher)
