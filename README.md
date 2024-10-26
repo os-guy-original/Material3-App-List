@@ -482,7 +482,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
 - `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup>
 - `MDY` [Fossify Player](https://github.com/FossifyOrg/Music-Player) <sup>`FOSS`</sup>
-- `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) <sup>`FOSS`</sup>
+- `MDY` [Musicmax](https://github.com/androiddevnotesforks/Musicmax) <sup>`FOSS`</sup>
 - `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla) <sup>`🪦`</sup>
 - `MDY` [Vibe You](https://github.com/you-apps/VibeYou) <sup>`FOSS`</sup>
 - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`FOSS`</sup> <sup>`🪦`</sup>
