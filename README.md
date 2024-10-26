@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
 - `MDY` [Fossify Camera](https://github.com/FossifyOrg/Camera) <sup>`FOSS`</sup>
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MY` [JsonList](https://github.com/SlaVcE14/JsonList) <sup>`FOSS`</sup>
@@ -343,7 +344,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`FOSS`</sup>
 	- `MDY` [Twine](https://github.com/msasikanth/twine/) <sup>`FOSS`</sup>
 	- `MDY` [AniVu](https://github.com/SkyD666/AniVu) <sup>`FOSS`</sup>
- 	- `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
+	- `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
+	- `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 	- `MD` [Global News App](https://github.com/v1tzor/GlobalNewsApp) <sup>`FOSS`</sup>
 	- `MD` [Raven](https://github.com/ksh-b/raven) <sup>`FOSS`</sup>
 	- `MD` [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
