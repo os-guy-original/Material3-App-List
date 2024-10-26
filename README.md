@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
 - `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
 - `MDY` [Fossify Camera](https://github.com/FossifyOrg/Camera) <sup>`FOSS`</sup>
@@ -403,6 +404,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Another Notes](https://github.com/maltaisn/another-notes-app) <sup>`FOSS`</sup>
 	- `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) <sup>`FOSS`</sup>
 	- `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) <sup>`FOSS`</sup>
+		- `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager)
 	- `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) <sup>`FOSS`</sup>
 	- `MDY` [Noterly](https://github.com/tomc128/noterly) <sup>`FOSS`</sup>
