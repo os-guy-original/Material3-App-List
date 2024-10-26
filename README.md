@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MY` [JsonList](https://github.com/SlaVcE14/JsonList) <sup>`FOSS`</sup>
 - `MDY` [Geto](https://github.com/JackEblan/Geto) <sup>`FOSS`</sup>
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
@@ -494,6 +495,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
 - `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) <sup>`FOSS`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
+- `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [SoundCrowd](https://github.com/soundcrowd/soundcrowd) <sup>`FOSS`</sup>
