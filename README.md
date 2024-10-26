@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
 - `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
 - `MDY` [Fossify Camera](https://github.com/FossifyOrg/Camera) <sup>`FOSS`</sup>
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
@@ -331,6 +332,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
 	- `MDY` [Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
+	- `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
 	- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
 	- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
 	- `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
