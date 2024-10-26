@@ -459,7 +459,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Writer Pro](https://play.google.com/store/apps/details?id=com.alif.writer)
 - `MDY` [CodeFusion](https://play.google.com/store/apps/details?id=com.alif.editor.code)
 - `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
-- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup>
+- `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`FOSS`</sup> <sup>🪦</sup>
 - `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) <sup>`FOSS`</sup>
 - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) <sup>`FOSS`</sup>
 - `MDY` [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) <sup>`FOSS`</sup>
