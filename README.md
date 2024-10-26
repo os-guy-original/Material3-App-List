@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 - `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) <sup>`FOSS`</sup>
 - `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup>
@@ -252,6 +253,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
+- `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
