@@ -150,6 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
@@ -1282,6 +1283,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
 - `MDY` [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) <sup>`FOSS`</sup>
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 - `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
 - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup>
