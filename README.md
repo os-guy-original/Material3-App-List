@@ -149,7 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
-
+- `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sub>`FOSS`</sup>
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -174,23 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) <sup>`FOSS`</sup>
 - `MD` [Bitwarden Beta](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden.beta) <sup>`FOSS`</sup>
 - `MDY` [GlassDown](https://github.com/Sinneida/glassdown) <sup>`FOSS`</sup>
-- `MDY` [Dantotsu](https://github.com/rebelonion/Dantotsu) <sup>`FOSS`</sup>
-- `MDY` [Awery](https://github.com/MrBoomDeveloper/Awery) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [WallFlow](https://github.com/ammargitham/WallFlow/)  <sup>`FOSS`</sup>
-- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
-- `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
-- `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
-- `MDY` [Linkora](https://github.com/sakethpathike/Linkora)  <sup>`FOSS`</sup>
-- `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup>
-- `MDY` [Tack](https://github.com/patzly/tack-android)  <sup>`FOSS`</sup>
-- `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
-- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
-- `MD` [FitBook](https://github.com/brandonp2412/FitBook)  <sup>`FOSS`</sup>
-- `MDY` [APatch](https://github.com/bmax121/APatch) <sup>`FOSS`</sup>
-- `MDY` [SoundTap](https://github.com/Angel-Studio/SoundTap) <sup>`FOSS`</sup>
-- `MDY` [Genius Scan](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)
-- `MD` [Massive](https://gitea.presley.nz/brandon.presley/Massive)  <sup>`FOSS`</sup>
-- `MDY` [Flexify](https://github.com/brandonp2412/Flexify)  <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
