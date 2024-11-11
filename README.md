@@ -151,7 +151,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 *Last **25 apps** that were recently added to list!*
 - `MD` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
 - `MDY` [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android)
-- `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sub>`FOSS`</sup>
+- `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup>
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -498,7 +498,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### ▶️ Video Players
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup>
-- `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sub>`FOSS`</sup>
+- `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup>
 ####  <img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /> Youtube Clients
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`FOSS`</sup>
 - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
