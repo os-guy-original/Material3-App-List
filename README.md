@@ -1425,7 +1425,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
 	- `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`FOSS`</sup>
 	- `MDY` [Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
-	- `MDY` [Android Faker](https://github.com/Android1500/AndroidFaker) <sup>`FOSS`</sup>
+	- `MDY` [Android Faker](https://github.com/Android1500/AndroidFaker)
 	- `MDY` [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian) <sup>`FOSS`</sup>
 	- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`FOSS`</sup>
 	- `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`FOSS`</sup>
