@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [MMRL](https://github.com/DerGoogler/MMRL) <sup>`FOSS`</sup>
 - `MDY` [Karbon](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
 - `MDY` [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
@@ -589,7 +590,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) <sup>`FOSS`</sup>
 - `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
 #### 📖 Audiobook
-- `MDY` [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user)
 - `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -974,9 +974,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🤖 Artificial Intelligence (AI)
 - `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
-- `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
+- `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`FOSS`</sup>
-- `MDY` [Copilot OCR](https://github.com/YangDai-Github/CopilotOCR-Android)
 - `MDY` [Lumi AI](https://github.com/iamlooper/Lumi-AI)
 - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`FOSS`</sup>
 - `MDY` [Summary You](https://github.com/talosross/SummaryYou) <sup>`FOSS`</sup>
@@ -984,7 +983,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`FOSS`</sup>
 - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
 - `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
-- `MD` [Cross AI](https://play.google.com/store/apps/details?id=com.sapiens.assistant.input)
 - `MD` [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
