@@ -155,7 +155,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [FeedFlow](https://github.com/prof18/feed-flow) <sup>`FOSS`</sup>
 - `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) <sup>`FOSS`</sup>
-- `MD` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
+- `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
 - `MDY` [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android)
 - `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) <sup>`FOSS`</sup>
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -245,11 +245,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
+- `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
 - `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-- `MY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
 - `MY` [Nullgram](https://github.com/qwq233/Nullgram) <sup>`FOSS`</sup>
 - `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/jLfysWm/Simpleicons-Team-Simple-Lemmy-512.png" alt="lemmy" width="21" height="21"/> **Lemmy**
@@ -915,7 +915,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Noice](https://github.com/trynoice/android-app) <sup>`FOSS`</sup>
 	- `MDY` [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata)
 	- `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
-	- `MD` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
+	- `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
 	- `MD` [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind)
 	- `MD` [Baby on Board (aka. BoB)](https://gitlab.com/LaBaude32/bob) <sup>`FOSS`</sup>
 	- `MD` [Forest](https://github.com/bk20dev/forest) <sup>`FOSS`</sup>
