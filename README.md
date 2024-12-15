@@ -705,6 +705,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Catima](https://github.com/CatimaLoyalty/Android) <sup>`FOSS`</sup>
 		- `MDY` [zCard (fork)](https://github.com/ziadOUA/zCard) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
+	- `MDY` [ReSubs](https://play.google.com/store/apps/details?id=app.resubs)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
