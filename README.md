@@ -149,6 +149,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
+- `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) <sup>`FOSS`</sup>
+- `MDY` [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) <sup>`FOSS`</sup>
+- `MDY` [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) <sup>`FOSS`</sup>
 - `MDY` [ReSubs](https://play.google.com/store/apps/details?id=app.resubs)
 - `MDY` [MMRL](https://github.com/DerGoogler/MMRL) <sup>`FOSS`</sup>
 - `MDY` [Karbon](https://github.com/Xed-Editor/Xed-Editor) <sup>`FOSS`</sup>
@@ -170,12 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Geto](https://github.com/JackEblan/Geto) <sup>`FOSS`</sup>
 - `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 - `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) <sup>`FOSS`</sup>
-- `MDY` [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity) <sup>`FOSS`</sup>
-- `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) <sup>`FOSS`</sup>
-- `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) <sup>`FOSS`</sup>
-- `MDY` [qBitController](https://github.com/Bartuzen/qBitController) <sup>`FOSS`</sup>
-- `MDY` [Komikku](https://github.com/komikku-app/komikku) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -228,6 +226,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
 - `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
+- `MDY` [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android) <sup>`FOSS`</sup>
 - `MD` [Pachli](https://github.com/pachli/pachli-android) <sup>`FOSS`</sup>
 - `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
 #### <img src="https://i.ibb.co/18hNFS2/discord-8234.png" alt="discord" width="21" height="21"/> **Discord**
@@ -243,7 +242,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [MyInsta](https://t.me/instasmashrepo)
 #### <img src="https://i.ibb.co/DMsDsz2/telegram-logo-5941.png" alt="telegram" width="21" height="21" /> **Telegram**
 - `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) <sup>`🪦`</sup>
-- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
+- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram)
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
 - `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) <sup>`FOSS`</sup>
 - `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) <sup>`FOSS`</sup>
@@ -928,6 +927,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🛒 Shopping
 - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`FOSS`</sup>
+- `MDY` [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) <sup>`FOSS`</sup>
 - `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 - `MD` [Shopin](https://github.com/erdemklync/Shopin) <sup>`FOSS`</sup>
 
@@ -1021,6 +1021,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
 	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup>
 	- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
+	- `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) <sup>`FOSS`</sup>
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`💰`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
@@ -1567,6 +1568,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Oshi Uploader](https://codeberg.org/quecomet/oshi)  <sup>`FOSS`</sup>
 - `MDY` [Omni](https://github.com/AkaneFoundation/Omni) <sup>`FOSS`</sup>
 - `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) <sup>`FOSS`</sup>
+- `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
 - `MD` [Filester](https://github.com/roozbehzarei/filester) <sup>`FOSS`</sup>
 - `MD` [Split Screen](https://play.google.com/store/apps/details?id=any.splitscreen)
 - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`FOSS`</sup>
