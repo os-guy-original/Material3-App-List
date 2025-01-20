@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
 - `MDY` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 - `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
 - `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) <sup>`FOSS`</sup>
@@ -173,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MY` [JsonList](https://github.com/SlaVcE14/JsonList) <sup>`FOSS`</sup>
 - `MDY` [Geto](https://github.com/JackEblan/Geto) <sup>`FOSS`</sup>
-- `MDY` [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -733,6 +733,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎮 Games & Emulators
 - **Games**
+   - `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
 	- `MDY` [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) <sup>`FOSS`</sup>
 	- `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
 	- `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`FOSS`</sup>
