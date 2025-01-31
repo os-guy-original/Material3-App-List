@@ -149,6 +149,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
 - `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
 - `MDY` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
 - `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
@@ -492,6 +494,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`FOSS`</sup>
 - `MDY` [CuteMusic](https://github.com/sosauce/CuteMusic) <sup>`FOSS`</sup>
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
+- `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
 - `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [Yandex Music Plus Mod](https://t.me/sirenesteam/746) <sup>`MOD`</sup>
 - `MY` [SoundCrowd](https://github.com/soundcrowd/soundcrowd) <sup>`FOSS`</sup>
@@ -512,6 +515,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
+	- `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MY` [RiMusic](https://github.com/fast4x/RiMusic) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MY` [ViTune](https://github.com/25huizengek1/ViTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -535,9 +539,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Awery](https://github.com/MrBoomDeveloper/Awery) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup>
+- `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
-- `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup>
+- `MDY` [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
 - `MD` [Tokei](https://github.com/Sovan22/Tokeii) <sup>`FOSS`</sup>
