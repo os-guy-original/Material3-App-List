@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PodAura](https://github.com/SkyD666/PodAura) <sup>`FOSS`</sup>
 - `MDY` [Youamp](https://github.com/siper/Youamp) <sup>`FOSS`</sup>
@@ -175,7 +176,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
-- `MDY` [Capy Reader](https://github.com/jocmp/capyreader) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1393,6 +1393,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) <sup>`FOSS`</sup>
 	- `MD` [Password Generator](https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator)
 - **Firewall/Ad-blocker**
+	- `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 	- `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
 	- `MDY` [AdClose](https://github.com/Xposed-Modules-Repo/com.close.hook.ads) <sup>`FOSS`</sup>
 	- `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
