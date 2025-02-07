@@ -375,7 +375,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>
 	- `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
 	- `MDY` [Popup Launcher](https://play.google.com/store/apps/details?id=com.ss.popuplauncher)
-	- `MD`  [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
+	- `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
 
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
