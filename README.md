@@ -1625,4 +1625,3 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
-orenz/doctoc)
