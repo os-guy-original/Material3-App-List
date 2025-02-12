@@ -748,6 +748,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`FOSS`</sup>
 	- `MDY` [Gauguin](https://github.com/meikpiep/gauguin) <sup>`FOSS`</sup>
 	- `MDY` [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) <sup>`FOSS`</sup>
+    - `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 	- `MDY` [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`FOSS`</sup>
 	- `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 	- `MDY` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku) <sup>`FOSS`</sup>
