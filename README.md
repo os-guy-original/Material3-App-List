@@ -149,6 +149,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Dooz](https://github.com/yamin8000/Dooz) <sup>`FOSS`</sup>
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [PodAura](https://github.com/SkyD666/PodAura) <sup>`FOSS`</sup>
@@ -175,7 +176,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer-Compose) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
 - `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) <sup>`FOSS`</sup> <sup>`FORK`</sup>
-- `MDY` [Book's Story](https://github.com/Acclorite/book-story) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1625,3 +1625,4 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🔧 Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
+orenz/doctoc)
