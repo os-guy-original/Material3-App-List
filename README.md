@@ -515,7 +515,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Materialious](https://github.com/Materialious/Materialious)  <sup>`FOSS`</sup>
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 #### <img src="https://i.ibb.co/56RHjNp/unnamed.png" alt="unnamed" width="21" height="21" /> Youtube Music Clients
-https://github.com/Arturo254/OpenTune
 - `MDY` [OpenTune](https://github.com/Arturo254/OpenTune) <sup>`FOSS`</sup>
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
 	- `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) <sup>`FOSS`</sup> <sup>`FORK`</sup>
