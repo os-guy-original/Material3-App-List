@@ -548,7 +548,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) <sup>`FOSS`</sup>
 - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`FOSS`</sup>
 - `MD` [Tokei](https://github.com/Sovan22/Tokeii) <sup>`FOSS`</sup>
-- `MD` [DangoPlayer](https://github.com/bruno-chanrio/DangoPlayer)
+- `MD` [DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series) <sup>`FOSS`</sup>
 - `MD` [Drive Stream](https://github.com/itszechs/DriveStream) <sup>`FOSS`</sup>
 - `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
