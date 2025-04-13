@@ -174,7 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Phocid](https://github.com/tjysunset/phocid) <sup>`FOSS`</sup>
 - `MDY` [FeedFlow](https://github.com/prof18/feed-flow) <sup>`FOSS`</sup>
 - `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) <sup>`FOSS`</sup>
-- `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
