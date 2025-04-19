@@ -484,8 +484,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🎬 Media
-#### (Emoji) Religion
-- `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 #### 🎵 Music Players
 - `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup>
 	- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
@@ -619,6 +617,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 📖 Audiobook
 - `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
+
+#### ☮️ Religion
+- `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
