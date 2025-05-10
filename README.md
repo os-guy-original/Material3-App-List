@@ -152,7 +152,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
 - `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose?rgh-link-date=2025-05-09T12%3A42%3A25.000Z)
-- `MD` [NETI Client](https://github.com/dertefter/NETIClient)
+- `MDY` [NETI Client](https://github.com/dertefter/NETIClient)
 - `MDY` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) <sup>`FOSS`</sup>
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <sup>`FOSS`</sup>
@@ -1214,7 +1214,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) <sup>`FOSS`</sup>
 - `MD` [dymka](https://github.com/nexy791/dymka) <sup>`FOSS`</sup>
 - `MD` [Google Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural)
-- `MD` [NETI Client](https://github.com/dertefter/NETIClient)
+- `MDY` [NETI Client](https://github.com/dertefter/NETIClient)
 - **Quotes**
 	- `MDY` [Literary Clock](https://github.com/AChep/literaryclock)  <sup>`FOSS`</sup>
 	- `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) <sup>`FOSS`</sup>
