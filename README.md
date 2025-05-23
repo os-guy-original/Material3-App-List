@@ -149,6 +149,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
+- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
+- `MDY` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 - `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
@@ -171,10 +174,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Popup Launcher](https://play.google.com/store/apps/details?id=com.ss.popuplauncher)
 - `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Lotus](https://github.com/dn0ne/lotus) <sup>`FOSS`</sup>
-- `MDY` [Lichess beta](https://github.com/lichess-org/mobile) <sup>`FOSS`</sup>
-- `MDY` [Diary](https://github.com/HotarunIchijou/Diary) <sup>`FOSS`</sup>
-- `MDY` [X Signer](https://github.com/yamenher/x-signer) <sup>`FOSS`</sup>
-- `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -487,6 +486,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎬 Media
 #### 🎵 Music Players
+- `MDY` [Groovy](https://play.google.com/store/apps/details?id=com.bitmavrick.groovy)
 - `MDY` [Booming Music](https://github.com/mardous/BoomingMusic) <sup>`FOSS`</sup>
 - `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup>
 	- `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
@@ -707,6 +707,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 	- `MD` [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user)
 - **Expense Managers**
+	- `MDY` [Everplan](https://play.google.com/store/apps/details?id=com.bitmavrick.everplan)
 	- `MDY` [1Money](https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq)
 	- `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) <sup>`FOSS`</sup>
 	- `MDY` [Paisa](https://github.com/h4h13/paisa-app)
@@ -1281,6 +1282,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔦 Flashlights
+- `MDY` [Lumolight](https://github.com/BitMavrick/Lumolight) <sup>`FOSS`</sup>
 - `MDY` [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`FOSS`</sup>
 - `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) <sup>`FOSS`</sup>
 - `MD` [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
