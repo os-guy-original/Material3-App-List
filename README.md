@@ -247,6 +247,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 - `MDY` [Driftly](https://github.com/DP-Hridayan/Driftly) <sup>`FOSS`</sup>
 - `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) <sup>`FOSS`</sup>
 - `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
@@ -1621,6 +1622,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🧱 Firewall/Ad-blocker
+- `MDY` [Athena](https://github.com/Kin69/Athena) <sup>`FOSS`</sup>
 - `MDY` [DNSNet](https://github.com/t895/DNSNet) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
 - `MDY` [AdClose](https://github.com/zjyzip/AdClose) <sup>`FOSS`</sup>
