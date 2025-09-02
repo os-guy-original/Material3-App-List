@@ -1,7 +1,7 @@
-<h1 align="center">🎨 Material 3 Apps List 🎨</h1>
+<h1 align="center">🎨 Material Design 3 Apps List 🎨</h1>
 
 <p align="center">
-  <i><b>Material Expressive</b> (Material Design 3) is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.</i>
+  <i><b>Material Design 3</b> is the latest version of Google’s open-source design system emphasizing personalization, adaptability, and responsiveness in user interface design, utilizing technology for new design opportunities. It covers updates in typography, color, icons, and more.</i>
 </p>
 
 <p align="center">
@@ -212,8 +212,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |:-:|-|:-:|:-:|
 |**`MD`**|Apps that follow Material Design 3.|✅|🚫|
 |**`MY`**|Apps that follow Dynamic color.|🚫|✅|
-|**`MDY`**|Apps that have both Material 3 and Dynamic color theming.|✅|✅|
-|**`MD3E`**|✨ Material You Expressive ✨|✅|✅|
+|**`MDY`**|Apps that have both Material Design 3 and Dynamic color theming.|✅|✅|
+|**`MD3E`**|✨ Material 3 Expressive ✨|✅|✅|
 
 - **Other Tags**
 
