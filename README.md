@@ -162,7 +162,8 @@
           <details>
             <summary>🍏 <a href="#-health--lifestyle">Health & Lifestyle</a></summary>
             <ul>
-              <li>🧘‍♂️ <a href="#-health--well-being">Health & Well-being</a></li>
+              <li>🧘‍♂️ <a href="#-health--well-being">Health-&-Well-being</a></li>
+			  <li>🍞 <a href="#-food">Food</a></li>
               <li>🛒 <a href="#-shopping">Shopping</a></li>
               <li>💸 <a href="#-economy">Economy</a></li>
               <li>🌦️ <a href="#-weather">Weather</a></li>
@@ -1446,6 +1447,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
+### 🍞 Food
+- **Recipe Managers**
+    - `MD3E` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
+
+<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
+---
 ### 🛒 Shopping
 - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`FOSS`</sup>
 - `MDY` [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) <sup>`FOSS`</sup>
@@ -1662,7 +1670,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🔧 Uncategorized Tools
 - `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) <sup>`FOSS`</sup>
-- `MD3E` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
 - `MDY` [GitNex](https://codeberg.org/gitnex/GitNex) <sup>`FOSS`</sup>
 - `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MDY` [DioHub - Dev](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
