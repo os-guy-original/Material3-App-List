@@ -233,6 +233,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Metrolist](https://github.com/mostafaalagamy/Metrolist?tab=readme-ov-file) <sup>`FOSS`</sup>
 - `MDY` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
 - `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
 - `MDY` [Immich](https://github.com/immich-app/immich) <sup>`FOSS`</sup>
@@ -257,7 +258,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
 - `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose?rgh-link-date=2025-05-09T12%3A42%3A25.000Z)
-- `MDY` [NETI Client](https://github.com/dertefter/NETIClient)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -680,6 +680,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🎶 Youtube Music Clients
+- `MDY` [Metrolist](https://github.com/mostafaalagamy/Metrolist?tab=readme-ov-file) <sup>`FOSS`</sup>
 - `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) <sup>`FOSS`</sup>
 - `MDY` [OpenTune](https://github.com/Arturo254/OpenTune) <sup>`FOSS`</sup>
 - `MDY` [InnerTune](https://github.com/z-huang/InnerTune) <sup>`FOSS`</sup>
