@@ -233,6 +233,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Super Video Downloader (AKA SuperX)](https://github.com/alexch33/super-video-downloader) <sup>`FOSS`</sup>
 - `MDY` [Metrolist](https://github.com/mostafaalagamy/Metrolist?tab=readme-ov-file) <sup>`FOSS`</sup>
 - `MDY` [Rhythm](https://github.com/cromaguy/Rhythm) <sup>`FOSS`</sup>
 - `MD3E` [PixelPlay](https://github.com/theovilardo/PixelPlay) <sup>`FOSS`</sup>
@@ -257,7 +258,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [DioHub - Dev](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
 - `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
-- `MDY` [GoodNotes](https://github.com/xephosbot/GoodNotesCompose?rgh-link-date=2025-05-09T12%3A42%3A25.000Z)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1260,6 +1260,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **YouTube**
 	- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup>
 	- `MDY` [YTDLnis](https://github.com/deniscerri/ytdlnis) <sup>`FOSS`</sup>
+- **Video**
+    - `MDY` [Super Video Downloader (AKA SuperX)](https://github.com/alexch33/super-video-downloader) <sup>`FOSS`</sup>
 - **Music**
 	- `MD3E` [EchoirX](https://github.com/imjyotiraditya/EchoirX) <sup>`FOSS`</sup>
 	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup>
