@@ -256,7 +256,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [LabNex](https://github.com/labnex/LabNex) <sup>`FOSS`</sup>
 - `MDY` [CoffeGram](https://github.com/phansier/Coffeegram) <sup>`FOSS`</sup>
 - `MDY` [DioHub - Dev](https://github.com/namanshergill/diohub) <sup>`FOSS`</sup>
-- `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
+- `MD3E` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -794,7 +794,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🖼️ Gallery & Tools
-- `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
+- `MD3E` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) <sup>`FOSS`</sup>
 - `MDY` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup> <sup>`MOD`</sup>
 - `MDY` [Fossify Gallery](https://github.com/FossifyOrg/Gallery) <sup>`FOSS`</sup>
